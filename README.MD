@@ -39,6 +39,8 @@ Teams were classified as *"offensive"* if their index score was above the 65th p
   - Offensive: **52%**
   - Non-offensive: **47.7%**
 
+### The difference lies in 4 matches !
+
 <img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/7fcff14e-eb1e-46b4-b37b-612469f77a45" />
 ---
 
