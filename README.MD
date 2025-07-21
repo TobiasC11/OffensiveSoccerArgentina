@@ -39,8 +39,7 @@ Teams were classified as *"offensive"* if their index score was above the 65th p
   - Offensive: **52%**
   - Non-offensive: **47.7%**
 
-<img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/df9d276b-5806-4dd6-b6d8-ee39da219e3f" />
-
+<img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/7fcff14e-eb1e-46b4-b37b-612469f77a45" />
 ---
 
 ### 🔵 Offensive Style
@@ -52,6 +51,8 @@ Teams were classified as *"offensive"* if their index score was above the 65th p
 - **Shot accuracy (SoT%)**:
   - Offensive: **31.8%**
   - Non-offensive: **30.5%**
+
+<img width="790" height="590" alt="Image" src="https://github.com/user-attachments/assets/898bd385-b66f-4103-bc10-fc28be6af515" />
 
 ---
 
