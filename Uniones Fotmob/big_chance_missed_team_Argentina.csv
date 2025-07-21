@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,big_chance_missed_team,39,28,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,2,teams,big_chance_missed_team,32,24,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,3,teams,big_chance_missed_team,30,17,Argentina Copa de la Liga,2024
+10090,10090,Instituto,4,teams,big_chance_missed_team,28,18,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,5,teams,big_chance_missed_team,26,24,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,6,teams,big_chance_missed_team,23,18,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,7,teams,big_chance_missed_team,23,17,Argentina Copa de la Liga,2024
+10082,10082,Lanus,8,teams,big_chance_missed_team,22,20,Argentina Copa de la Liga,2024
+10078,10078,Independiente,9,teams,big_chance_missed_team,22,14,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,10,teams,big_chance_missed_team,21,24,Argentina Copa de la Liga,2024
+10101,10101,Talleres,11,teams,big_chance_missed_team,21,24,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,12,teams,big_chance_missed_team,19,10,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,13,teams,big_chance_missed_team,17,20,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,14,teams,big_chance_missed_team,17,19,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,15,teams,big_chance_missed_team,17,13,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,16,teams,big_chance_missed_team,17,10,Argentina Copa de la Liga,2024
+10096,10096,Union,17,teams,big_chance_missed_team,16,16,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,18,teams,big_chance_missed_team,15,13,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,19,teams,big_chance_missed_team,15,8,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,20,teams,big_chance_missed_team,14,26,Argentina Copa de la Liga,2024
+10081,10081,Huracan,21,teams,big_chance_missed_team,14,12,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,22,teams,big_chance_missed_team,14,10,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,23,teams,big_chance_missed_team,14,10,Argentina Copa de la Liga,2024
+10087,10087,Banfield,24,teams,big_chance_missed_team,13,14,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,25,teams,big_chance_missed_team,10,18,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,big_chance_missed_team,10,7,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,27,teams,big_chance_missed_team,9,9,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,28,teams,big_chance_missed_team,7,8,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,big_chance_missed_team,22,26,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,2,teams,big_chance_missed_team,22,24,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,3,teams,big_chance_missed_team,21,15,Argentina Copa de la Liga,2023
+10078,10078,Independiente,4,teams,big_chance_missed_team,20,15,Argentina Copa de la Liga,2023
+10101,10101,Talleres,5,teams,big_chance_missed_team,20,15,Argentina Copa de la Liga,2023
+10082,10082,Lanus,6,teams,big_chance_missed_team,19,9,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,7,teams,big_chance_missed_team,18,20,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,8,teams,big_chance_missed_team,18,10,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,9,teams,big_chance_missed_team,17,14,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,10,teams,big_chance_missed_team,16,11,Argentina Copa de la Liga,2023
+10088,10088,Colon,11,teams,big_chance_missed_team,15,19,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,12,teams,big_chance_missed_team,15,17,Argentina Copa de la Liga,2023
+10096,10096,Union,13,teams,big_chance_missed_team,15,10,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,14,teams,big_chance_missed_team,15,9,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,15,teams,big_chance_missed_team,13,11,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,16,teams,big_chance_missed_team,13,11,Argentina Copa de la Liga,2023
+89396,89396,Tigre,17,teams,big_chance_missed_team,13,8,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,18,teams,big_chance_missed_team,12,19,Argentina Copa de la Liga,2023
+10090,10090,Instituto,19,teams,big_chance_missed_team,12,11,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,20,teams,big_chance_missed_team,12,8,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,21,teams,big_chance_missed_team,11,21,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,22,teams,big_chance_missed_team,11,17,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,23,teams,big_chance_missed_team,11,15,Argentina Copa de la Liga,2023
+10081,10081,Huracan,24,teams,big_chance_missed_team,10,20,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,25,teams,big_chance_missed_team,10,12,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,26,teams,big_chance_missed_team,9,14,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,27,teams,big_chance_missed_team,9,10,Argentina Copa de la Liga,2023
+10087,10087,Banfield,28,teams,big_chance_missed_team,8,11,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,big_chance_missed_team,26,32,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,2,teams,big_chance_missed_team,24,26,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,3,teams,big_chance_missed_team,24,21,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,4,teams,big_chance_missed_team,22,30,Argentina Copa de la Liga,2022
+89396,89396,Tigre,5,teams,big_chance_missed_team,22,20,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,6,teams,big_chance_missed_team,20,24,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,7,teams,big_chance_missed_team,20,23,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,8,teams,big_chance_missed_team,20,17,Argentina Copa de la Liga,2022
+10081,10081,Huracan,9,teams,big_chance_missed_team,20,17,Argentina Copa de la Liga,2022
+10087,10087,Banfield,10,teams,big_chance_missed_team,17,18,Argentina Copa de la Liga,2022
+10088,10088,Colon,11,teams,big_chance_missed_team,17,18,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,12,teams,big_chance_missed_team,16,34,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,13,teams,big_chance_missed_team,16,16,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,14,teams,big_chance_missed_team,16,15,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,15,teams,big_chance_missed_team,15,13,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,16,teams,big_chance_missed_team,14,20,Argentina Copa de la Liga,2022
+10078,10078,Independiente,17,teams,big_chance_missed_team,14,17,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,18,teams,big_chance_missed_team,14,10,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,19,teams,big_chance_missed_team,13,17,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,20,teams,big_chance_missed_team,12,17,Argentina Copa de la Liga,2022
+10082,10082,Lanus,21,teams,big_chance_missed_team,11,17,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,22,teams,big_chance_missed_team,10,24,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,23,teams,big_chance_missed_team,9,12,Argentina Copa de la Liga,2022
+10096,10096,Union,24,teams,big_chance_missed_team,9,11,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,25,teams,big_chance_missed_team,8,17,Argentina Copa de la Liga,2022
+10101,10101,Talleres,26,teams,big_chance_missed_team,8,9,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,27,teams,big_chance_missed_team,6,13,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,28,teams,big_chance_missed_team,2,17,Argentina Copa de la Liga,2022
+10076,10076,River Plate,1,teams,big_chance_missed_team,13,14,Argentina Copa de la Liga,2021
+10082,10082,Lanus,2,teams,big_chance_missed_team,12,11,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,3,teams,big_chance_missed_team,11,10,Argentina Copa de la Liga,2021
+10088,10088,Colon,4,teams,big_chance_missed_team,10,17,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,5,teams,big_chance_missed_team,10,10,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,6,teams,big_chance_missed_team,10,6,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,7,teams,big_chance_missed_team,9,12,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,8,teams,big_chance_missed_team,8,6,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,9,teams,big_chance_missed_team,8,4,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,10,teams,big_chance_missed_team,7,15,Argentina Copa de la Liga,2021
+10101,10101,Talleres,11,teams,big_chance_missed_team,7,14,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,12,teams,big_chance_missed_team,7,10,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,13,teams,big_chance_missed_team,7,9,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,14,teams,big_chance_missed_team,7,8,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,15,teams,big_chance_missed_team,7,5,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,16,teams,big_chance_missed_team,6,10,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,17,teams,big_chance_missed_team,6,10,Argentina Copa de la Liga,2021
+10078,10078,Independiente,18,teams,big_chance_missed_team,6,6,Argentina Copa de la Liga,2021
+10096,10096,Union,19,teams,big_chance_missed_team,6,4,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,20,teams,big_chance_missed_team,5,15,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,21,teams,big_chance_missed_team,5,9,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,22,teams,big_chance_missed_team,5,4,Argentina Copa de la Liga,2021
+10087,10087,Banfield,23,teams,big_chance_missed_team,4,7,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,24,teams,big_chance_missed_team,3,11,Argentina Copa de la Liga,2021
+10081,10081,Huracan,25,teams,big_chance_missed_team,3,8,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,26,teams,big_chance_missed_team,2,3,Argentina Copa de la Liga,2021
+10076,10076,River Plate,1,teams,big_chance_missed_team,49,38,Argentina Primera Division,2024
+10080,10080,Racing Club,2,teams,big_chance_missed_team,44,42,Argentina Primera Division,2024
+10077,10077,Boca Juniors,3,teams,big_chance_missed_team,43,30,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,4,teams,big_chance_missed_team,41,38,Argentina Primera Division,2024
+10082,10082,Lanus,5,teams,big_chance_missed_team,36,28,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,6,teams,big_chance_missed_team,36,21,Argentina Primera Division,2024
+10090,10090,Instituto,7,teams,big_chance_missed_team,34,32,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,8,teams,big_chance_missed_team,33,28,Argentina Primera Division,2024
+10096,10096,Union,9,teams,big_chance_missed_team,33,27,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,10,teams,big_chance_missed_team,33,22,Argentina Primera Division,2024
+10101,10101,Talleres,11,teams,big_chance_missed_team,30,34,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,12,teams,big_chance_missed_team,30,29,Argentina Primera Division,2024
+10081,10081,Huracan,13,teams,big_chance_missed_team,30,28,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,14,teams,big_chance_missed_team,29,26,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,15,teams,big_chance_missed_team,29,20,Argentina Primera Division,2024
+10087,10087,Banfield,16,teams,big_chance_missed_team,28,22,Argentina Primera Division,2024
+202757,202757,Sarmiento,17,teams,big_chance_missed_team,28,18,Argentina Primera Division,2024
+89396,89396,Tigre,18,teams,big_chance_missed_team,27,27,Argentina Primera Division,2024
+10078,10078,Independiente,19,teams,big_chance_missed_team,27,25,Argentina Primera Division,2024
+10083,10083,San Lorenzo,20,teams,big_chance_missed_team,27,20,Argentina Primera Division,2024
+10094,10094,Estudiantes,21,teams,big_chance_missed_team,26,36,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,22,teams,big_chance_missed_team,25,22,Argentina Primera Division,2024
+10092,10092,Belgrano,23,teams,big_chance_missed_team,24,33,Argentina Primera Division,2024
+10084,10084,Rosario Central,24,teams,big_chance_missed_team,24,27,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,25,teams,big_chance_missed_team,24,23,Argentina Primera Division,2024
+213534,213534,Barracas Central,26,teams,big_chance_missed_team,24,15,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,27,teams,big_chance_missed_team,23,27,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,28,teams,big_chance_missed_team,22,31,Argentina Primera Division,2024
+10101,10101,Talleres,1,teams,big_chance_missed_team,42,42,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,2,teams,big_chance_missed_team,39,31,Argentina Primera Division,2023
+10076,10076,River Plate,3,teams,big_chance_missed_team,36,50,Argentina Primera Division,2023
+89396,89396,Tigre,4,teams,big_chance_missed_team,34,27,Argentina Primera Division,2023
+10090,10090,Instituto,5,teams,big_chance_missed_team,34,24,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,6,teams,big_chance_missed_team,32,36,Argentina Primera Division,2023
+10080,10080,Racing Club,7,teams,big_chance_missed_team,32,36,Argentina Primera Division,2023
+10094,10094,Estudiantes,8,teams,big_chance_missed_team,32,35,Argentina Primera Division,2023
+10088,10088,Colon,9,teams,big_chance_missed_team,32,20,Argentina Primera Division,2023
+10082,10082,Lanus,10,teams,big_chance_missed_team,30,38,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,11,teams,big_chance_missed_team,30,25,Argentina Primera Division,2023
+10077,10077,Boca Juniors,12,teams,big_chance_missed_team,29,33,Argentina Primera Division,2023
+10087,10087,Banfield,13,teams,big_chance_missed_team,29,21,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,14,teams,big_chance_missed_team,28,24,Argentina Primera Division,2023
+10084,10084,Rosario Central,15,teams,big_chance_missed_team,26,36,Argentina Primera Division,2023
+10083,10083,San Lorenzo,16,teams,big_chance_missed_team,25,23,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,17,teams,big_chance_missed_team,23,24,Argentina Primera Division,2023
+10078,10078,Independiente,18,teams,big_chance_missed_team,22,23,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,19,teams,big_chance_missed_team,22,20,Argentina Primera Division,2023
+10081,10081,Huracan,20,teams,big_chance_missed_team,22,18,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,21,teams,big_chance_missed_team,20,37,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,22,teams,big_chance_missed_team,20,24,Argentina Primera Division,2023
+202757,202757,Sarmiento,23,teams,big_chance_missed_team,20,23,Argentina Primera Division,2023
+10096,10096,Union,24,teams,big_chance_missed_team,20,19,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,25,teams,big_chance_missed_team,20,18,Argentina Primera Division,2023
+10092,10092,Belgrano,26,teams,big_chance_missed_team,19,20,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,27,teams,big_chance_missed_team,15,26,Argentina Primera Division,2023
+213534,213534,Barracas Central,28,teams,big_chance_missed_team,15,25,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,1,teams,big_chance_missed_team,39,33,Argentina Primera Division,2022
+10088,10088,Colon,2,teams,big_chance_missed_team,38,24,Argentina Primera Division,2022
+10080,10080,Racing Club,3,teams,big_chance_missed_team,37,41,Argentina Primera Division,2022
+10101,10101,Talleres,4,teams,big_chance_missed_team,37,28,Argentina Primera Division,2022
+10096,10096,Union,5,teams,big_chance_missed_team,36,28,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,6,teams,big_chance_missed_team,32,26,Argentina Primera Division,2022
+10094,10094,Estudiantes,7,teams,big_chance_missed_team,31,28,Argentina Primera Division,2022
+10076,10076,River Plate,8,teams,big_chance_missed_team,30,43,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,9,teams,big_chance_missed_team,29,32,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,10,teams,big_chance_missed_team,29,30,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,11,teams,big_chance_missed_team,29,28,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,12,teams,big_chance_missed_team,27,31,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,13,teams,big_chance_missed_team,27,25,Argentina Primera Division,2022
+89396,89396,Tigre,14,teams,big_chance_missed_team,26,41,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,15,teams,big_chance_missed_team,26,26,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,16,teams,big_chance_missed_team,25,34,Argentina Primera Division,2022
+10084,10084,Rosario Central,17,teams,big_chance_missed_team,25,24,Argentina Primera Division,2022
+10087,10087,Banfield,18,teams,big_chance_missed_team,25,23,Argentina Primera Division,2022
+10083,10083,San Lorenzo,19,teams,big_chance_missed_team,24,33,Argentina Primera Division,2022
+10078,10078,Independiente,20,teams,big_chance_missed_team,24,31,Argentina Primera Division,2022
+213534,213534,Barracas Central,21,teams,big_chance_missed_team,23,31,Argentina Primera Division,2022
+10082,10082,Lanus,22,teams,big_chance_missed_team,23,22,Argentina Primera Division,2022
+10081,10081,Huracan,23,teams,big_chance_missed_team,22,35,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,24,teams,big_chance_missed_team,22,29,Argentina Primera Division,2022
+202757,202757,Sarmiento,25,teams,big_chance_missed_team,21,27,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,26,teams,big_chance_missed_team,21,23,Argentina Primera Division,2022
+10077,10077,Boca Juniors,27,teams,big_chance_missed_team,18,34,Argentina Primera Division,2022
+161728,161728,Aldosivi,28,teams,big_chance_missed_team,16,16,Argentina Primera Division,2022
+10087,10087,Banfield,1,teams,big_chance_missed_team,41,20,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,2,teams,big_chance_missed_team,38,35,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,3,teams,big_chance_missed_team,36,43,Argentina Primera Division,2021
+10081,10081,Huracan,4,teams,big_chance_missed_team,36,28,Argentina Primera Division,2021
+10076,10076,River Plate,5,teams,big_chance_missed_team,35,53,Argentina Primera Division,2021
+10084,10084,Rosario Central,6,teams,big_chance_missed_team,35,39,Argentina Primera Division,2021
+10082,10082,Lanus,7,teams,big_chance_missed_team,33,44,Argentina Primera Division,2021
+10101,10101,Talleres,8,teams,big_chance_missed_team,32,38,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,9,teams,big_chance_missed_team,31,34,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,10,teams,big_chance_missed_team,30,30,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,11,teams,big_chance_missed_team,30,24,Argentina Primera Division,2021
+10077,10077,Boca Juniors,12,teams,big_chance_missed_team,29,35,Argentina Primera Division,2021
+10088,10088,Colon,13,teams,big_chance_missed_team,27,26,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,14,teams,big_chance_missed_team,27,22,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,15,teams,big_chance_missed_team,26,26,Argentina Primera Division,2021
+10094,10094,Estudiantes,16,teams,big_chance_missed_team,25,43,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,17,teams,big_chance_missed_team,21,27,Argentina Primera Division,2021
+10078,10078,Independiente,18,teams,big_chance_missed_team,21,27,Argentina Primera Division,2021
+10080,10080,Racing Club,19,teams,big_chance_missed_team,21,24,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,20,teams,big_chance_missed_team,20,23,Argentina Primera Division,2021
+10083,10083,San Lorenzo,21,teams,big_chance_missed_team,20,23,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,22,teams,big_chance_missed_team,20,12,Argentina Primera Division,2021
+161728,161728,Aldosivi,23,teams,big_chance_missed_team,18,29,Argentina Primera Division,2021
+10096,10096,Union,24,teams,big_chance_missed_team,17,32,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,25,teams,big_chance_missed_team,15,36,Argentina Primera Division,2021
+202757,202757,Sarmiento,26,teams,big_chance_missed_team,14,23,Argentina Primera Division,2021

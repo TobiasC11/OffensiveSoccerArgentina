@@ -1,0 +1,139 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,expected_goals_team,28.5,28,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,2,teams,expected_goals_team,23.0,24,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,3,teams,expected_goals_team,22.8,24,Argentina Copa de la Liga,2024
+10101,10101,Talleres,4,teams,expected_goals_team,21.2,24,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,5,teams,expected_goals_team,20.8,26,Argentina Copa de la Liga,2024
+10090,10090,Instituto,6,teams,expected_goals_team,20.5,18,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,7,teams,expected_goals_team,20.5,17,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,8,teams,expected_goals_team,19.1,24,Argentina Copa de la Liga,2024
+10082,10082,Lanus,9,teams,expected_goals_team,18.4,20,Argentina Copa de la Liga,2024
+10078,10078,Independiente,10,teams,expected_goals_team,17.6,14,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,11,teams,expected_goals_team,17.4,20,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,12,teams,expected_goals_team,17.1,19,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,13,teams,expected_goals_team,17.0,18,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,14,teams,expected_goals_team,16.6,17,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,15,teams,expected_goals_team,16.4,8,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,16,teams,expected_goals_team,14.6,10,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,17,teams,expected_goals_team,14.4,13,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,18,teams,expected_goals_team,14.3,18,Argentina Copa de la Liga,2024
+10096,10096,Union,19,teams,expected_goals_team,14.1,16,Argentina Copa de la Liga,2024
+10087,10087,Banfield,20,teams,expected_goals_team,13.9,14,Argentina Copa de la Liga,2024
+10081,10081,Huracan,21,teams,expected_goals_team,13.6,12,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,22,teams,expected_goals_team,12.6,13,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,23,teams,expected_goals_team,12.2,10,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,24,teams,expected_goals_team,11.4,10,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,25,teams,expected_goals_team,10.6,10,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,expected_goals_team,10.3,7,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,27,teams,expected_goals_team,9.9,9,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,28,teams,expected_goals_team,8.9,8,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,expected_goals_team,23.6,26,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,2,teams,expected_goals_team,20.7,24,Argentina Copa de la Liga,2023
+10088,10088,Colon,3,teams,expected_goals_team,18.4,19,Argentina Copa de la Liga,2023
+10078,10078,Independiente,4,teams,expected_goals_team,18.3,15,Argentina Copa de la Liga,2023
+10101,10101,Talleres,5,teams,expected_goals_team,18.2,15,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,6,teams,expected_goals_team,18.1,15,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,7,teams,expected_goals_team,17.8,20,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,8,teams,expected_goals_team,17.2,11,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,9,teams,expected_goals_team,17.0,17,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,10,teams,expected_goals_team,16.5,19,Argentina Copa de la Liga,2023
+10082,10082,Lanus,11,teams,expected_goals_team,15.7,9,Argentina Copa de la Liga,2023
+10081,10081,Huracan,12,teams,expected_goals_team,15.3,20,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,13,teams,expected_goals_team,14.6,15,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,14,teams,expected_goals_team,14.4,21,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,15,teams,expected_goals_team,14.4,9,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,16,teams,expected_goals_team,14.2,14,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,17,teams,expected_goals_team,14.0,10,Argentina Copa de la Liga,2023
+10090,10090,Instituto,18,teams,expected_goals_team,13.2,11,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,19,teams,expected_goals_team,12.9,12,Argentina Copa de la Liga,2023
+89396,89396,Tigre,20,teams,expected_goals_team,12.8,8,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,21,teams,expected_goals_team,12.4,14,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,22,teams,expected_goals_team,11.7,10,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,23,teams,expected_goals_team,11.6,11,Argentina Copa de la Liga,2023
+10087,10087,Banfield,24,teams,expected_goals_team,11.4,11,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,25,teams,expected_goals_team,11.4,11,Argentina Copa de la Liga,2023
+10096,10096,Union,26,teams,expected_goals_team,11.1,10,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,27,teams,expected_goals_team,10.4,17,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,28,teams,expected_goals_team,8.3,8,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,1,teams,expected_goals_team,7.1,10,Argentina Copa de la Liga,2021
+10082,10082,Lanus,2,teams,expected_goals_team,6.2,11,Argentina Copa de la Liga,2021
+10076,10076,River Plate,3,teams,expected_goals_team,6.0,14,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,4,teams,expected_goals_team,5.0,10,Argentina Copa de la Liga,2021
+10088,10088,Colon,5,teams,expected_goals_team,4.4,17,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,6,teams,expected_goals_team,4.4,15,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,7,teams,expected_goals_team,4.4,12,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,8,teams,expected_goals_team,4.3,10,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,9,teams,expected_goals_team,4.2,8,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,10,teams,expected_goals_team,4.2,6,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,11,teams,expected_goals_team,4.1,9,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,12,teams,expected_goals_team,4.0,15,Argentina Copa de la Liga,2021
+10101,10101,Talleres,13,teams,expected_goals_team,4.0,14,Argentina Copa de la Liga,2021
+10096,10096,Union,14,teams,expected_goals_team,3.8,4,Argentina Copa de la Liga,2021
+10081,10081,Huracan,15,teams,expected_goals_team,3.7,8,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,16,teams,expected_goals_team,3.6,11,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,17,teams,expected_goals_team,3.3,10,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,18,teams,expected_goals_team,3.2,10,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,19,teams,expected_goals_team,3.2,6,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,20,teams,expected_goals_team,3.0,4,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,21,teams,expected_goals_team,2.9,4,Argentina Copa de la Liga,2021
+10078,10078,Independiente,22,teams,expected_goals_team,2.6,6,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,23,teams,expected_goals_team,2.6,5,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,24,teams,expected_goals_team,2.3,9,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,25,teams,expected_goals_team,2.0,3,Argentina Copa de la Liga,2021
+10087,10087,Banfield,26,teams,expected_goals_team,1.8,7,Argentina Copa de la Liga,2021
+10076,10076,River Plate,1,teams,expected_goals_team,45.5,38,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,2,teams,expected_goals_team,39.3,38,Argentina Primera Division,2024
+10080,10080,Racing Club,3,teams,expected_goals_team,35.6,42,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,4,teams,expected_goals_team,35.3,28,Argentina Primera Division,2024
+10077,10077,Boca Juniors,5,teams,expected_goals_team,33.5,30,Argentina Primera Division,2024
+10094,10094,Estudiantes,6,teams,expected_goals_team,33.3,36,Argentina Primera Division,2024
+10101,10101,Talleres,7,teams,expected_goals_team,32.2,34,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,8,teams,expected_goals_team,31.2,31,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,9,teams,expected_goals_team,30.6,27,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,10,teams,expected_goals_team,30.6,22,Argentina Primera Division,2024
+10082,10082,Lanus,11,teams,expected_goals_team,29.7,28,Argentina Primera Division,2024
+10092,10092,Belgrano,12,teams,expected_goals_team,28.7,33,Argentina Primera Division,2024
+10096,10096,Union,13,teams,expected_goals_team,28.5,27,Argentina Primera Division,2024
+10090,10090,Instituto,14,teams,expected_goals_team,28.2,32,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,15,teams,expected_goals_team,28.2,29,Argentina Primera Division,2024
+10087,10087,Banfield,16,teams,expected_goals_team,28.2,22,Argentina Primera Division,2024
+89396,89396,Tigre,17,teams,expected_goals_team,27.0,27,Argentina Primera Division,2024
+10078,10078,Independiente,18,teams,expected_goals_team,27.0,25,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,19,teams,expected_goals_team,26.6,26,Argentina Primera Division,2024
+10084,10084,Rosario Central,20,teams,expected_goals_team,25.9,27,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,21,teams,expected_goals_team,25.7,22,Argentina Primera Division,2024
+10081,10081,Huracan,22,teams,expected_goals_team,25.5,28,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,23,teams,expected_goals_team,25.4,21,Argentina Primera Division,2024
+202757,202757,Sarmiento,24,teams,expected_goals_team,25.4,18,Argentina Primera Division,2024
+10083,10083,San Lorenzo,25,teams,expected_goals_team,24.2,20,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,26,teams,expected_goals_team,24.0,20,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,27,teams,expected_goals_team,23.9,23,Argentina Primera Division,2024
+213534,213534,Barracas Central,28,teams,expected_goals_team,20.6,15,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,expected_goals_team,47.8,50,Argentina Primera Division,2023
+10101,10101,Talleres,2,teams,expected_goals_team,43.8,42,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,3,teams,expected_goals_team,40.4,31,Argentina Primera Division,2023
+10082,10082,Lanus,4,teams,expected_goals_team,37.4,38,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,5,teams,expected_goals_team,36.5,36,Argentina Primera Division,2023
+89396,89396,Tigre,6,teams,expected_goals_team,35.3,27,Argentina Primera Division,2023
+10094,10094,Estudiantes,7,teams,expected_goals_team,34.1,35,Argentina Primera Division,2023
+10090,10090,Instituto,8,teams,expected_goals_team,33.3,24,Argentina Primera Division,2023
+10084,10084,Rosario Central,9,teams,expected_goals_team,33.0,36,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,10,teams,expected_goals_team,31.7,37,Argentina Primera Division,2023
+10077,10077,Boca Juniors,11,teams,expected_goals_team,31.1,33,Argentina Primera Division,2023
+10080,10080,Racing Club,12,teams,expected_goals_team,30.5,36,Argentina Primera Division,2023
+10078,10078,Independiente,13,teams,expected_goals_team,30.2,23,Argentina Primera Division,2023
+10087,10087,Banfield,14,teams,expected_goals_team,29.7,21,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,15,teams,expected_goals_team,28.9,24,Argentina Primera Division,2023
+10083,10083,San Lorenzo,16,teams,expected_goals_team,28.3,23,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,17,teams,expected_goals_team,28.0,25,Argentina Primera Division,2023
+202757,202757,Sarmiento,18,teams,expected_goals_team,26.8,23,Argentina Primera Division,2023
+10088,10088,Colon,19,teams,expected_goals_team,26.2,20,Argentina Primera Division,2023
+10081,10081,Huracan,20,teams,expected_goals_team,26.0,18,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,21,teams,expected_goals_team,25.6,20,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,22,teams,expected_goals_team,25.5,24,Argentina Primera Division,2023
+10092,10092,Belgrano,23,teams,expected_goals_team,24.8,20,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,24,teams,expected_goals_team,24.2,24,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,25,teams,expected_goals_team,24.1,18,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,26,teams,expected_goals_team,22.9,26,Argentina Primera Division,2023
+213534,213534,Barracas Central,27,teams,expected_goals_team,22.6,25,Argentina Primera Division,2023
+10096,10096,Union,28,teams,expected_goals_team,22.5,19,Argentina Primera Division,2023

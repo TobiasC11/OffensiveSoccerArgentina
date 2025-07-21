@@ -1,0 +1,197 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10090,10090,Instituto,1,teams,penalty_won_team,4,100.0,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,2,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2024
+10078,10078,Independiente,3,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,4,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,5,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,6,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2024
+10101,10101,Talleres,7,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,8,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,9,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,10,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,11,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,12,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10081,10081,Huracan,13,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,14,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,15,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,16,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+89396,89396,Tigre,17,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10096,10096,Union,18,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,19,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,20,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,21,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2024
+10076,10076,River Plate,22,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,23,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2024
+10098,10098,Arsenal Sarandi,1,teams,penalty_won_team,4,100.0,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,2,teams,penalty_won_team,4,75.0,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,3,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,4,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,5,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2023
+10088,10088,Colon,6,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,7,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,8,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,9,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,10,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,11,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+10081,10081,Huracan,12,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+10078,10078,Independiente,13,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,14,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2023
+10076,10076,River Plate,15,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2023
+10101,10101,Talleres,16,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2023
+10087,10087,Banfield,17,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,18,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,19,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2023
+10090,10090,Instituto,20,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,21,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,22,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2023
+10096,10096,Union,23,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,penalty_won_team,8,100.0,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,2,teams,penalty_won_team,6,83.3,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,3,teams,penalty_won_team,6,66.7,Argentina Copa de la Liga,2022
+10081,10081,Huracan,4,teams,penalty_won_team,4,100.0,Argentina Copa de la Liga,2022
+89396,89396,Tigre,5,teams,penalty_won_team,4,100.0,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,6,teams,penalty_won_team,4,75.0,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,7,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,8,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,9,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,10,teams,penalty_won_team,3,100.0,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,11,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2022
+10088,10088,Colon,12,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,13,teams,penalty_won_team,3,66.7,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,14,teams,penalty_won_team,3,33.3,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,15,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+10087,10087,Banfield,16,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,17,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,18,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+10096,10096,Union,19,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,20,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,21,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,22,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,23,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,24,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2022
+10078,10078,Independiente,25,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,26,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2022
+10101,10101,Talleres,27,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,1,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2021
+10088,10088,Colon,2,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2021
+10082,10082,Lanus,3,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2021
+10076,10076,River Plate,4,teams,penalty_won_team,2,100.0,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,5,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,6,teams,penalty_won_team,2,50.0,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,7,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,8,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,9,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,10,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,11,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,12,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10101,10101,Talleres,13,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10096,10096,Union,14,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,15,teams,penalty_won_team,1,100.0,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,16,teams,penalty_won_team,1,0.0,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,1,teams,penalty_won_team,6,83.3,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,2,teams,penalty_won_team,6,83.3,Argentina Primera Division,2024
+10087,10087,Banfield,3,teams,penalty_won_team,6,50.0,Argentina Primera Division,2024
+10076,10076,River Plate,4,teams,penalty_won_team,5,100.0,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,5,teams,penalty_won_team,5,80.0,Argentina Primera Division,2024
+10094,10094,Estudiantes,6,teams,penalty_won_team,5,60.0,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,7,teams,penalty_won_team,5,60.0,Argentina Primera Division,2024
+10080,10080,Racing Club,8,teams,penalty_won_team,5,60.0,Argentina Primera Division,2024
+10084,10084,Rosario Central,9,teams,penalty_won_team,5,60.0,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,10,teams,penalty_won_team,4,75.0,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,11,teams,penalty_won_team,4,75.0,Argentina Primera Division,2024
+10078,10078,Independiente,12,teams,penalty_won_team,4,75.0,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,13,teams,penalty_won_team,4,50.0,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,14,teams,penalty_won_team,3,100.0,Argentina Primera Division,2024
+10081,10081,Huracan,15,teams,penalty_won_team,3,100.0,Argentina Primera Division,2024
+10096,10096,Union,16,teams,penalty_won_team,3,100.0,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,17,teams,penalty_won_team,3,66.7,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,18,teams,penalty_won_team,3,66.7,Argentina Primera Division,2024
+10090,10090,Instituto,19,teams,penalty_won_team,3,66.7,Argentina Primera Division,2024
+202757,202757,Sarmiento,20,teams,penalty_won_team,2,100.0,Argentina Primera Division,2024
+10101,10101,Talleres,21,teams,penalty_won_team,2,100.0,Argentina Primera Division,2024
+89396,89396,Tigre,22,teams,penalty_won_team,2,100.0,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,23,teams,penalty_won_team,2,50.0,Argentina Primera Division,2024
+213534,213534,Barracas Central,24,teams,penalty_won_team,1,100.0,Argentina Primera Division,2024
+10077,10077,Boca Juniors,25,teams,penalty_won_team,1,100.0,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,26,teams,penalty_won_team,1,100.0,Argentina Primera Division,2024
+10082,10082,Lanus,27,teams,penalty_won_team,1,100.0,Argentina Primera Division,2024
+10092,10092,Belgrano,28,teams,penalty_won_team,1,0.0,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,penalty_won_team,10,100.0,Argentina Primera Division,2023
+10078,10078,Independiente,2,teams,penalty_won_team,8,87.5,Argentina Primera Division,2023
+10082,10082,Lanus,3,teams,penalty_won_team,8,75.0,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,4,teams,penalty_won_team,6,83.3,Argentina Primera Division,2023
+10087,10087,Banfield,5,teams,penalty_won_team,6,66.7,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,6,teams,penalty_won_team,5,80.0,Argentina Primera Division,2023
+10080,10080,Racing Club,7,teams,penalty_won_team,5,80.0,Argentina Primera Division,2023
+10084,10084,Rosario Central,8,teams,penalty_won_team,5,80.0,Argentina Primera Division,2023
+202757,202757,Sarmiento,9,teams,penalty_won_team,5,80.0,Argentina Primera Division,2023
+213534,213534,Barracas Central,10,teams,penalty_won_team,4,100.0,Argentina Primera Division,2023
+10083,10083,San Lorenzo,11,teams,penalty_won_team,4,100.0,Argentina Primera Division,2023
+10081,10081,Huracan,12,teams,penalty_won_team,4,75.0,Argentina Primera Division,2023
+10088,10088,Colon,13,teams,penalty_won_team,4,0.0,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,14,teams,penalty_won_team,3,100.0,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,15,teams,penalty_won_team,3,100.0,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,16,teams,penalty_won_team,3,100.0,Argentina Primera Division,2023
+89396,89396,Tigre,17,teams,penalty_won_team,3,100.0,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,18,teams,penalty_won_team,3,66.7,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,19,teams,penalty_won_team,3,66.7,Argentina Primera Division,2023
+10101,10101,Talleres,20,teams,penalty_won_team,3,33.3,Argentina Primera Division,2023
+10092,10092,Belgrano,21,teams,penalty_won_team,2,100.0,Argentina Primera Division,2023
+10090,10090,Instituto,22,teams,penalty_won_team,2,100.0,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,23,teams,penalty_won_team,2,100.0,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,24,teams,penalty_won_team,2,50.0,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,25,teams,penalty_won_team,2,50.0,Argentina Primera Division,2023
+10094,10094,Estudiantes,26,teams,penalty_won_team,2,0.0,Argentina Primera Division,2023
+10096,10096,Union,27,teams,penalty_won_team,1,100.0,Argentina Primera Division,2023
+10081,10081,Huracan,1,teams,penalty_won_team,11,90.9,Argentina Primera Division,2022
+10083,10083,San Lorenzo,2,teams,penalty_won_team,8,75.0,Argentina Primera Division,2022
+213534,213534,Barracas Central,3,teams,penalty_won_team,8,62.5,Argentina Primera Division,2022
+10088,10088,Colon,4,teams,penalty_won_team,7,85.7,Argentina Primera Division,2022
+202757,202757,Sarmiento,5,teams,penalty_won_team,6,100.0,Argentina Primera Division,2022
+89396,89396,Tigre,6,teams,penalty_won_team,6,100.0,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,7,teams,penalty_won_team,6,83.3,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,8,teams,penalty_won_team,6,66.7,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,9,teams,penalty_won_team,6,50.0,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,10,teams,penalty_won_team,5,80.0,Argentina Primera Division,2022
+10101,10101,Talleres,11,teams,penalty_won_team,5,80.0,Argentina Primera Division,2022
+10087,10087,Banfield,12,teams,penalty_won_team,5,60.0,Argentina Primera Division,2022
+10084,10084,Rosario Central,13,teams,penalty_won_team,5,60.0,Argentina Primera Division,2022
+10077,10077,Boca Juniors,14,teams,penalty_won_team,5,40.0,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,15,teams,penalty_won_team,4,100.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,16,teams,penalty_won_team,4,100.0,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,17,teams,penalty_won_team,4,75.0,Argentina Primera Division,2022
+10096,10096,Union,18,teams,penalty_won_team,4,75.0,Argentina Primera Division,2022
+10080,10080,Racing Club,19,teams,penalty_won_team,4,25.0,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,20,teams,penalty_won_team,3,100.0,Argentina Primera Division,2022
+10082,10082,Lanus,21,teams,penalty_won_team,3,100.0,Argentina Primera Division,2022
+10094,10094,Estudiantes,22,teams,penalty_won_team,3,66.7,Argentina Primera Division,2022
+161728,161728,Aldosivi,23,teams,penalty_won_team,2,100.0,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,24,teams,penalty_won_team,2,100.0,Argentina Primera Division,2022
+10078,10078,Independiente,25,teams,penalty_won_team,2,100.0,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,26,teams,penalty_won_team,2,0.0,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,27,teams,penalty_won_team,1,100.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,1,teams,penalty_won_team,7,57.1,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,2,teams,penalty_won_team,5,80.0,Argentina Primera Division,2021
+10094,10094,Estudiantes,3,teams,penalty_won_team,5,80.0,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,4,teams,penalty_won_team,4,100.0,Argentina Primera Division,2021
+10083,10083,San Lorenzo,5,teams,penalty_won_team,4,100.0,Argentina Primera Division,2021
+161728,161728,Aldosivi,6,teams,penalty_won_team,4,75.0,Argentina Primera Division,2021
+10082,10082,Lanus,7,teams,penalty_won_team,4,75.0,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,8,teams,penalty_won_team,4,50.0,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,9,teams,penalty_won_team,4,50.0,Argentina Primera Division,2021
+10077,10077,Boca Juniors,10,teams,penalty_won_team,3,100.0,Argentina Primera Division,2021
+10088,10088,Colon,11,teams,penalty_won_team,3,100.0,Argentina Primera Division,2021
+10101,10101,Talleres,12,teams,penalty_won_team,3,100.0,Argentina Primera Division,2021
+10080,10080,Racing Club,13,teams,penalty_won_team,3,66.7,Argentina Primera Division,2021
+202757,202757,Sarmiento,14,teams,penalty_won_team,2,100.0,Argentina Primera Division,2021
+10096,10096,Union,15,teams,penalty_won_team,2,100.0,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,16,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10087,10087,Banfield,17,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,18,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10081,10081,Huracan,19,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10078,10078,Independiente,20,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,21,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10076,10076,River Plate,22,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,23,teams,penalty_won_team,2,50.0,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,24,teams,penalty_won_team,1,100.0,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,25,teams,penalty_won_team,1,0.0,Argentina Primera Division,2021

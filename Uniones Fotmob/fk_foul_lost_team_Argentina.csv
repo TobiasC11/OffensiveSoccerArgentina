@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10094,10094,Estudiantes,1,teams,fk_foul_lost_team,14.5,46,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,2,teams,fk_foul_lost_team,14.2,36,Argentina Copa de la Liga,2024
+10081,10081,Huracan,3,teams,fk_foul_lost_team,13.7,32,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,4,teams,fk_foul_lost_team,13.5,39,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,5,teams,fk_foul_lost_team,13.2,30,Argentina Copa de la Liga,2024
+10082,10082,Lanus,6,teams,fk_foul_lost_team,13.1,41,Argentina Copa de la Liga,2024
+10078,10078,Independiente,7,teams,fk_foul_lost_team,13.0,41,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,8,teams,fk_foul_lost_team,12.9,31,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,9,teams,fk_foul_lost_team,12.5,31,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,10,teams,fk_foul_lost_team,12.4,40,Argentina Copa de la Liga,2024
+10096,10096,Union,11,teams,fk_foul_lost_team,12.4,39,Argentina Copa de la Liga,2024
+10087,10087,Banfield,12,teams,fk_foul_lost_team,12.2,28,Argentina Copa de la Liga,2024
+10090,10090,Instituto,13,teams,fk_foul_lost_team,12.1,37,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,14,teams,fk_foul_lost_team,12.0,37,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,15,teams,fk_foul_lost_team,12.0,27,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,16,teams,fk_foul_lost_team,11.9,34,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,17,teams,fk_foul_lost_team,11.9,29,Argentina Copa de la Liga,2024
+89396,89396,Tigre,18,teams,fk_foul_lost_team,11.8,24,Argentina Copa de la Liga,2024
+10076,10076,River Plate,19,teams,fk_foul_lost_team,11.7,37,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,20,teams,fk_foul_lost_team,11.6,38,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,21,teams,fk_foul_lost_team,11.5,38,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,22,teams,fk_foul_lost_team,11.3,35,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,23,teams,fk_foul_lost_team,11.1,26,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,24,teams,fk_foul_lost_team,11.0,25,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,25,teams,fk_foul_lost_team,10.9,38,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,26,teams,fk_foul_lost_team,10.9,34,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,27,teams,fk_foul_lost_team,10.4,17,Argentina Copa de la Liga,2024
+10101,10101,Talleres,28,teams,fk_foul_lost_team,10.2,31,Argentina Copa de la Liga,2024
+10098,10098,Arsenal Sarandi,1,teams,fk_foul_lost_team,13.9,30,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,2,teams,fk_foul_lost_team,13.7,42,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,3,teams,fk_foul_lost_team,13.6,43,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,4,teams,fk_foul_lost_team,13.4,39,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,5,teams,fk_foul_lost_team,13.1,34,Argentina Copa de la Liga,2023
+10078,10078,Independiente,6,teams,fk_foul_lost_team,12.9,37,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,7,teams,fk_foul_lost_team,12.8,42,Argentina Copa de la Liga,2023
+10088,10088,Colon,8,teams,fk_foul_lost_team,12.8,36,Argentina Copa de la Liga,2023
+10090,10090,Instituto,9,teams,fk_foul_lost_team,12.4,37,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,10,teams,fk_foul_lost_team,12.3,38,Argentina Copa de la Liga,2023
+10087,10087,Banfield,11,teams,fk_foul_lost_team,12.3,35,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,12,teams,fk_foul_lost_team,12.1,40,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,13,teams,fk_foul_lost_team,12.1,35,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,14,teams,fk_foul_lost_team,12.0,37,Argentina Copa de la Liga,2023
+10076,10076,River Plate,15,teams,fk_foul_lost_team,11.8,40,Argentina Copa de la Liga,2023
+10081,10081,Huracan,16,teams,fk_foul_lost_team,11.8,34,Argentina Copa de la Liga,2023
+10082,10082,Lanus,17,teams,fk_foul_lost_team,11.8,26,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,18,teams,fk_foul_lost_team,11.6,31,Argentina Copa de la Liga,2023
+10096,10096,Union,19,teams,fk_foul_lost_team,11.6,30,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,20,teams,fk_foul_lost_team,11.4,32,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,21,teams,fk_foul_lost_team,11.4,27,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,22,teams,fk_foul_lost_team,11.1,41,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,23,teams,fk_foul_lost_team,11.1,39,Argentina Copa de la Liga,2023
+10101,10101,Talleres,24,teams,fk_foul_lost_team,11.1,29,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,25,teams,fk_foul_lost_team,10.7,38,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,26,teams,fk_foul_lost_team,10.4,30,Argentina Copa de la Liga,2023
+89396,89396,Tigre,27,teams,fk_foul_lost_team,9.9,27,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,28,teams,fk_foul_lost_team,9.3,16,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,1,teams,fk_foul_lost_team,16.3,43,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,2,teams,fk_foul_lost_team,16.1,48,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,3,teams,fk_foul_lost_team,16.1,39,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,4,teams,fk_foul_lost_team,14.1,43,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,5,teams,fk_foul_lost_team,14.1,40,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,6,teams,fk_foul_lost_team,14.1,29,Argentina Copa de la Liga,2022
+10101,10101,Talleres,7,teams,fk_foul_lost_team,14.0,33,Argentina Copa de la Liga,2022
+10087,10087,Banfield,8,teams,fk_foul_lost_team,13.9,41,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,9,teams,fk_foul_lost_team,13.9,33,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,10,teams,fk_foul_lost_team,13.8,45,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,11,teams,fk_foul_lost_team,13.4,45,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,12,teams,fk_foul_lost_team,13.4,28,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,13,teams,fk_foul_lost_team,13.2,33,Argentina Copa de la Liga,2022
+10096,10096,Union,14,teams,fk_foul_lost_team,13.1,35,Argentina Copa de la Liga,2022
+10078,10078,Independiente,15,teams,fk_foul_lost_team,13.0,37,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,16,teams,fk_foul_lost_team,12.9,40,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,17,teams,fk_foul_lost_team,12.9,25,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,18,teams,fk_foul_lost_team,12.8,35,Argentina Copa de la Liga,2022
+10081,10081,Huracan,19,teams,fk_foul_lost_team,12.7,37,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,20,teams,fk_foul_lost_team,12.7,26,Argentina Copa de la Liga,2022
+10082,10082,Lanus,21,teams,fk_foul_lost_team,12.6,37,Argentina Copa de la Liga,2022
+10076,10076,River Plate,22,teams,fk_foul_lost_team,12.5,26,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,23,teams,fk_foul_lost_team,12.4,37,Argentina Copa de la Liga,2022
+89396,89396,Tigre,24,teams,fk_foul_lost_team,12.2,34,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,25,teams,fk_foul_lost_team,12.2,32,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,26,teams,fk_foul_lost_team,10.4,31,Argentina Copa de la Liga,2022
+10088,10088,Colon,27,teams,fk_foul_lost_team,10.2,30,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,28,teams,fk_foul_lost_team,9.9,28,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,1,teams,fk_foul_lost_team,18.8,14,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,2,teams,fk_foul_lost_team,18.7,17,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,3,teams,fk_foul_lost_team,17.6,21,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,4,teams,fk_foul_lost_team,17.0,20,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,5,teams,fk_foul_lost_team,16.0,23,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,6,teams,fk_foul_lost_team,15.7,17,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,7,teams,fk_foul_lost_team,15.6,18,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,8,teams,fk_foul_lost_team,15.1,14,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,9,teams,fk_foul_lost_team,15.1,14,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,10,teams,fk_foul_lost_team,14.6,28,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,11,teams,fk_foul_lost_team,14.6,26,Argentina Copa de la Liga,2021
+10081,10081,Huracan,12,teams,fk_foul_lost_team,14.6,17,Argentina Copa de la Liga,2021
+10082,10082,Lanus,13,teams,fk_foul_lost_team,14.4,19,Argentina Copa de la Liga,2021
+10096,10096,Union,14,teams,fk_foul_lost_team,14.1,14,Argentina Copa de la Liga,2021
+10088,10088,Colon,15,teams,fk_foul_lost_team,13.7,28,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,16,teams,fk_foul_lost_team,13.7,13,Argentina Copa de la Liga,2021
+10101,10101,Talleres,17,teams,fk_foul_lost_team,13.6,22,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,18,teams,fk_foul_lost_team,13.6,18,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,19,teams,fk_foul_lost_team,13.6,16,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,20,teams,fk_foul_lost_team,13.6,15,Argentina Copa de la Liga,2021
+10076,10076,River Plate,21,teams,fk_foul_lost_team,13.1,17,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,22,teams,fk_foul_lost_team,13.1,13,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,23,teams,fk_foul_lost_team,12.6,17,Argentina Copa de la Liga,2021
+10087,10087,Banfield,24,teams,fk_foul_lost_team,12.6,17,Argentina Copa de la Liga,2021
+10078,10078,Independiente,25,teams,fk_foul_lost_team,11.6,20,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,26,teams,fk_foul_lost_team,11.6,15,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,1,teams,fk_foul_lost_team,13.6,63,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,2,teams,fk_foul_lost_team,13.2,64,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,3,teams,fk_foul_lost_team,13.1,56,Argentina Primera Division,2024
+10084,10084,Rosario Central,4,teams,fk_foul_lost_team,12.9,87,Argentina Primera Division,2024
+10076,10076,River Plate,5,teams,fk_foul_lost_team,12.9,70,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,6,teams,fk_foul_lost_team,12.9,64,Argentina Primera Division,2024
+10077,10077,Boca Juniors,7,teams,fk_foul_lost_team,12.8,74,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,8,teams,fk_foul_lost_team,12.7,58,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,9,teams,fk_foul_lost_team,12.4,76,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,10,teams,fk_foul_lost_team,12.4,60,Argentina Primera Division,2024
+10078,10078,Independiente,11,teams,fk_foul_lost_team,12.3,85,Argentina Primera Division,2024
+10080,10080,Racing Club,12,teams,fk_foul_lost_team,12.3,61,Argentina Primera Division,2024
+10094,10094,Estudiantes,13,teams,fk_foul_lost_team,12.2,64,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,14,teams,fk_foul_lost_team,12.0,69,Argentina Primera Division,2024
+10092,10092,Belgrano,15,teams,fk_foul_lost_team,11.9,71,Argentina Primera Division,2024
+10087,10087,Banfield,16,teams,fk_foul_lost_team,11.9,65,Argentina Primera Division,2024
+10081,10081,Huracan,17,teams,fk_foul_lost_team,11.9,61,Argentina Primera Division,2024
+89396,89396,Tigre,18,teams,fk_foul_lost_team,11.8,49,Argentina Primera Division,2024
+213534,213534,Barracas Central,19,teams,fk_foul_lost_team,11.7,53,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,20,teams,fk_foul_lost_team,11.4,63,Argentina Primera Division,2024
+10090,10090,Instituto,21,teams,fk_foul_lost_team,11.1,63,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,22,teams,fk_foul_lost_team,11.0,71,Argentina Primera Division,2024
+10101,10101,Talleres,23,teams,fk_foul_lost_team,11.0,71,Argentina Primera Division,2024
+10083,10083,San Lorenzo,24,teams,fk_foul_lost_team,11.0,56,Argentina Primera Division,2024
+10096,10096,Union,25,teams,fk_foul_lost_team,10.9,61,Argentina Primera Division,2024
+10082,10082,Lanus,26,teams,fk_foul_lost_team,10.9,52,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,27,teams,fk_foul_lost_team,10.7,57,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,28,teams,fk_foul_lost_team,10.4,67,Argentina Primera Division,2024
+10078,10078,Independiente,1,teams,fk_foul_lost_team,14.4,66,Argentina Primera Division,2023
+10081,10081,Huracan,2,teams,fk_foul_lost_team,13.6,61,Argentina Primera Division,2023
+202757,202757,Sarmiento,3,teams,fk_foul_lost_team,13.5,65,Argentina Primera Division,2023
+10083,10083,San Lorenzo,4,teams,fk_foul_lost_team,13.5,61,Argentina Primera Division,2023
+10096,10096,Union,5,teams,fk_foul_lost_team,13.4,64,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,6,teams,fk_foul_lost_team,13.2,72,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,7,teams,fk_foul_lost_team,13.1,68,Argentina Primera Division,2023
+10088,10088,Colon,8,teams,fk_foul_lost_team,13.0,64,Argentina Primera Division,2023
+10082,10082,Lanus,9,teams,fk_foul_lost_team,12.9,61,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,10,teams,fk_foul_lost_team,12.7,70,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,11,teams,fk_foul_lost_team,12.7,67,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,12,teams,fk_foul_lost_team,12.6,61,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,13,teams,fk_foul_lost_team,12.6,58,Argentina Primera Division,2023
+10101,10101,Talleres,14,teams,fk_foul_lost_team,12.5,59,Argentina Primera Division,2023
+10080,10080,Racing Club,15,teams,fk_foul_lost_team,12.4,66,Argentina Primera Division,2023
+10087,10087,Banfield,16,teams,fk_foul_lost_team,12.3,66,Argentina Primera Division,2023
+10090,10090,Instituto,17,teams,fk_foul_lost_team,12.1,67,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,18,teams,fk_foul_lost_team,12.0,67,Argentina Primera Division,2023
+10076,10076,River Plate,19,teams,fk_foul_lost_team,12.0,59,Argentina Primera Division,2023
+10094,10094,Estudiantes,20,teams,fk_foul_lost_team,12.0,55,Argentina Primera Division,2023
+10077,10077,Boca Juniors,21,teams,fk_foul_lost_team,11.9,71,Argentina Primera Division,2023
+10084,10084,Rosario Central,22,teams,fk_foul_lost_team,11.9,69,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,23,teams,fk_foul_lost_team,11.5,63,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,24,teams,fk_foul_lost_team,11.5,61,Argentina Primera Division,2023
+213534,213534,Barracas Central,25,teams,fk_foul_lost_team,11.4,40,Argentina Primera Division,2023
+10092,10092,Belgrano,26,teams,fk_foul_lost_team,10.9,48,Argentina Primera Division,2023
+89396,89396,Tigre,27,teams,fk_foul_lost_team,10.3,48,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,28,teams,fk_foul_lost_team,9.8,51,Argentina Primera Division,2023
+207875,207875,Patronato de Parana,1,teams,fk_foul_lost_team,16.2,69,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,2,teams,fk_foul_lost_team,13.6,78,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,3,teams,fk_foul_lost_team,13.6,68,Argentina Primera Division,2022
+161728,161728,Aldosivi,4,teams,fk_foul_lost_team,13.2,65,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,5,teams,fk_foul_lost_team,13.1,67,Argentina Primera Division,2022
+10087,10087,Banfield,6,teams,fk_foul_lost_team,12.9,66,Argentina Primera Division,2022
+10083,10083,San Lorenzo,7,teams,fk_foul_lost_team,12.9,63,Argentina Primera Division,2022
+10078,10078,Independiente,8,teams,fk_foul_lost_team,12.7,70,Argentina Primera Division,2022
+10084,10084,Rosario Central,9,teams,fk_foul_lost_team,12.6,73,Argentina Primera Division,2022
+10077,10077,Boca Juniors,10,teams,fk_foul_lost_team,12.5,90,Argentina Primera Division,2022
+202757,202757,Sarmiento,11,teams,fk_foul_lost_team,12.3,77,Argentina Primera Division,2022
+10076,10076,River Plate,12,teams,fk_foul_lost_team,12.2,69,Argentina Primera Division,2022
+10096,10096,Union,13,teams,fk_foul_lost_team,12.1,75,Argentina Primera Division,2022
+10082,10082,Lanus,14,teams,fk_foul_lost_team,12.1,74,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,15,teams,fk_foul_lost_team,11.9,71,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,16,teams,fk_foul_lost_team,11.9,54,Argentina Primera Division,2022
+10101,10101,Talleres,17,teams,fk_foul_lost_team,11.8,65,Argentina Primera Division,2022
+10080,10080,Racing Club,18,teams,fk_foul_lost_team,11.7,71,Argentina Primera Division,2022
+10081,10081,Huracan,19,teams,fk_foul_lost_team,11.7,69,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,20,teams,fk_foul_lost_team,11.7,64,Argentina Primera Division,2022
+10094,10094,Estudiantes,21,teams,fk_foul_lost_team,11.7,61,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,22,teams,fk_foul_lost_team,11.7,57,Argentina Primera Division,2022
+213534,213534,Barracas Central,23,teams,fk_foul_lost_team,11.6,56,Argentina Primera Division,2022
+10088,10088,Colon,24,teams,fk_foul_lost_team,11.3,54,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,25,teams,fk_foul_lost_team,10.8,55,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,26,teams,fk_foul_lost_team,10.8,53,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,27,teams,fk_foul_lost_team,10.6,61,Argentina Primera Division,2022
+89396,89396,Tigre,28,teams,fk_foul_lost_team,10.0,52,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,1,teams,fk_foul_lost_team,16.2,58,Argentina Primera Division,2021
+10083,10083,San Lorenzo,2,teams,fk_foul_lost_team,15.9,69,Argentina Primera Division,2021
+10101,10101,Talleres,3,teams,fk_foul_lost_team,15.4,70,Argentina Primera Division,2021
+10076,10076,River Plate,4,teams,fk_foul_lost_team,15.1,54,Argentina Primera Division,2021
+10082,10082,Lanus,5,teams,fk_foul_lost_team,14.9,64,Argentina Primera Division,2021
+10084,10084,Rosario Central,6,teams,fk_foul_lost_team,14.8,61,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,7,teams,fk_foul_lost_team,14.8,59,Argentina Primera Division,2021
+10087,10087,Banfield,8,teams,fk_foul_lost_team,14.8,57,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,9,teams,fk_foul_lost_team,14.6,51,Argentina Primera Division,2021
+10094,10094,Estudiantes,10,teams,fk_foul_lost_team,14.4,57,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,11,teams,fk_foul_lost_team,14.1,52,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,12,teams,fk_foul_lost_team,14.1,48,Argentina Primera Division,2021
+202757,202757,Sarmiento,13,teams,fk_foul_lost_team,14.0,50,Argentina Primera Division,2021
+161728,161728,Aldosivi,14,teams,fk_foul_lost_team,13.8,65,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,15,teams,fk_foul_lost_team,13.5,60,Argentina Primera Division,2021
+10080,10080,Racing Club,16,teams,fk_foul_lost_team,13.3,57,Argentina Primera Division,2021
+10096,10096,Union,17,teams,fk_foul_lost_team,13.2,45,Argentina Primera Division,2021
+10088,10088,Colon,18,teams,fk_foul_lost_team,13.0,46,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,19,teams,fk_foul_lost_team,12.9,46,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,20,teams,fk_foul_lost_team,12.9,38,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,21,teams,fk_foul_lost_team,12.8,48,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,22,teams,fk_foul_lost_team,12.7,54,Argentina Primera Division,2021
+10081,10081,Huracan,23,teams,fk_foul_lost_team,12.6,69,Argentina Primera Division,2021
+10077,10077,Boca Juniors,24,teams,fk_foul_lost_team,12.4,35,Argentina Primera Division,2021
+10078,10078,Independiente,25,teams,fk_foul_lost_team,11.4,55,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,26,teams,fk_foul_lost_team,11.0,42,Argentina Primera Division,2021

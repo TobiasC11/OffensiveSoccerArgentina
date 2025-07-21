@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+161727,161727,Atletico Tucuman,1,teams,poss_won_att_3rd_team,4.7,334,Argentina Copa de la Liga,2024
+10078,10078,Independiente,2,teams,poss_won_att_3rd_team,4.4,314,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,3,teams,poss_won_att_3rd_team,3.9,373,Argentina Copa de la Liga,2024
+10096,10096,Union,4,teams,poss_won_att_3rd_team,3.9,351,Argentina Copa de la Liga,2024
+10082,10082,Lanus,5,teams,poss_won_att_3rd_team,3.9,341,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,6,teams,poss_won_att_3rd_team,3.9,326,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,7,teams,poss_won_att_3rd_team,3.9,267,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,poss_won_att_3rd_team,3.8,405,Argentina Copa de la Liga,2024
+10076,10076,River Plate,9,teams,poss_won_att_3rd_team,3.8,360,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,10,teams,poss_won_att_3rd_team,3.6,345,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,11,teams,poss_won_att_3rd_team,3.5,403,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,12,teams,poss_won_att_3rd_team,3.4,407,Argentina Copa de la Liga,2024
+10090,10090,Instituto,13,teams,poss_won_att_3rd_team,3.4,325,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,14,teams,poss_won_att_3rd_team,3.4,312,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,15,teams,poss_won_att_3rd_team,3.3,388,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,16,teams,poss_won_att_3rd_team,3.1,304,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,17,teams,poss_won_att_3rd_team,2.9,362,Argentina Copa de la Liga,2024
+10087,10087,Banfield,18,teams,poss_won_att_3rd_team,2.9,323,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,19,teams,poss_won_att_3rd_team,2.9,320,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,20,teams,poss_won_att_3rd_team,2.9,301,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,21,teams,poss_won_att_3rd_team,2.8,302,Argentina Copa de la Liga,2024
+10081,10081,Huracan,22,teams,poss_won_att_3rd_team,2.6,322,Argentina Copa de la Liga,2024
+10101,10101,Talleres,23,teams,poss_won_att_3rd_team,2.5,369,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,24,teams,poss_won_att_3rd_team,2.5,331,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,25,teams,poss_won_att_3rd_team,2.4,298,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,poss_won_att_3rd_team,2.3,354,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,27,teams,poss_won_att_3rd_team,2.2,262,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,28,teams,poss_won_att_3rd_team,1.9,338,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,1,teams,poss_won_att_3rd_team,5.7,394,Argentina Copa de la Liga,2023
+10078,10078,Independiente,2,teams,poss_won_att_3rd_team,5.3,417,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,3,teams,poss_won_att_3rd_team,5.2,444,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,4,teams,poss_won_att_3rd_team,5.2,419,Argentina Copa de la Liga,2023
+89396,89396,Tigre,5,teams,poss_won_att_3rd_team,5.1,424,Argentina Copa de la Liga,2023
+10076,10076,River Plate,6,teams,poss_won_att_3rd_team,4.9,438,Argentina Copa de la Liga,2023
+10090,10090,Instituto,7,teams,poss_won_att_3rd_team,4.5,390,Argentina Copa de la Liga,2023
+10082,10082,Lanus,8,teams,poss_won_att_3rd_team,4.4,400,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,9,teams,poss_won_att_3rd_team,4.4,394,Argentina Copa de la Liga,2023
+10096,10096,Union,10,teams,poss_won_att_3rd_team,4.4,390,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,11,teams,poss_won_att_3rd_team,4.2,546,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,12,teams,poss_won_att_3rd_team,4.2,464,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,13,teams,poss_won_att_3rd_team,4.2,411,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,14,teams,poss_won_att_3rd_team,4.1,456,Argentina Copa de la Liga,2023
+10101,10101,Talleres,15,teams,poss_won_att_3rd_team,4.1,394,Argentina Copa de la Liga,2023
+10081,10081,Huracan,16,teams,poss_won_att_3rd_team,3.9,365,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,17,teams,poss_won_att_3rd_team,3.7,398,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,18,teams,poss_won_att_3rd_team,3.7,375,Argentina Copa de la Liga,2023
+10087,10087,Banfield,19,teams,poss_won_att_3rd_team,3.5,390,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,20,teams,poss_won_att_3rd_team,3.5,328,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,21,teams,poss_won_att_3rd_team,3.4,445,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,22,teams,poss_won_att_3rd_team,3.4,382,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,23,teams,poss_won_att_3rd_team,3.3,365,Argentina Copa de la Liga,2023
+10088,10088,Colon,24,teams,poss_won_att_3rd_team,3.2,397,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,25,teams,poss_won_att_3rd_team,3.1,388,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,26,teams,poss_won_att_3rd_team,3.1,358,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,27,teams,poss_won_att_3rd_team,2.6,351,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,28,teams,poss_won_att_3rd_team,2.0,396,Argentina Copa de la Liga,2023
+207875,207875,Patronato de Parana,1,teams,poss_won_att_3rd_team,5.9,385,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,2,teams,poss_won_att_3rd_team,5.5,346,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,3,teams,poss_won_att_3rd_team,5.4,479,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,4,teams,poss_won_att_3rd_team,5.4,478,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,5,teams,poss_won_att_3rd_team,4.9,450,Argentina Copa de la Liga,2022
+10081,10081,Huracan,6,teams,poss_won_att_3rd_team,4.8,398,Argentina Copa de la Liga,2022
+10078,10078,Independiente,7,teams,poss_won_att_3rd_team,4.6,386,Argentina Copa de la Liga,2022
+10088,10088,Colon,8,teams,poss_won_att_3rd_team,4.5,387,Argentina Copa de la Liga,2022
+10076,10076,River Plate,9,teams,poss_won_att_3rd_team,4.4,513,Argentina Copa de la Liga,2022
+10096,10096,Union,10,teams,poss_won_att_3rd_team,4.4,341,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,11,teams,poss_won_att_3rd_team,4.2,347,Argentina Copa de la Liga,2022
+10082,10082,Lanus,12,teams,poss_won_att_3rd_team,4.2,346,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,13,teams,poss_won_att_3rd_team,4.1,466,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,14,teams,poss_won_att_3rd_team,4.1,412,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,15,teams,poss_won_att_3rd_team,4.0,412,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,16,teams,poss_won_att_3rd_team,4.0,397,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,17,teams,poss_won_att_3rd_team,3.9,405,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,18,teams,poss_won_att_3rd_team,3.6,471,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,19,teams,poss_won_att_3rd_team,3.6,354,Argentina Copa de la Liga,2022
+89396,89396,Tigre,20,teams,poss_won_att_3rd_team,3.5,554,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,21,teams,poss_won_att_3rd_team,3.5,363,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,22,teams,poss_won_att_3rd_team,3.4,383,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,23,teams,poss_won_att_3rd_team,3.3,401,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,24,teams,poss_won_att_3rd_team,3.3,298,Argentina Copa de la Liga,2022
+10101,10101,Talleres,25,teams,poss_won_att_3rd_team,3.0,381,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,26,teams,poss_won_att_3rd_team,2.9,358,Argentina Copa de la Liga,2022
+10087,10087,Banfield,27,teams,poss_won_att_3rd_team,2.8,370,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,28,teams,poss_won_att_3rd_team,2.6,321,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,1,teams,poss_won_att_3rd_team,6.3,260,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,2,teams,poss_won_att_3rd_team,5.0,198,Argentina Copa de la Liga,2021
+10076,10076,River Plate,3,teams,poss_won_att_3rd_team,4.8,294,Argentina Copa de la Liga,2021
+10088,10088,Colon,4,teams,poss_won_att_3rd_team,4.8,292,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,5,teams,poss_won_att_3rd_team,4.7,167,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,6,teams,poss_won_att_3rd_team,4.6,177,Argentina Copa de la Liga,2021
+10096,10096,Union,7,teams,poss_won_att_3rd_team,4.6,177,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,8,teams,poss_won_att_3rd_team,4.4,220,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,9,teams,poss_won_att_3rd_team,4.3,204,Argentina Copa de la Liga,2021
+10081,10081,Huracan,10,teams,poss_won_att_3rd_team,4.3,203,Argentina Copa de la Liga,2021
+10078,10078,Independiente,11,teams,poss_won_att_3rd_team,4.0,247,Argentina Copa de la Liga,2021
+10101,10101,Talleres,12,teams,poss_won_att_3rd_team,4.0,239,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,13,teams,poss_won_att_3rd_team,4.0,231,Argentina Copa de la Liga,2021
+10087,10087,Banfield,14,teams,poss_won_att_3rd_team,4.0,159,Argentina Copa de la Liga,2021
+10082,10082,Lanus,15,teams,poss_won_att_3rd_team,3.9,174,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,16,teams,poss_won_att_3rd_team,3.8,269,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,17,teams,poss_won_att_3rd_team,3.7,189,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,18,teams,poss_won_att_3rd_team,3.6,179,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,19,teams,poss_won_att_3rd_team,3.4,204,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,20,teams,poss_won_att_3rd_team,3.4,190,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,21,teams,poss_won_att_3rd_team,3.4,169,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,22,teams,poss_won_att_3rd_team,3.3,238,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,23,teams,poss_won_att_3rd_team,3.1,167,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,24,teams,poss_won_att_3rd_team,3.0,228,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,25,teams,poss_won_att_3rd_team,2.6,245,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,26,teams,poss_won_att_3rd_team,2.4,174,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,1,teams,poss_won_att_3rd_team,4.5,568,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,2,teams,poss_won_att_3rd_team,3.9,752,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,3,teams,poss_won_att_3rd_team,3.8,701,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,4,teams,poss_won_att_3rd_team,3.7,561,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,5,teams,poss_won_att_3rd_team,3.6,613,Argentina Primera Division,2024
+10076,10076,River Plate,6,teams,poss_won_att_3rd_team,3.5,705,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,7,teams,poss_won_att_3rd_team,3.5,568,Argentina Primera Division,2024
+10092,10092,Belgrano,8,teams,poss_won_att_3rd_team,3.5,546,Argentina Primera Division,2024
+10090,10090,Instituto,9,teams,poss_won_att_3rd_team,3.4,609,Argentina Primera Division,2024
+10096,10096,Union,10,teams,poss_won_att_3rd_team,3.4,593,Argentina Primera Division,2024
+89396,89396,Tigre,11,teams,poss_won_att_3rd_team,3.3,649,Argentina Primera Division,2024
+202757,202757,Sarmiento,12,teams,poss_won_att_3rd_team,3.3,525,Argentina Primera Division,2024
+10094,10094,Estudiantes,13,teams,poss_won_att_3rd_team,3.2,719,Argentina Primera Division,2024
+10083,10083,San Lorenzo,14,teams,poss_won_att_3rd_team,3.2,613,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,15,teams,poss_won_att_3rd_team,3.2,597,Argentina Primera Division,2024
+10087,10087,Banfield,16,teams,poss_won_att_3rd_team,3.2,557,Argentina Primera Division,2024
+10080,10080,Racing Club,17,teams,poss_won_att_3rd_team,3.1,614,Argentina Primera Division,2024
+10082,10082,Lanus,18,teams,poss_won_att_3rd_team,3.1,593,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,19,teams,poss_won_att_3rd_team,3.0,601,Argentina Primera Division,2024
+10081,10081,Huracan,20,teams,poss_won_att_3rd_team,2.9,628,Argentina Primera Division,2024
+10078,10078,Independiente,21,teams,poss_won_att_3rd_team,2.7,598,Argentina Primera Division,2024
+10077,10077,Boca Juniors,22,teams,poss_won_att_3rd_team,2.7,553,Argentina Primera Division,2024
+10084,10084,Rosario Central,23,teams,poss_won_att_3rd_team,2.6,596,Argentina Primera Division,2024
+10101,10101,Talleres,24,teams,poss_won_att_3rd_team,2.6,581,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,25,teams,poss_won_att_3rd_team,2.6,482,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,26,teams,poss_won_att_3rd_team,2.4,646,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,27,teams,poss_won_att_3rd_team,2.4,555,Argentina Primera Division,2024
+213534,213534,Barracas Central,28,teams,poss_won_att_3rd_team,2.2,492,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,poss_won_att_3rd_team,6.0,837,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,2,teams,poss_won_att_3rd_team,5.3,809,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,3,teams,poss_won_att_3rd_team,5.2,817,Argentina Primera Division,2023
+213534,213534,Barracas Central,4,teams,poss_won_att_3rd_team,4.9,831,Argentina Primera Division,2023
+10082,10082,Lanus,5,teams,poss_won_att_3rd_team,4.7,718,Argentina Primera Division,2023
+89396,89396,Tigre,6,teams,poss_won_att_3rd_team,4.6,849,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,7,teams,poss_won_att_3rd_team,4.6,810,Argentina Primera Division,2023
+10078,10078,Independiente,8,teams,poss_won_att_3rd_team,4.5,873,Argentina Primera Division,2023
+10081,10081,Huracan,9,teams,poss_won_att_3rd_team,4.5,807,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,10,teams,poss_won_att_3rd_team,4.4,757,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,11,teams,poss_won_att_3rd_team,4.4,756,Argentina Primera Division,2023
+10087,10087,Banfield,12,teams,poss_won_att_3rd_team,4.3,820,Argentina Primera Division,2023
+10094,10094,Estudiantes,13,teams,poss_won_att_3rd_team,4.1,842,Argentina Primera Division,2023
+10090,10090,Instituto,14,teams,poss_won_att_3rd_team,4.1,836,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,15,teams,poss_won_att_3rd_team,4.1,760,Argentina Primera Division,2023
+10096,10096,Union,16,teams,poss_won_att_3rd_team,4.0,764,Argentina Primera Division,2023
+10088,10088,Colon,17,teams,poss_won_att_3rd_team,3.9,783,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,18,teams,poss_won_att_3rd_team,3.8,841,Argentina Primera Division,2023
+10101,10101,Talleres,19,teams,poss_won_att_3rd_team,3.8,740,Argentina Primera Division,2023
+202757,202757,Sarmiento,20,teams,poss_won_att_3rd_team,3.8,670,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,21,teams,poss_won_att_3rd_team,3.7,737,Argentina Primera Division,2023
+10092,10092,Belgrano,22,teams,poss_won_att_3rd_team,3.5,732,Argentina Primera Division,2023
+10084,10084,Rosario Central,23,teams,poss_won_att_3rd_team,3.4,697,Argentina Primera Division,2023
+10077,10077,Boca Juniors,24,teams,poss_won_att_3rd_team,3.2,751,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,25,teams,poss_won_att_3rd_team,3.0,774,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,26,teams,poss_won_att_3rd_team,3.0,767,Argentina Primera Division,2023
+10080,10080,Racing Club,27,teams,poss_won_att_3rd_team,2.9,762,Argentina Primera Division,2023
+10083,10083,San Lorenzo,28,teams,poss_won_att_3rd_team,2.7,683,Argentina Primera Division,2023
+89396,89396,Tigre,1,teams,poss_won_att_3rd_team,5.4,823,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,2,teams,poss_won_att_3rd_team,5.3,787,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,3,teams,poss_won_att_3rd_team,5.1,791,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,4,teams,poss_won_att_3rd_team,5.0,826,Argentina Primera Division,2022
+10076,10076,River Plate,5,teams,poss_won_att_3rd_team,4.8,902,Argentina Primera Division,2022
+10088,10088,Colon,6,teams,poss_won_att_3rd_team,4.8,786,Argentina Primera Division,2022
+10094,10094,Estudiantes,7,teams,poss_won_att_3rd_team,4.7,913,Argentina Primera Division,2022
+213534,213534,Barracas Central,8,teams,poss_won_att_3rd_team,4.7,714,Argentina Primera Division,2022
+10096,10096,Union,9,teams,poss_won_att_3rd_team,4.7,712,Argentina Primera Division,2022
+10084,10084,Rosario Central,10,teams,poss_won_att_3rd_team,4.7,701,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,11,teams,poss_won_att_3rd_team,4.6,838,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,12,teams,poss_won_att_3rd_team,4.5,711,Argentina Primera Division,2022
+10081,10081,Huracan,13,teams,poss_won_att_3rd_team,4.4,884,Argentina Primera Division,2022
+10087,10087,Banfield,14,teams,poss_won_att_3rd_team,4.4,823,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,15,teams,poss_won_att_3rd_team,4.4,779,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,16,teams,poss_won_att_3rd_team,4.4,715,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,17,teams,poss_won_att_3rd_team,4.3,740,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,18,teams,poss_won_att_3rd_team,4.0,791,Argentina Primera Division,2022
+10080,10080,Racing Club,19,teams,poss_won_att_3rd_team,4.0,764,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,20,teams,poss_won_att_3rd_team,4.0,754,Argentina Primera Division,2022
+161728,161728,Aldosivi,21,teams,poss_won_att_3rd_team,4.0,705,Argentina Primera Division,2022
+10078,10078,Independiente,22,teams,poss_won_att_3rd_team,3.9,772,Argentina Primera Division,2022
+10101,10101,Talleres,23,teams,poss_won_att_3rd_team,3.7,748,Argentina Primera Division,2022
+10077,10077,Boca Juniors,24,teams,poss_won_att_3rd_team,3.7,699,Argentina Primera Division,2022
+10082,10082,Lanus,25,teams,poss_won_att_3rd_team,3.7,673,Argentina Primera Division,2022
+202757,202757,Sarmiento,26,teams,poss_won_att_3rd_team,3.5,663,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,27,teams,poss_won_att_3rd_team,3.4,625,Argentina Primera Division,2022
+10083,10083,San Lorenzo,28,teams,poss_won_att_3rd_team,3.3,744,Argentina Primera Division,2022
+10096,10096,Union,1,teams,poss_won_att_3rd_team,5.0,633,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,2,teams,poss_won_att_3rd_team,5.0,632,Argentina Primera Division,2021
+10076,10076,River Plate,3,teams,poss_won_att_3rd_team,4.8,816,Argentina Primera Division,2021
+10088,10088,Colon,4,teams,poss_won_att_3rd_team,4.8,743,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,5,teams,poss_won_att_3rd_team,4.8,734,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,6,teams,poss_won_att_3rd_team,4.7,788,Argentina Primera Division,2021
+161728,161728,Aldosivi,7,teams,poss_won_att_3rd_team,4.7,693,Argentina Primera Division,2021
+10081,10081,Huracan,8,teams,poss_won_att_3rd_team,4.6,657,Argentina Primera Division,2021
+10077,10077,Boca Juniors,9,teams,poss_won_att_3rd_team,4.4,733,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,10,teams,poss_won_att_3rd_team,4.4,662,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,11,teams,poss_won_att_3rd_team,4.3,653,Argentina Primera Division,2021
+10087,10087,Banfield,12,teams,poss_won_att_3rd_team,4.2,715,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,13,teams,poss_won_att_3rd_team,4.2,714,Argentina Primera Division,2021
+10084,10084,Rosario Central,14,teams,poss_won_att_3rd_team,4.2,614,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,15,teams,poss_won_att_3rd_team,4.1,742,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,16,teams,poss_won_att_3rd_team,4.1,700,Argentina Primera Division,2021
+10094,10094,Estudiantes,17,teams,poss_won_att_3rd_team,4.0,710,Argentina Primera Division,2021
+10080,10080,Racing Club,18,teams,poss_won_att_3rd_team,4.0,710,Argentina Primera Division,2021
+202757,202757,Sarmiento,19,teams,poss_won_att_3rd_team,3.9,698,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,20,teams,poss_won_att_3rd_team,3.8,712,Argentina Primera Division,2021
+10078,10078,Independiente,21,teams,poss_won_att_3rd_team,3.8,682,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,22,teams,poss_won_att_3rd_team,3.7,717,Argentina Primera Division,2021
+10101,10101,Talleres,23,teams,poss_won_att_3rd_team,3.4,660,Argentina Primera Division,2021
+10082,10082,Lanus,24,teams,poss_won_att_3rd_team,3.3,683,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,25,teams,poss_won_att_3rd_team,3.2,717,Argentina Primera Division,2021
+10083,10083,San Lorenzo,26,teams,poss_won_att_3rd_team,3.1,599,Argentina Primera Division,2021

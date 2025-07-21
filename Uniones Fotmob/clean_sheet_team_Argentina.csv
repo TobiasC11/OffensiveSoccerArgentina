@@ -1,0 +1,219 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10227,10227,Godoy Cruz,1,teams,clean_sheet_team,9,15,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,2,teams,clean_sheet_team,9,17,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,3,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2024
+10081,10081,Huracan,4,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,5,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,6,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,7,teams,clean_sheet_team,7,17,Argentina Copa de la Liga,2024
+10078,10078,Independiente,8,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,9,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2024
+10096,10096,Union,10,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,11,teams,clean_sheet_team,6,15,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,12,teams,clean_sheet_team,6,16,Argentina Copa de la Liga,2024
+10087,10087,Banfield,13,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2024
+10090,10090,Instituto,14,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2024
+10082,10082,Lanus,15,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,16,teams,clean_sheet_team,5,15,Argentina Copa de la Liga,2024
+10076,10076,River Plate,17,teams,clean_sheet_team,5,15,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,18,teams,clean_sheet_team,5,16,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,19,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,20,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,21,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,22,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,23,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,24,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2024
+10101,10101,Talleres,25,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,27,teams,clean_sheet_team,1,14,Argentina Copa de la Liga,2024
+10087,10087,Banfield,1,teams,clean_sheet_team,10,15,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,2,teams,clean_sheet_team,9,16,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,3,teams,clean_sheet_team,7,17,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,4,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2023
+10078,10078,Independiente,5,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2023
+10090,10090,Instituto,6,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,7,teams,clean_sheet_team,7,14,Argentina Copa de la Liga,2023
+10076,10076,River Plate,8,teams,clean_sheet_team,6,16,Argentina Copa de la Liga,2023
+10081,10081,Huracan,9,teams,clean_sheet_team,6,15,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,10,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,11,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,12,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2023
+89396,89396,Tigre,13,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2023
+10096,10096,Union,14,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,15,teams,clean_sheet_team,5,17,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,16,teams,clean_sheet_team,5,15,Argentina Copa de la Liga,2023
+10088,10088,Colon,17,teams,clean_sheet_team,5,15,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,18,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,19,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,20,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2023
+10101,10101,Talleres,21,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2023
+10082,10082,Lanus,22,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,23,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,24,teams,clean_sheet_team,3,15,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,25,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,26,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,27,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,28,teams,clean_sheet_team,1,15,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,1,teams,clean_sheet_team,9,16,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,2,teams,clean_sheet_team,8,17,Argentina Copa de la Liga,2022
+89396,89396,Tigre,3,teams,clean_sheet_team,6,17,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,4,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2022
+10096,10096,Union,5,teams,clean_sheet_team,6,14,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,6,teams,clean_sheet_team,5,16,Argentina Copa de la Liga,2022
+10087,10087,Banfield,7,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,8,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2022
+10081,10081,Huracan,9,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,10,teams,clean_sheet_team,5,14,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,11,teams,clean_sheet_team,4,15,Argentina Copa de la Liga,2022
+10076,10076,River Plate,12,teams,clean_sheet_team,4,15,Argentina Copa de la Liga,2022
+10078,10078,Independiente,13,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2022
+10101,10101,Talleres,14,teams,clean_sheet_team,4,14,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,15,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2022
+10082,10082,Lanus,16,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,17,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,18,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,19,teams,clean_sheet_team,3,14,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,20,teams,clean_sheet_team,2,15,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,21,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,22,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,23,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2022
+10088,10088,Colon,24,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,25,teams,clean_sheet_team,2,14,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,26,teams,clean_sheet_team,1,15,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,27,teams,clean_sheet_team,1,14,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,28,teams,clean_sheet_team,1,14,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,1,teams,clean_sheet_team,5,10,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,2,teams,clean_sheet_team,5,8,Argentina Copa de la Liga,2021
+10088,10088,Colon,3,teams,clean_sheet_team,4,10,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,4,teams,clean_sheet_team,4,8,Argentina Copa de la Liga,2021
+10096,10096,Union,5,teams,clean_sheet_team,4,7,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,6,teams,clean_sheet_team,3,9,Argentina Copa de la Liga,2021
+10078,10078,Independiente,7,teams,clean_sheet_team,3,9,Argentina Copa de la Liga,2021
+10076,10076,River Plate,8,teams,clean_sheet_team,3,8,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,9,teams,clean_sheet_team,3,7,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,10,teams,clean_sheet_team,3,7,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,11,teams,clean_sheet_team,3,7,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,12,teams,clean_sheet_team,3,7,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,13,teams,clean_sheet_team,3,7,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,14,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+10087,10087,Banfield,15,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,16,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,17,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,18,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,19,teams,clean_sheet_team,2,7,Argentina Copa de la Liga,2021
+10101,10101,Talleres,20,teams,clean_sheet_team,1,8,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,21,teams,clean_sheet_team,1,7,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,22,teams,clean_sheet_team,1,7,Argentina Copa de la Liga,2021
+10081,10081,Huracan,23,teams,clean_sheet_team,1,7,Argentina Copa de la Liga,2021
+10082,10082,Lanus,24,teams,clean_sheet_team,1,7,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,25,teams,clean_sheet_team,1,7,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,1,teams,clean_sheet_team,16,27,Argentina Primera Division,2024
+10081,10081,Huracan,2,teams,clean_sheet_team,15,27,Argentina Primera Division,2024
+10078,10078,Independiente,3,teams,clean_sheet_team,15,27,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,4,teams,clean_sheet_team,14,27,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,5,teams,clean_sheet_team,12,27,Argentina Primera Division,2024
+10096,10096,Union,6,teams,clean_sheet_team,12,27,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,7,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+10077,10077,Boca Juniors,8,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,9,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+10080,10080,Racing Club,10,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+10076,10076,River Plate,11,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+10101,10101,Talleres,12,teams,clean_sheet_team,11,27,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,13,teams,clean_sheet_team,10,27,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,14,teams,clean_sheet_team,10,27,Argentina Primera Division,2024
+202757,202757,Sarmiento,15,teams,clean_sheet_team,10,27,Argentina Primera Division,2024
+10082,10082,Lanus,16,teams,clean_sheet_team,9,27,Argentina Primera Division,2024
+89396,89396,Tigre,17,teams,clean_sheet_team,9,27,Argentina Primera Division,2024
+213534,213534,Barracas Central,18,teams,clean_sheet_team,8,27,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,19,teams,clean_sheet_team,8,27,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,20,teams,clean_sheet_team,8,27,Argentina Primera Division,2024
+10092,10092,Belgrano,21,teams,clean_sheet_team,7,27,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,22,teams,clean_sheet_team,7,27,Argentina Primera Division,2024
+10090,10090,Instituto,23,teams,clean_sheet_team,7,27,Argentina Primera Division,2024
+10084,10084,Rosario Central,24,teams,clean_sheet_team,7,27,Argentina Primera Division,2024
+10083,10083,San Lorenzo,25,teams,clean_sheet_team,7,27,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,26,teams,clean_sheet_team,6,27,Argentina Primera Division,2024
+10087,10087,Banfield,27,teams,clean_sheet_team,5,27,Argentina Primera Division,2024
+10094,10094,Estudiantes,28,teams,clean_sheet_team,5,27,Argentina Primera Division,2024
+10083,10083,San Lorenzo,1,teams,clean_sheet_team,17,27,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,2,teams,clean_sheet_team,14,27,Argentina Primera Division,2023
+10076,10076,River Plate,3,teams,clean_sheet_team,14,27,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,4,teams,clean_sheet_team,13,27,Argentina Primera Division,2023
+10092,10092,Belgrano,5,teams,clean_sheet_team,13,27,Argentina Primera Division,2023
+10096,10096,Union,6,teams,clean_sheet_team,13,27,Argentina Primera Division,2023
+10087,10087,Banfield,7,teams,clean_sheet_team,12,27,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,8,teams,clean_sheet_team,12,27,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,9,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+213534,213534,Barracas Central,10,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+10077,10077,Boca Juniors,11,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+10094,10094,Estudiantes,12,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+10084,10084,Rosario Central,13,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+202757,202757,Sarmiento,14,teams,clean_sheet_team,11,27,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,15,teams,clean_sheet_team,10,27,Argentina Primera Division,2023
+10101,10101,Talleres,16,teams,clean_sheet_team,10,27,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,17,teams,clean_sheet_team,9,27,Argentina Primera Division,2023
+10090,10090,Instituto,18,teams,clean_sheet_team,9,27,Argentina Primera Division,2023
+10082,10082,Lanus,19,teams,clean_sheet_team,9,27,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,20,teams,clean_sheet_team,9,27,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,21,teams,clean_sheet_team,8,27,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,22,teams,clean_sheet_team,8,27,Argentina Primera Division,2023
+10078,10078,Independiente,23,teams,clean_sheet_team,8,27,Argentina Primera Division,2023
+10088,10088,Colon,24,teams,clean_sheet_team,7,27,Argentina Primera Division,2023
+10081,10081,Huracan,25,teams,clean_sheet_team,7,27,Argentina Primera Division,2023
+89396,89396,Tigre,26,teams,clean_sheet_team,7,27,Argentina Primera Division,2023
+10080,10080,Racing Club,27,teams,clean_sheet_team,6,27,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,28,teams,clean_sheet_team,5,27,Argentina Primera Division,2023
+10080,10080,Racing Club,1,teams,clean_sheet_team,14,27,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,2,teams,clean_sheet_team,13,27,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,3,teams,clean_sheet_team,13,27,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,4,teams,clean_sheet_team,12,27,Argentina Primera Division,2022
+10076,10076,River Plate,5,teams,clean_sheet_team,12,27,Argentina Primera Division,2022
+10083,10083,San Lorenzo,6,teams,clean_sheet_team,12,27,Argentina Primera Division,2022
+10081,10081,Huracan,7,teams,clean_sheet_team,11,27,Argentina Primera Division,2022
+10077,10077,Boca Juniors,8,teams,clean_sheet_team,10,27,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,9,teams,clean_sheet_team,10,27,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,10,teams,clean_sheet_team,10,27,Argentina Primera Division,2022
+10084,10084,Rosario Central,11,teams,clean_sheet_team,10,27,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,12,teams,clean_sheet_team,9,27,Argentina Primera Division,2022
+10087,10087,Banfield,13,teams,clean_sheet_team,9,27,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,14,teams,clean_sheet_team,9,27,Argentina Primera Division,2022
+10094,10094,Estudiantes,15,teams,clean_sheet_team,9,27,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,16,teams,clean_sheet_team,8,27,Argentina Primera Division,2022
+10078,10078,Independiente,17,teams,clean_sheet_team,8,27,Argentina Primera Division,2022
+202757,202757,Sarmiento,18,teams,clean_sheet_team,8,27,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,19,teams,clean_sheet_team,7,27,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,20,teams,clean_sheet_team,7,27,Argentina Primera Division,2022
+10101,10101,Talleres,21,teams,clean_sheet_team,7,27,Argentina Primera Division,2022
+89396,89396,Tigre,22,teams,clean_sheet_team,7,27,Argentina Primera Division,2022
+10096,10096,Union,23,teams,clean_sheet_team,6,27,Argentina Primera Division,2022
+161728,161728,Aldosivi,24,teams,clean_sheet_team,5,27,Argentina Primera Division,2022
+213534,213534,Barracas Central,25,teams,clean_sheet_team,5,27,Argentina Primera Division,2022
+10088,10088,Colon,26,teams,clean_sheet_team,5,27,Argentina Primera Division,2022
+10082,10082,Lanus,27,teams,clean_sheet_team,5,27,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,28,teams,clean_sheet_team,4,27,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,1,teams,clean_sheet_team,11,25,Argentina Primera Division,2021
+10076,10076,River Plate,2,teams,clean_sheet_team,11,25,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,3,teams,clean_sheet_team,11,25,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,4,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10087,10087,Banfield,5,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10077,10077,Boca Juniors,6,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,7,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10078,10078,Independiente,8,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10080,10080,Racing Club,9,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10101,10101,Talleres,10,teams,clean_sheet_team,10,25,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,11,teams,clean_sheet_team,9,25,Argentina Primera Division,2021
+10088,10088,Colon,12,teams,clean_sheet_team,9,25,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,13,teams,clean_sheet_team,9,25,Argentina Primera Division,2021
+161728,161728,Aldosivi,14,teams,clean_sheet_team,8,25,Argentina Primera Division,2021
+10081,10081,Huracan,15,teams,clean_sheet_team,8,25,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,16,teams,clean_sheet_team,8,25,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,17,teams,clean_sheet_team,7,25,Argentina Primera Division,2021
+202757,202757,Sarmiento,18,teams,clean_sheet_team,7,25,Argentina Primera Division,2021
+10096,10096,Union,19,teams,clean_sheet_team,7,25,Argentina Primera Division,2021
+10094,10094,Estudiantes,20,teams,clean_sheet_team,6,25,Argentina Primera Division,2021
+10083,10083,San Lorenzo,21,teams,clean_sheet_team,6,25,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,22,teams,clean_sheet_team,5,25,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,23,teams,clean_sheet_team,5,25,Argentina Primera Division,2021
+10082,10082,Lanus,24,teams,clean_sheet_team,4,25,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,25,teams,clean_sheet_team,3,25,Argentina Primera Division,2021
+10084,10084,Rosario Central,26,teams,clean_sheet_team,3,25,Argentina Primera Division,2021

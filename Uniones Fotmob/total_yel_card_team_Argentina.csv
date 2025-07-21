@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10094,10094,Estudiantes,1,teams,total_yel_card_team,46,4,Argentina Copa de la Liga,2024
+10078,10078,Independiente,2,teams,total_yel_card_team,41,4,Argentina Copa de la Liga,2024
+10082,10082,Lanus,3,teams,total_yel_card_team,41,1,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,4,teams,total_yel_card_team,40,3,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,5,teams,total_yel_card_team,39,3,Argentina Copa de la Liga,2024
+10096,10096,Union,6,teams,total_yel_card_team,39,0,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,7,teams,total_yel_card_team,38,3,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,total_yel_card_team,38,3,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,9,teams,total_yel_card_team,38,1,Argentina Copa de la Liga,2024
+10090,10090,Instituto,10,teams,total_yel_card_team,37,2,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,11,teams,total_yel_card_team,37,0,Argentina Copa de la Liga,2024
+10076,10076,River Plate,12,teams,total_yel_card_team,37,0,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,13,teams,total_yel_card_team,36,1,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,14,teams,total_yel_card_team,35,1,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,15,teams,total_yel_card_team,34,1,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,16,teams,total_yel_card_team,34,0,Argentina Copa de la Liga,2024
+10081,10081,Huracan,17,teams,total_yel_card_team,32,4,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,18,teams,total_yel_card_team,31,4,Argentina Copa de la Liga,2024
+10101,10101,Talleres,19,teams,total_yel_card_team,31,2,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,20,teams,total_yel_card_team,31,1,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,21,teams,total_yel_card_team,30,1,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,22,teams,total_yel_card_team,29,1,Argentina Copa de la Liga,2024
+10087,10087,Banfield,23,teams,total_yel_card_team,28,1,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,24,teams,total_yel_card_team,27,1,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,25,teams,total_yel_card_team,26,3,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,26,teams,total_yel_card_team,25,1,Argentina Copa de la Liga,2024
+89396,89396,Tigre,27,teams,total_yel_card_team,24,3,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,28,teams,total_yel_card_team,17,1,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,1,teams,total_yel_card_team,43,1,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,2,teams,total_yel_card_team,42,4,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,3,teams,total_yel_card_team,42,2,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,4,teams,total_yel_card_team,41,1,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,5,teams,total_yel_card_team,40,3,Argentina Copa de la Liga,2023
+10076,10076,River Plate,6,teams,total_yel_card_team,40,1,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,7,teams,total_yel_card_team,39,3,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,8,teams,total_yel_card_team,39,1,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,9,teams,total_yel_card_team,38,1,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,10,teams,total_yel_card_team,38,1,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,11,teams,total_yel_card_team,37,2,Argentina Copa de la Liga,2023
+10078,10078,Independiente,12,teams,total_yel_card_team,37,0,Argentina Copa de la Liga,2023
+10090,10090,Instituto,13,teams,total_yel_card_team,37,0,Argentina Copa de la Liga,2023
+10088,10088,Colon,14,teams,total_yel_card_team,36,3,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,15,teams,total_yel_card_team,35,1,Argentina Copa de la Liga,2023
+10087,10087,Banfield,16,teams,total_yel_card_team,35,0,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,17,teams,total_yel_card_team,34,7,Argentina Copa de la Liga,2023
+10081,10081,Huracan,18,teams,total_yel_card_team,34,4,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,19,teams,total_yel_card_team,32,2,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,20,teams,total_yel_card_team,31,2,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,21,teams,total_yel_card_team,30,4,Argentina Copa de la Liga,2023
+10096,10096,Union,22,teams,total_yel_card_team,30,2,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,23,teams,total_yel_card_team,30,1,Argentina Copa de la Liga,2023
+10101,10101,Talleres,24,teams,total_yel_card_team,29,0,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,25,teams,total_yel_card_team,27,0,Argentina Copa de la Liga,2023
+89396,89396,Tigre,26,teams,total_yel_card_team,27,0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,27,teams,total_yel_card_team,26,7,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,28,teams,total_yel_card_team,16,4,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,1,teams,total_yel_card_team,48,1,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,2,teams,total_yel_card_team,45,2,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,3,teams,total_yel_card_team,45,1,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,4,teams,total_yel_card_team,43,2,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,5,teams,total_yel_card_team,43,1,Argentina Copa de la Liga,2022
+10087,10087,Banfield,6,teams,total_yel_card_team,41,3,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,7,teams,total_yel_card_team,40,2,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,8,teams,total_yel_card_team,40,0,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,9,teams,total_yel_card_team,39,1,Argentina Copa de la Liga,2022
+10078,10078,Independiente,10,teams,total_yel_card_team,37,2,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,11,teams,total_yel_card_team,37,1,Argentina Copa de la Liga,2022
+10081,10081,Huracan,12,teams,total_yel_card_team,37,1,Argentina Copa de la Liga,2022
+10082,10082,Lanus,13,teams,total_yel_card_team,37,1,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,14,teams,total_yel_card_team,35,4,Argentina Copa de la Liga,2022
+10096,10096,Union,15,teams,total_yel_card_team,35,2,Argentina Copa de la Liga,2022
+89396,89396,Tigre,16,teams,total_yel_card_team,34,1,Argentina Copa de la Liga,2022
+10101,10101,Talleres,17,teams,total_yel_card_team,33,6,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,18,teams,total_yel_card_team,33,5,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,19,teams,total_yel_card_team,33,2,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,20,teams,total_yel_card_team,32,2,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,21,teams,total_yel_card_team,31,2,Argentina Copa de la Liga,2022
+10088,10088,Colon,22,teams,total_yel_card_team,30,0,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,23,teams,total_yel_card_team,29,3,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,24,teams,total_yel_card_team,28,2,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,25,teams,total_yel_card_team,28,2,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,26,teams,total_yel_card_team,26,2,Argentina Copa de la Liga,2022
+10076,10076,River Plate,27,teams,total_yel_card_team,26,0,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,28,teams,total_yel_card_team,25,3,Argentina Copa de la Liga,2022
+10088,10088,Colon,1,teams,total_yel_card_team,28,2,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,2,teams,total_yel_card_team,28,0,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,3,teams,total_yel_card_team,26,0,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,4,teams,total_yel_card_team,23,0,Argentina Copa de la Liga,2021
+10101,10101,Talleres,5,teams,total_yel_card_team,22,2,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,6,teams,total_yel_card_team,21,1,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,7,teams,total_yel_card_team,20,4,Argentina Copa de la Liga,2021
+10078,10078,Independiente,8,teams,total_yel_card_team,20,1,Argentina Copa de la Liga,2021
+10082,10082,Lanus,9,teams,total_yel_card_team,19,1,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,10,teams,total_yel_card_team,18,2,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,11,teams,total_yel_card_team,18,2,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,12,teams,total_yel_card_team,17,2,Argentina Copa de la Liga,2021
+10087,10087,Banfield,13,teams,total_yel_card_team,17,2,Argentina Copa de la Liga,2021
+10081,10081,Huracan,14,teams,total_yel_card_team,17,1,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,15,teams,total_yel_card_team,17,1,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,16,teams,total_yel_card_team,17,0,Argentina Copa de la Liga,2021
+10076,10076,River Plate,17,teams,total_yel_card_team,17,0,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,18,teams,total_yel_card_team,16,1,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,19,teams,total_yel_card_team,15,2,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,20,teams,total_yel_card_team,15,2,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,21,teams,total_yel_card_team,14,2,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,22,teams,total_yel_card_team,14,2,Argentina Copa de la Liga,2021
+10096,10096,Union,23,teams,total_yel_card_team,14,1,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,24,teams,total_yel_card_team,14,0,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,25,teams,total_yel_card_team,13,3,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,26,teams,total_yel_card_team,13,2,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,1,teams,total_yel_card_team,87,2,Argentina Primera Division,2024
+10078,10078,Independiente,2,teams,total_yel_card_team,85,7,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,3,teams,total_yel_card_team,76,3,Argentina Primera Division,2024
+10077,10077,Boca Juniors,4,teams,total_yel_card_team,74,6,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,5,teams,total_yel_card_team,71,6,Argentina Primera Division,2024
+10092,10092,Belgrano,6,teams,total_yel_card_team,71,4,Argentina Primera Division,2024
+10101,10101,Talleres,7,teams,total_yel_card_team,71,4,Argentina Primera Division,2024
+10076,10076,River Plate,8,teams,total_yel_card_team,70,2,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,9,teams,total_yel_card_team,69,4,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,10,teams,total_yel_card_team,67,3,Argentina Primera Division,2024
+10087,10087,Banfield,11,teams,total_yel_card_team,65,6,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,12,teams,total_yel_card_team,64,7,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,13,teams,total_yel_card_team,64,5,Argentina Primera Division,2024
+10094,10094,Estudiantes,14,teams,total_yel_card_team,64,1,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,15,teams,total_yel_card_team,63,7,Argentina Primera Division,2024
+10090,10090,Instituto,16,teams,total_yel_card_team,63,4,Argentina Primera Division,2024
+202757,202757,Sarmiento,17,teams,total_yel_card_team,63,2,Argentina Primera Division,2024
+10096,10096,Union,18,teams,total_yel_card_team,61,4,Argentina Primera Division,2024
+10081,10081,Huracan,19,teams,total_yel_card_team,61,3,Argentina Primera Division,2024
+10080,10080,Racing Club,20,teams,total_yel_card_team,61,2,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,21,teams,total_yel_card_team,60,4,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,22,teams,total_yel_card_team,58,1,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,23,teams,total_yel_card_team,57,5,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,24,teams,total_yel_card_team,56,3,Argentina Primera Division,2024
+10083,10083,San Lorenzo,25,teams,total_yel_card_team,56,3,Argentina Primera Division,2024
+213534,213534,Barracas Central,26,teams,total_yel_card_team,53,2,Argentina Primera Division,2024
+10082,10082,Lanus,27,teams,total_yel_card_team,52,6,Argentina Primera Division,2024
+89396,89396,Tigre,28,teams,total_yel_card_team,49,1,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,1,teams,total_yel_card_team,72,5,Argentina Primera Division,2023
+10077,10077,Boca Juniors,2,teams,total_yel_card_team,71,9,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,3,teams,total_yel_card_team,70,4,Argentina Primera Division,2023
+10084,10084,Rosario Central,4,teams,total_yel_card_team,69,3,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,5,teams,total_yel_card_team,68,2,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,6,teams,total_yel_card_team,67,6,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,7,teams,total_yel_card_team,67,3,Argentina Primera Division,2023
+10090,10090,Instituto,8,teams,total_yel_card_team,67,3,Argentina Primera Division,2023
+10078,10078,Independiente,9,teams,total_yel_card_team,66,8,Argentina Primera Division,2023
+10087,10087,Banfield,10,teams,total_yel_card_team,66,6,Argentina Primera Division,2023
+10080,10080,Racing Club,11,teams,total_yel_card_team,66,5,Argentina Primera Division,2023
+202757,202757,Sarmiento,12,teams,total_yel_card_team,65,5,Argentina Primera Division,2023
+10096,10096,Union,13,teams,total_yel_card_team,64,5,Argentina Primera Division,2023
+10088,10088,Colon,14,teams,total_yel_card_team,64,3,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,15,teams,total_yel_card_team,63,3,Argentina Primera Division,2023
+10082,10082,Lanus,16,teams,total_yel_card_team,61,9,Argentina Primera Division,2023
+10083,10083,San Lorenzo,17,teams,total_yel_card_team,61,8,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,18,teams,total_yel_card_team,61,6,Argentina Primera Division,2023
+10081,10081,Huracan,19,teams,total_yel_card_team,61,6,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,20,teams,total_yel_card_team,61,6,Argentina Primera Division,2023
+10076,10076,River Plate,21,teams,total_yel_card_team,59,4,Argentina Primera Division,2023
+10101,10101,Talleres,22,teams,total_yel_card_team,59,3,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,23,teams,total_yel_card_team,58,3,Argentina Primera Division,2023
+10094,10094,Estudiantes,24,teams,total_yel_card_team,55,0,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,25,teams,total_yel_card_team,51,1,Argentina Primera Division,2023
+10092,10092,Belgrano,26,teams,total_yel_card_team,48,6,Argentina Primera Division,2023
+89396,89396,Tigre,27,teams,total_yel_card_team,48,3,Argentina Primera Division,2023
+213534,213534,Barracas Central,28,teams,total_yel_card_team,40,3,Argentina Primera Division,2023
+10077,10077,Boca Juniors,1,teams,total_yel_card_team,90,4,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,2,teams,total_yel_card_team,78,6,Argentina Primera Division,2022
+202757,202757,Sarmiento,3,teams,total_yel_card_team,77,3,Argentina Primera Division,2022
+10096,10096,Union,4,teams,total_yel_card_team,75,4,Argentina Primera Division,2022
+10082,10082,Lanus,5,teams,total_yel_card_team,74,8,Argentina Primera Division,2022
+10084,10084,Rosario Central,6,teams,total_yel_card_team,73,3,Argentina Primera Division,2022
+10080,10080,Racing Club,7,teams,total_yel_card_team,71,7,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,8,teams,total_yel_card_team,71,4,Argentina Primera Division,2022
+10078,10078,Independiente,9,teams,total_yel_card_team,70,1,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,10,teams,total_yel_card_team,69,8,Argentina Primera Division,2022
+10076,10076,River Plate,11,teams,total_yel_card_team,69,5,Argentina Primera Division,2022
+10081,10081,Huracan,12,teams,total_yel_card_team,69,3,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,13,teams,total_yel_card_team,68,5,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,14,teams,total_yel_card_team,67,6,Argentina Primera Division,2022
+10087,10087,Banfield,15,teams,total_yel_card_team,66,4,Argentina Primera Division,2022
+161728,161728,Aldosivi,16,teams,total_yel_card_team,65,7,Argentina Primera Division,2022
+10101,10101,Talleres,17,teams,total_yel_card_team,65,5,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,18,teams,total_yel_card_team,64,2,Argentina Primera Division,2022
+10083,10083,San Lorenzo,19,teams,total_yel_card_team,63,2,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,20,teams,total_yel_card_team,61,5,Argentina Primera Division,2022
+10094,10094,Estudiantes,21,teams,total_yel_card_team,61,1,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,22,teams,total_yel_card_team,57,1,Argentina Primera Division,2022
+213534,213534,Barracas Central,23,teams,total_yel_card_team,56,1,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,24,teams,total_yel_card_team,55,7,Argentina Primera Division,2022
+10088,10088,Colon,25,teams,total_yel_card_team,54,5,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,26,teams,total_yel_card_team,54,1,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,27,teams,total_yel_card_team,53,6,Argentina Primera Division,2022
+89396,89396,Tigre,28,teams,total_yel_card_team,52,5,Argentina Primera Division,2022
+10101,10101,Talleres,1,teams,total_yel_card_team,70,2,Argentina Primera Division,2021
+10083,10083,San Lorenzo,2,teams,total_yel_card_team,69,11,Argentina Primera Division,2021
+10081,10081,Huracan,3,teams,total_yel_card_team,69,2,Argentina Primera Division,2021
+161728,161728,Aldosivi,4,teams,total_yel_card_team,65,4,Argentina Primera Division,2021
+10082,10082,Lanus,5,teams,total_yel_card_team,64,1,Argentina Primera Division,2021
+10084,10084,Rosario Central,6,teams,total_yel_card_team,61,5,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,7,teams,total_yel_card_team,60,3,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,8,teams,total_yel_card_team,59,4,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,9,teams,total_yel_card_team,58,3,Argentina Primera Division,2021
+10087,10087,Banfield,10,teams,total_yel_card_team,57,3,Argentina Primera Division,2021
+10080,10080,Racing Club,11,teams,total_yel_card_team,57,1,Argentina Primera Division,2021
+10094,10094,Estudiantes,12,teams,total_yel_card_team,57,0,Argentina Primera Division,2021
+10078,10078,Independiente,13,teams,total_yel_card_team,55,5,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,14,teams,total_yel_card_team,54,2,Argentina Primera Division,2021
+10076,10076,River Plate,15,teams,total_yel_card_team,54,1,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,16,teams,total_yel_card_team,52,3,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,17,teams,total_yel_card_team,51,5,Argentina Primera Division,2021
+202757,202757,Sarmiento,18,teams,total_yel_card_team,50,1,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,19,teams,total_yel_card_team,48,2,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,20,teams,total_yel_card_team,48,2,Argentina Primera Division,2021
+10088,10088,Colon,21,teams,total_yel_card_team,46,7,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,22,teams,total_yel_card_team,46,4,Argentina Primera Division,2021
+10096,10096,Union,23,teams,total_yel_card_team,45,4,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,24,teams,total_yel_card_team,42,1,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,25,teams,total_yel_card_team,38,2,Argentina Primera Division,2021
+10077,10077,Boca Juniors,26,teams,total_yel_card_team,35,3,Argentina Primera Division,2021

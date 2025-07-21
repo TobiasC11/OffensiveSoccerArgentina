@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10227,10227,Godoy Cruz,1,teams,accurate_long_balls_team,33.3,50.9,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,2,teams,accurate_long_balls_team,31.9,49.7,Argentina Copa de la Liga,2024
+10101,10101,Talleres,3,teams,accurate_long_balls_team,31.9,48.8,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,4,teams,accurate_long_balls_team,30.6,45.1,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,5,teams,accurate_long_balls_team,30.4,46.3,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,6,teams,accurate_long_balls_team,30.4,46.0,Argentina Copa de la Liga,2024
+10081,10081,Huracan,7,teams,accurate_long_balls_team,29.9,45.4,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,8,teams,accurate_long_balls_team,29.7,45.3,Argentina Copa de la Liga,2024
+10076,10076,River Plate,9,teams,accurate_long_balls_team,29.4,59.9,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,10,teams,accurate_long_balls_team,28.7,44.4,Argentina Copa de la Liga,2024
+10096,10096,Union,11,teams,accurate_long_balls_team,28.1,44.0,Argentina Copa de la Liga,2024
+10078,10078,Independiente,12,teams,accurate_long_balls_team,27.6,46.9,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,13,teams,accurate_long_balls_team,27.2,46.4,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,14,teams,accurate_long_balls_team,26.9,46.3,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,15,teams,accurate_long_balls_team,26.8,48.2,Argentina Copa de la Liga,2024
+10090,10090,Instituto,16,teams,accurate_long_balls_team,26.4,42.9,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,17,teams,accurate_long_balls_team,26.1,43.8,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,18,teams,accurate_long_balls_team,25.9,46.6,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,19,teams,accurate_long_balls_team,25.6,44.4,Argentina Copa de la Liga,2024
+89396,89396,Tigre,20,teams,accurate_long_balls_team,25.5,47.0,Argentina Copa de la Liga,2024
+10087,10087,Banfield,21,teams,accurate_long_balls_team,25.3,39.9,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,22,teams,accurate_long_balls_team,24.2,40.3,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,23,teams,accurate_long_balls_team,23.9,43.0,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,24,teams,accurate_long_balls_team,23.7,37.4,Argentina Copa de la Liga,2024
+10082,10082,Lanus,25,teams,accurate_long_balls_team,23.4,40.4,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,26,teams,accurate_long_balls_team,23.2,41.2,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,27,teams,accurate_long_balls_team,22.9,43.5,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,28,teams,accurate_long_balls_team,22.5,32.7,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,1,teams,accurate_long_balls_team,35.7,49.3,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,2,teams,accurate_long_balls_team,33.2,50.1,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,3,teams,accurate_long_balls_team,31.9,48.6,Argentina Copa de la Liga,2023
+10101,10101,Talleres,4,teams,accurate_long_balls_team,31.4,52.5,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,5,teams,accurate_long_balls_team,29.1,48.9,Argentina Copa de la Liga,2023
+10078,10078,Independiente,6,teams,accurate_long_balls_team,29.1,45.9,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,7,teams,accurate_long_balls_team,28.5,43.4,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,8,teams,accurate_long_balls_team,27.9,49.1,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,9,teams,accurate_long_balls_team,27.5,43.0,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,10,teams,accurate_long_balls_team,27.2,48.7,Argentina Copa de la Liga,2023
+10081,10081,Huracan,11,teams,accurate_long_balls_team,26.8,42.9,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,12,teams,accurate_long_balls_team,26.8,40.8,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,13,teams,accurate_long_balls_team,26.6,46.8,Argentina Copa de la Liga,2023
+10088,10088,Colon,14,teams,accurate_long_balls_team,25.5,39.9,Argentina Copa de la Liga,2023
+10082,10082,Lanus,15,teams,accurate_long_balls_team,25.4,43.1,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,16,teams,accurate_long_balls_team,25.3,41.5,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,17,teams,accurate_long_balls_team,25.0,44.0,Argentina Copa de la Liga,2023
+10076,10076,River Plate,18,teams,accurate_long_balls_team,24.6,52.2,Argentina Copa de la Liga,2023
+89396,89396,Tigre,19,teams,accurate_long_balls_team,24.6,46.1,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,20,teams,accurate_long_balls_team,24.6,38.4,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,21,teams,accurate_long_balls_team,24.4,36.0,Argentina Copa de la Liga,2023
+10087,10087,Banfield,22,teams,accurate_long_balls_team,24.3,37.1,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,23,teams,accurate_long_balls_team,24.2,33.9,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,24,teams,accurate_long_balls_team,23.4,35.9,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,25,teams,accurate_long_balls_team,22.8,38.5,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,26,teams,accurate_long_balls_team,22.6,37.6,Argentina Copa de la Liga,2023
+10090,10090,Instituto,27,teams,accurate_long_balls_team,22.3,32.2,Argentina Copa de la Liga,2023
+10096,10096,Union,28,teams,accurate_long_balls_team,21.6,41.5,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,accurate_long_balls_team,35.7,52.9,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,2,teams,accurate_long_balls_team,34.9,50.7,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,3,teams,accurate_long_balls_team,33.5,51.8,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,4,teams,accurate_long_balls_team,32.3,45.8,Argentina Copa de la Liga,2022
+10081,10081,Huracan,5,teams,accurate_long_balls_team,32.1,46.2,Argentina Copa de la Liga,2022
+10101,10101,Talleres,6,teams,accurate_long_balls_team,31.6,43.5,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,7,teams,accurate_long_balls_team,30.9,46.6,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,8,teams,accurate_long_balls_team,30.7,42.9,Argentina Copa de la Liga,2022
+89396,89396,Tigre,9,teams,accurate_long_balls_team,30.6,51.2,Argentina Copa de la Liga,2022
+10088,10088,Colon,10,teams,accurate_long_balls_team,30.3,44.0,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,11,teams,accurate_long_balls_team,30.1,47.1,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,12,teams,accurate_long_balls_team,30.1,45.5,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,13,teams,accurate_long_balls_team,27.9,46.5,Argentina Copa de la Liga,2022
+10078,10078,Independiente,14,teams,accurate_long_balls_team,26.8,48.1,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,15,teams,accurate_long_balls_team,26.8,42.0,Argentina Copa de la Liga,2022
+10087,10087,Banfield,16,teams,accurate_long_balls_team,26.7,41.8,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,17,teams,accurate_long_balls_team,26.6,42.2,Argentina Copa de la Liga,2022
+10082,10082,Lanus,18,teams,accurate_long_balls_team,25.9,45.1,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,19,teams,accurate_long_balls_team,25.1,39.7,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,20,teams,accurate_long_balls_team,25.1,38.0,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,21,teams,accurate_long_balls_team,25.0,40.3,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,22,teams,accurate_long_balls_team,24.6,42.9,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,23,teams,accurate_long_balls_team,24.0,43.2,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,24,teams,accurate_long_balls_team,23.2,36.6,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,25,teams,accurate_long_balls_team,23.1,36.9,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,26,teams,accurate_long_balls_team,22.9,35.0,Argentina Copa de la Liga,2022
+10096,10096,Union,27,teams,accurate_long_balls_team,22.8,37.0,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,28,teams,accurate_long_balls_team,22.7,38.2,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,1,teams,accurate_long_balls_team,36.9,49.9,Argentina Copa de la Liga,2021
+10076,10076,River Plate,2,teams,accurate_long_balls_team,36.4,55.6,Argentina Copa de la Liga,2021
+10101,10101,Talleres,3,teams,accurate_long_balls_team,35.5,48.1,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,4,teams,accurate_long_balls_team,35.4,51.5,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,5,teams,accurate_long_balls_team,35.1,48.6,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,6,teams,accurate_long_balls_team,34.6,50.2,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,7,teams,accurate_long_balls_team,34.3,46.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,8,teams,accurate_long_balls_team,32.4,49.7,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,9,teams,accurate_long_balls_team,32.3,50.1,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,10,teams,accurate_long_balls_team,31.4,39.9,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,11,teams,accurate_long_balls_team,31.1,44.0,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,12,teams,accurate_long_balls_team,30.4,43.5,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,13,teams,accurate_long_balls_team,30.3,42.3,Argentina Copa de la Liga,2021
+10087,10087,Banfield,14,teams,accurate_long_balls_team,29.3,43.6,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,15,teams,accurate_long_balls_team,28.9,41.6,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,16,teams,accurate_long_balls_team,28.7,41.0,Argentina Copa de la Liga,2021
+10096,10096,Union,17,teams,accurate_long_balls_team,28.6,46.7,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,18,teams,accurate_long_balls_team,28.1,44.6,Argentina Copa de la Liga,2021
+10081,10081,Huracan,19,teams,accurate_long_balls_team,27.0,47.5,Argentina Copa de la Liga,2021
+10082,10082,Lanus,20,teams,accurate_long_balls_team,26.4,47.6,Argentina Copa de la Liga,2021
+10088,10088,Colon,21,teams,accurate_long_balls_team,26.1,39.3,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,22,teams,accurate_long_balls_team,25.6,43.4,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,23,teams,accurate_long_balls_team,25.6,36.3,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,24,teams,accurate_long_balls_team,25.1,38.7,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,25,teams,accurate_long_balls_team,23.9,40.1,Argentina Copa de la Liga,2021
+10078,10078,Independiente,26,teams,accurate_long_balls_team,23.1,37.8,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,1,teams,accurate_long_balls_team,33.3,48.2,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,2,teams,accurate_long_balls_team,31.9,48.6,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,3,teams,accurate_long_balls_team,31.7,45.8,Argentina Primera Division,2024
+10101,10101,Talleres,4,teams,accurate_long_balls_team,31.3,51.8,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,5,teams,accurate_long_balls_team,30.6,48.1,Argentina Primera Division,2024
+10096,10096,Union,6,teams,accurate_long_balls_team,30.0,44.8,Argentina Primera Division,2024
+10078,10078,Independiente,7,teams,accurate_long_balls_team,29.4,47.2,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,8,teams,accurate_long_balls_team,29.2,45.0,Argentina Primera Division,2024
+10094,10094,Estudiantes,9,teams,accurate_long_balls_team,28.9,48.7,Argentina Primera Division,2024
+10076,10076,River Plate,10,teams,accurate_long_balls_team,28.2,52.8,Argentina Primera Division,2024
+10081,10081,Huracan,11,teams,accurate_long_balls_team,27.9,40.3,Argentina Primera Division,2024
+10090,10090,Instituto,12,teams,accurate_long_balls_team,27.8,41.4,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,13,teams,accurate_long_balls_team,27.7,46.3,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,14,teams,accurate_long_balls_team,27.6,38.3,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,15,teams,accurate_long_balls_team,27.1,43.3,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,16,teams,accurate_long_balls_team,27.0,44.2,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,17,teams,accurate_long_balls_team,26.4,38.2,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,18,teams,accurate_long_balls_team,26.2,39.1,Argentina Primera Division,2024
+10082,10082,Lanus,19,teams,accurate_long_balls_team,26.1,44.4,Argentina Primera Division,2024
+10084,10084,Rosario Central,20,teams,accurate_long_balls_team,25.9,42.4,Argentina Primera Division,2024
+10077,10077,Boca Juniors,21,teams,accurate_long_balls_team,25.1,44.8,Argentina Primera Division,2024
+10087,10087,Banfield,22,teams,accurate_long_balls_team,24.7,40.4,Argentina Primera Division,2024
+213534,213534,Barracas Central,23,teams,accurate_long_balls_team,24.4,40.7,Argentina Primera Division,2024
+89396,89396,Tigre,24,teams,accurate_long_balls_team,24.3,43.6,Argentina Primera Division,2024
+10092,10092,Belgrano,25,teams,accurate_long_balls_team,23.6,42.0,Argentina Primera Division,2024
+10083,10083,San Lorenzo,26,teams,accurate_long_balls_team,23.2,40.2,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,27,teams,accurate_long_balls_team,23.2,32.7,Argentina Primera Division,2024
+202757,202757,Sarmiento,28,teams,accurate_long_balls_team,21.8,33.8,Argentina Primera Division,2024
+10092,10092,Belgrano,1,teams,accurate_long_balls_team,34.5,52.1,Argentina Primera Division,2023
+10101,10101,Talleres,2,teams,accurate_long_balls_team,33.2,48.8,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,3,teams,accurate_long_balls_team,31.9,48.9,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,4,teams,accurate_long_balls_team,31.7,48.3,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,5,teams,accurate_long_balls_team,30.5,46.7,Argentina Primera Division,2023
+10080,10080,Racing Club,6,teams,accurate_long_balls_team,30.3,48.5,Argentina Primera Division,2023
+10076,10076,River Plate,7,teams,accurate_long_balls_team,30.0,59.5,Argentina Primera Division,2023
+10081,10081,Huracan,8,teams,accurate_long_balls_team,29.7,44.8,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,9,teams,accurate_long_balls_team,28.8,43.7,Argentina Primera Division,2023
+10094,10094,Estudiantes,10,teams,accurate_long_balls_team,28.3,45.4,Argentina Primera Division,2023
+89396,89396,Tigre,11,teams,accurate_long_balls_team,28.1,47.3,Argentina Primera Division,2023
+10082,10082,Lanus,12,teams,accurate_long_balls_team,27.7,45.7,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,13,teams,accurate_long_balls_team,27.7,38.5,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,14,teams,accurate_long_balls_team,27.1,40.9,Argentina Primera Division,2023
+10084,10084,Rosario Central,15,teams,accurate_long_balls_team,26.8,44.7,Argentina Primera Division,2023
+202757,202757,Sarmiento,16,teams,accurate_long_balls_team,26.6,41.8,Argentina Primera Division,2023
+10077,10077,Boca Juniors,17,teams,accurate_long_balls_team,25.7,48.2,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,18,teams,accurate_long_balls_team,25.7,47.8,Argentina Primera Division,2023
+10090,10090,Instituto,19,teams,accurate_long_balls_team,25.5,40.5,Argentina Primera Division,2023
+10088,10088,Colon,20,teams,accurate_long_balls_team,24.9,39.9,Argentina Primera Division,2023
+10083,10083,San Lorenzo,21,teams,accurate_long_balls_team,24.3,45.5,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,22,teams,accurate_long_balls_team,24.3,39.0,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,23,teams,accurate_long_balls_team,23.9,44.0,Argentina Primera Division,2023
+10087,10087,Banfield,24,teams,accurate_long_balls_team,23.6,40.0,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,25,teams,accurate_long_balls_team,23.6,37.2,Argentina Primera Division,2023
+213534,213534,Barracas Central,26,teams,accurate_long_balls_team,23.2,36.2,Argentina Primera Division,2023
+10078,10078,Independiente,27,teams,accurate_long_balls_team,22.2,36.8,Argentina Primera Division,2023
+10096,10096,Union,28,teams,accurate_long_balls_team,21.4,37.7,Argentina Primera Division,2023
+10101,10101,Talleres,1,teams,accurate_long_balls_team,37.9,51.3,Argentina Primera Division,2022
+10077,10077,Boca Juniors,2,teams,accurate_long_balls_team,33.5,49.7,Argentina Primera Division,2022
+10081,10081,Huracan,3,teams,accurate_long_balls_team,33.2,45.7,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,4,teams,accurate_long_balls_team,33.1,46.9,Argentina Primera Division,2022
+10076,10076,River Plate,5,teams,accurate_long_balls_team,33.0,50.9,Argentina Primera Division,2022
+10080,10080,Racing Club,6,teams,accurate_long_balls_team,33.0,49.0,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,7,teams,accurate_long_balls_team,31.7,45.9,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,8,teams,accurate_long_balls_team,31.2,42.0,Argentina Primera Division,2022
+10087,10087,Banfield,9,teams,accurate_long_balls_team,30.6,44.0,Argentina Primera Division,2022
+89396,89396,Tigre,10,teams,accurate_long_balls_team,28.8,48.9,Argentina Primera Division,2022
+10094,10094,Estudiantes,11,teams,accurate_long_balls_team,28.5,43.6,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,12,teams,accurate_long_balls_team,28.5,42.1,Argentina Primera Division,2022
+10084,10084,Rosario Central,13,teams,accurate_long_balls_team,28.3,44.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,14,teams,accurate_long_balls_team,28.3,41.0,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,15,teams,accurate_long_balls_team,28.0,43.2,Argentina Primera Division,2022
+161728,161728,Aldosivi,16,teams,accurate_long_balls_team,28.0,41.1,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,17,teams,accurate_long_balls_team,27.0,44.7,Argentina Primera Division,2022
+10082,10082,Lanus,18,teams,accurate_long_balls_team,26.6,45.5,Argentina Primera Division,2022
+10078,10078,Independiente,19,teams,accurate_long_balls_team,26.1,42.5,Argentina Primera Division,2022
+10083,10083,San Lorenzo,20,teams,accurate_long_balls_team,25.9,41.3,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,21,teams,accurate_long_balls_team,25.7,42.4,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,22,teams,accurate_long_balls_team,25.3,36.5,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,23,teams,accurate_long_balls_team,24.8,35.4,Argentina Primera Division,2022
+10096,10096,Union,24,teams,accurate_long_balls_team,24.4,41.0,Argentina Primera Division,2022
+10088,10088,Colon,25,teams,accurate_long_balls_team,24.3,37.6,Argentina Primera Division,2022
+213534,213534,Barracas Central,26,teams,accurate_long_balls_team,23.8,34.5,Argentina Primera Division,2022
+202757,202757,Sarmiento,27,teams,accurate_long_balls_team,23.6,38.0,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,28,teams,accurate_long_balls_team,23.1,39.3,Argentina Primera Division,2022
+10080,10080,Racing Club,1,teams,accurate_long_balls_team,38.4,53.8,Argentina Primera Division,2021
+10077,10077,Boca Juniors,2,teams,accurate_long_balls_team,37.0,54.6,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,3,teams,accurate_long_balls_team,36.2,50.3,Argentina Primera Division,2021
+10101,10101,Talleres,4,teams,accurate_long_balls_team,34.7,49.3,Argentina Primera Division,2021
+10076,10076,River Plate,5,teams,accurate_long_balls_team,34.6,55.5,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,6,teams,accurate_long_balls_team,33.8,46.4,Argentina Primera Division,2021
+10084,10084,Rosario Central,7,teams,accurate_long_balls_team,32.2,46.5,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,8,teams,accurate_long_balls_team,32.0,46.0,Argentina Primera Division,2021
+10083,10083,San Lorenzo,9,teams,accurate_long_balls_team,31.8,47.2,Argentina Primera Division,2021
+10087,10087,Banfield,10,teams,accurate_long_balls_team,31.4,47.9,Argentina Primera Division,2021
+10081,10081,Huracan,11,teams,accurate_long_balls_team,30.9,45.0,Argentina Primera Division,2021
+10096,10096,Union,12,teams,accurate_long_balls_team,30.2,45.5,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,13,teams,accurate_long_balls_team,29.6,48.9,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,14,teams,accurate_long_balls_team,29.6,43.5,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,15,teams,accurate_long_balls_team,29.4,44.4,Argentina Primera Division,2021
+202757,202757,Sarmiento,16,teams,accurate_long_balls_team,29.2,41.4,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,17,teams,accurate_long_balls_team,28.2,42.8,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,18,teams,accurate_long_balls_team,28.1,41.1,Argentina Primera Division,2021
+10094,10094,Estudiantes,19,teams,accurate_long_balls_team,28.0,41.2,Argentina Primera Division,2021
+10078,10078,Independiente,20,teams,accurate_long_balls_team,27.2,44.9,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,21,teams,accurate_long_balls_team,27.0,42.1,Argentina Primera Division,2021
+10088,10088,Colon,22,teams,accurate_long_balls_team,26.6,42.3,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,23,teams,accurate_long_balls_team,26.1,42.0,Argentina Primera Division,2021
+10082,10082,Lanus,24,teams,accurate_long_balls_team,24.2,41.2,Argentina Primera Division,2021
+161728,161728,Aldosivi,25,teams,accurate_long_balls_team,23.6,39.0,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,26,teams,accurate_long_balls_team,23.2,35.5,Argentina Primera Division,2021

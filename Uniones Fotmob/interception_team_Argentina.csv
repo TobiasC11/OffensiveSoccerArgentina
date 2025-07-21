@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10096,10096,Union,1,teams,interception_team,10.4,146,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,2,teams,interception_team,10.1,142,Argentina Copa de la Liga,2024
+10078,10078,Independiente,3,teams,interception_team,10.1,141,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,4,teams,interception_team,9.8,147,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,5,teams,interception_team,9.6,135,Argentina Copa de la Liga,2024
+10087,10087,Banfield,6,teams,interception_team,9.5,133,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,7,teams,interception_team,9.4,131,Argentina Copa de la Liga,2024
+10081,10081,Huracan,8,teams,interception_team,9.3,130,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,9,teams,interception_team,9.1,128,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,10,teams,interception_team,9.1,128,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,11,teams,interception_team,9.0,126,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,12,teams,interception_team,8.9,151,Argentina Copa de la Liga,2024
+10082,10082,Lanus,13,teams,interception_team,8.9,124,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,14,teams,interception_team,8.8,123,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,15,teams,interception_team,8.7,148,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,16,teams,interception_team,8.6,121,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,17,teams,interception_team,8.6,120,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,18,teams,interception_team,8.4,134,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,19,teams,interception_team,8.4,126,Argentina Copa de la Liga,2024
+10101,10101,Talleres,20,teams,interception_team,8.3,116,Argentina Copa de la Liga,2024
+10076,10076,River Plate,21,teams,interception_team,8.2,123,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,22,teams,interception_team,8.2,115,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,23,teams,interception_team,8.1,130,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,24,teams,interception_team,8.0,120,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,25,teams,interception_team,8.0,112,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,interception_team,8.0,112,Argentina Copa de la Liga,2024
+10090,10090,Instituto,27,teams,interception_team,7.6,106,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,28,teams,interception_team,7.6,106,Argentina Copa de la Liga,2024
+10087,10087,Banfield,1,teams,interception_team,11.3,169,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,2,teams,interception_team,11.2,191,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,3,teams,interception_team,10.9,152,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,4,teams,interception_team,10.7,150,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,5,teams,interception_team,10.6,149,Argentina Copa de la Liga,2023
+10082,10082,Lanus,6,teams,interception_team,10.6,149,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,7,teams,interception_team,10.5,178,Argentina Copa de la Liga,2023
+10081,10081,Huracan,8,teams,interception_team,10.4,156,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,9,teams,interception_team,10.4,145,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,10,teams,interception_team,10.2,143,Argentina Copa de la Liga,2023
+10088,10088,Colon,11,teams,interception_team,10.1,151,Argentina Copa de la Liga,2023
+10078,10078,Independiente,12,teams,interception_team,9.9,139,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,13,teams,interception_team,9.8,137,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,14,teams,interception_team,9.7,146,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,15,teams,interception_team,9.5,143,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,16,teams,interception_team,9.4,132,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,17,teams,interception_team,9.3,148,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,18,teams,interception_team,9.2,129,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,19,teams,interception_team,9.2,129,Argentina Copa de la Liga,2023
+10101,10101,Talleres,20,teams,interception_team,8.7,122,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,21,teams,interception_team,8.6,121,Argentina Copa de la Liga,2023
+10090,10090,Instituto,22,teams,interception_team,8.6,120,Argentina Copa de la Liga,2023
+10096,10096,Union,23,teams,interception_team,8.4,118,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,24,teams,interception_team,8.1,122,Argentina Copa de la Liga,2023
+89396,89396,Tigre,25,teams,interception_team,8.0,112,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,26,teams,interception_team,7.7,108,Argentina Copa de la Liga,2023
+10076,10076,River Plate,27,teams,interception_team,7.3,117,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,28,teams,interception_team,6.4,90,Argentina Copa de la Liga,2023
+161728,161728,Aldosivi,1,teams,interception_team,13.4,201,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,2,teams,interception_team,13.1,184,Argentina Copa de la Liga,2022
+10101,10101,Talleres,3,teams,interception_team,12.8,179,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,4,teams,interception_team,12.5,175,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,5,teams,interception_team,12.1,169,Argentina Copa de la Liga,2022
+10087,10087,Banfield,6,teams,interception_team,12.1,169,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,7,teams,interception_team,11.4,159,Argentina Copa de la Liga,2022
+10082,10082,Lanus,8,teams,interception_team,11.2,157,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,9,teams,interception_team,11.1,156,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,10,teams,interception_team,11.0,154,Argentina Copa de la Liga,2022
+89396,89396,Tigre,11,teams,interception_team,10.9,185,Argentina Copa de la Liga,2022
+10088,10088,Colon,12,teams,interception_team,10.9,152,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,13,teams,interception_team,10.7,161,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,14,teams,interception_team,10.5,168,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,15,teams,interception_team,10.5,147,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,16,teams,interception_team,10.4,156,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,17,teams,interception_team,10.2,173,Argentina Copa de la Liga,2022
+10081,10081,Huracan,18,teams,interception_team,10.2,143,Argentina Copa de la Liga,2022
+10076,10076,River Plate,19,teams,interception_team,10.1,152,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,20,teams,interception_team,10.1,141,Argentina Copa de la Liga,2022
+10096,10096,Union,21,teams,interception_team,10.0,140,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,22,teams,interception_team,9.6,134,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,23,teams,interception_team,9.4,132,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,24,teams,interception_team,9.4,131,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,25,teams,interception_team,9.3,130,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,26,teams,interception_team,9.1,145,Argentina Copa de la Liga,2022
+10078,10078,Independiente,27,teams,interception_team,9.1,127,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,28,teams,interception_team,8.1,114,Argentina Copa de la Liga,2022
+10088,10088,Colon,1,teams,interception_team,15.8,158,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,2,teams,interception_team,15.6,109,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,3,teams,interception_team,14.6,102,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,4,teams,interception_team,14.4,101,Argentina Copa de la Liga,2021
+10096,10096,Union,5,teams,interception_team,14.3,100,Argentina Copa de la Liga,2021
+10082,10082,Lanus,6,teams,interception_team,14.1,99,Argentina Copa de la Liga,2021
+10087,10087,Banfield,7,teams,interception_team,14.0,98,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,8,teams,interception_team,13.7,96,Argentina Copa de la Liga,2021
+10101,10101,Talleres,9,teams,interception_team,13.3,106,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,10,teams,interception_team,13.3,93,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,11,teams,interception_team,13.3,93,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,12,teams,interception_team,13.0,91,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,13,teams,interception_team,12.8,102,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,14,teams,interception_team,12.6,113,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,15,teams,interception_team,12.6,88,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,16,teams,interception_team,12.0,84,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,17,teams,interception_team,11.7,82,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,18,teams,interception_team,11.7,82,Argentina Copa de la Liga,2021
+10076,10076,River Plate,19,teams,interception_team,11.6,93,Argentina Copa de la Liga,2021
+10078,10078,Independiente,20,teams,interception_team,11.4,103,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,21,teams,interception_team,11.3,79,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,22,teams,interception_team,10.9,76,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,23,teams,interception_team,10.9,76,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,24,teams,interception_team,10.8,86,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,25,teams,interception_team,10.6,106,Argentina Copa de la Liga,2021
+10081,10081,Huracan,26,teams,interception_team,10.4,73,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,1,teams,interception_team,11.8,318,Argentina Primera Division,2024
+10084,10084,Rosario Central,2,teams,interception_team,11.6,314,Argentina Primera Division,2024
+10082,10082,Lanus,3,teams,interception_team,11.6,312,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,4,teams,interception_team,10.9,295,Argentina Primera Division,2024
+10094,10094,Estudiantes,5,teams,interception_team,10.2,276,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,6,teams,interception_team,10.1,272,Argentina Primera Division,2024
+10096,10096,Union,7,teams,interception_team,9.9,268,Argentina Primera Division,2024
+202757,202757,Sarmiento,8,teams,interception_team,9.8,265,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,9,teams,interception_team,9.7,263,Argentina Primera Division,2024
+10076,10076,River Plate,10,teams,interception_team,9.7,263,Argentina Primera Division,2024
+10081,10081,Huracan,11,teams,interception_team,9.7,261,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,12,teams,interception_team,9.6,259,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,13,teams,interception_team,9.5,257,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,14,teams,interception_team,9.4,253,Argentina Primera Division,2024
+10101,10101,Talleres,15,teams,interception_team,9.4,253,Argentina Primera Division,2024
+10083,10083,San Lorenzo,16,teams,interception_team,9.3,252,Argentina Primera Division,2024
+89396,89396,Tigre,17,teams,interception_team,9.3,251,Argentina Primera Division,2024
+10092,10092,Belgrano,18,teams,interception_team,9.3,250,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,19,teams,interception_team,9.2,248,Argentina Primera Division,2024
+10078,10078,Independiente,20,teams,interception_team,9.0,244,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,21,teams,interception_team,8.9,240,Argentina Primera Division,2024
+10087,10087,Banfield,22,teams,interception_team,8.9,239,Argentina Primera Division,2024
+10077,10077,Boca Juniors,23,teams,interception_team,8.9,239,Argentina Primera Division,2024
+10080,10080,Racing Club,24,teams,interception_team,8.8,237,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,25,teams,interception_team,8.8,237,Argentina Primera Division,2024
+213534,213534,Barracas Central,26,teams,interception_team,8.7,236,Argentina Primera Division,2024
+10090,10090,Instituto,27,teams,interception_team,8.7,234,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,28,teams,interception_team,8.6,232,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,1,teams,interception_team,11.2,302,Argentina Primera Division,2023
+10081,10081,Huracan,2,teams,interception_team,11.1,299,Argentina Primera Division,2023
+10084,10084,Rosario Central,3,teams,interception_team,10.8,291,Argentina Primera Division,2023
+10078,10078,Independiente,4,teams,interception_team,10.6,287,Argentina Primera Division,2023
+89396,89396,Tigre,5,teams,interception_team,10.6,287,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,6,teams,interception_team,10.4,280,Argentina Primera Division,2023
+213534,213534,Barracas Central,7,teams,interception_team,10.3,279,Argentina Primera Division,2023
+10087,10087,Banfield,8,teams,interception_team,10.2,276,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,9,teams,interception_team,10.2,276,Argentina Primera Division,2023
+10088,10088,Colon,10,teams,interception_team,10.1,274,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,11,teams,interception_team,10.0,271,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,12,teams,interception_team,9.9,266,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,13,teams,interception_team,9.7,261,Argentina Primera Division,2023
+10082,10082,Lanus,14,teams,interception_team,9.7,261,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,15,teams,interception_team,9.6,258,Argentina Primera Division,2023
+10096,10096,Union,16,teams,interception_team,9.5,256,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,17,teams,interception_team,9.4,254,Argentina Primera Division,2023
+10092,10092,Belgrano,18,teams,interception_team,9.1,246,Argentina Primera Division,2023
+202757,202757,Sarmiento,19,teams,interception_team,9.0,243,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,20,teams,interception_team,8.9,239,Argentina Primera Division,2023
+10090,10090,Instituto,21,teams,interception_team,8.7,234,Argentina Primera Division,2023
+10094,10094,Estudiantes,22,teams,interception_team,8.6,233,Argentina Primera Division,2023
+10083,10083,San Lorenzo,23,teams,interception_team,8.6,233,Argentina Primera Division,2023
+10080,10080,Racing Club,24,teams,interception_team,8.5,230,Argentina Primera Division,2023
+10076,10076,River Plate,25,teams,interception_team,8.5,230,Argentina Primera Division,2023
+10101,10101,Talleres,26,teams,interception_team,8.4,227,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,27,teams,interception_team,8.3,225,Argentina Primera Division,2023
+10077,10077,Boca Juniors,28,teams,interception_team,8.0,217,Argentina Primera Division,2023
+10087,10087,Banfield,1,teams,interception_team,13.3,359,Argentina Primera Division,2022
+10081,10081,Huracan,2,teams,interception_team,12.6,340,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,3,teams,interception_team,12.4,335,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,4,teams,interception_team,12.1,327,Argentina Primera Division,2022
+89396,89396,Tigre,5,teams,interception_team,12.1,326,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,6,teams,interception_team,12.0,323,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,7,teams,interception_team,11.8,318,Argentina Primera Division,2022
+10082,10082,Lanus,8,teams,interception_team,11.5,310,Argentina Primera Division,2022
+10088,10088,Colon,9,teams,interception_team,11.4,308,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,10,teams,interception_team,11.4,307,Argentina Primera Division,2022
+202757,202757,Sarmiento,11,teams,interception_team,11.3,305,Argentina Primera Division,2022
+10076,10076,River Plate,12,teams,interception_team,11.3,304,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,13,teams,interception_team,11.1,300,Argentina Primera Division,2022
+10096,10096,Union,14,teams,interception_team,11.1,300,Argentina Primera Division,2022
+213534,213534,Barracas Central,15,teams,interception_team,11.0,297,Argentina Primera Division,2022
+10094,10094,Estudiantes,16,teams,interception_team,11.0,296,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,17,teams,interception_team,11.0,296,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,18,teams,interception_team,10.7,289,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,19,teams,interception_team,10.7,288,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,20,teams,interception_team,10.7,288,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,21,teams,interception_team,10.6,285,Argentina Primera Division,2022
+10083,10083,San Lorenzo,22,teams,interception_team,10.5,284,Argentina Primera Division,2022
+161728,161728,Aldosivi,23,teams,interception_team,9.7,262,Argentina Primera Division,2022
+10077,10077,Boca Juniors,24,teams,interception_team,9.4,255,Argentina Primera Division,2022
+10080,10080,Racing Club,25,teams,interception_team,9.4,253,Argentina Primera Division,2022
+10084,10084,Rosario Central,26,teams,interception_team,9.3,252,Argentina Primera Division,2022
+10101,10101,Talleres,27,teams,interception_team,9.3,250,Argentina Primera Division,2022
+10078,10078,Independiente,28,teams,interception_team,9.1,247,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,1,teams,interception_team,14.8,371,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,2,teams,interception_team,13.5,337,Argentina Primera Division,2021
+10087,10087,Banfield,3,teams,interception_team,13.2,331,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,4,teams,interception_team,13.2,331,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,5,teams,interception_team,13.2,330,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,6,teams,interception_team,13.1,328,Argentina Primera Division,2021
+10096,10096,Union,7,teams,interception_team,13.0,325,Argentina Primera Division,2021
+10077,10077,Boca Juniors,8,teams,interception_team,12.6,316,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,9,teams,interception_team,12.4,309,Argentina Primera Division,2021
+10088,10088,Colon,10,teams,interception_team,12.0,300,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,11,teams,interception_team,12.0,299,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,12,teams,interception_team,11.8,295,Argentina Primera Division,2021
+10094,10094,Estudiantes,13,teams,interception_team,11.5,287,Argentina Primera Division,2021
+161728,161728,Aldosivi,14,teams,interception_team,11.4,285,Argentina Primera Division,2021
+10078,10078,Independiente,15,teams,interception_team,11.3,283,Argentina Primera Division,2021
+10080,10080,Racing Club,16,teams,interception_team,11.2,281,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,17,teams,interception_team,11.2,280,Argentina Primera Division,2021
+10081,10081,Huracan,18,teams,interception_team,11.2,279,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,19,teams,interception_team,11.0,275,Argentina Primera Division,2021
+10076,10076,River Plate,20,teams,interception_team,10.8,271,Argentina Primera Division,2021
+10084,10084,Rosario Central,21,teams,interception_team,10.6,266,Argentina Primera Division,2021
+202757,202757,Sarmiento,22,teams,interception_team,10.6,265,Argentina Primera Division,2021
+10083,10083,San Lorenzo,23,teams,interception_team,10.6,264,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,24,teams,interception_team,10.2,256,Argentina Primera Division,2021
+10101,10101,Talleres,25,teams,interception_team,10.0,250,Argentina Primera Division,2021
+10082,10082,Lanus,26,teams,interception_team,10.0,249,Argentina Primera Division,2021

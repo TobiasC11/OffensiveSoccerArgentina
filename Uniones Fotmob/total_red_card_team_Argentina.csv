@@ -1,0 +1,200 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10094,10094,Estudiantes,1,teams,total_red_card_team,4,46,Argentina Copa de la Liga,2024
+10078,10078,Independiente,2,teams,total_red_card_team,4,41,Argentina Copa de la Liga,2024
+10081,10081,Huracan,3,teams,total_red_card_team,4,32,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,4,teams,total_red_card_team,4,31,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,5,teams,total_red_card_team,3,40,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,6,teams,total_red_card_team,3,39,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,7,teams,total_red_card_team,3,38,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,total_red_card_team,3,38,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,9,teams,total_red_card_team,3,26,Argentina Copa de la Liga,2024
+89396,89396,Tigre,10,teams,total_red_card_team,3,24,Argentina Copa de la Liga,2024
+10090,10090,Instituto,11,teams,total_red_card_team,2,37,Argentina Copa de la Liga,2024
+10101,10101,Talleres,12,teams,total_red_card_team,2,31,Argentina Copa de la Liga,2024
+10082,10082,Lanus,13,teams,total_red_card_team,1,41,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,14,teams,total_red_card_team,1,38,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,15,teams,total_red_card_team,1,36,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,16,teams,total_red_card_team,1,35,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,17,teams,total_red_card_team,1,34,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,18,teams,total_red_card_team,1,31,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,19,teams,total_red_card_team,1,30,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,20,teams,total_red_card_team,1,29,Argentina Copa de la Liga,2024
+10087,10087,Banfield,21,teams,total_red_card_team,1,28,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,22,teams,total_red_card_team,1,27,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,23,teams,total_red_card_team,1,25,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,24,teams,total_red_card_team,1,17,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,1,teams,total_red_card_team,7,34,Argentina Copa de la Liga,2023
+10082,10082,Lanus,2,teams,total_red_card_team,7,26,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,3,teams,total_red_card_team,4,42,Argentina Copa de la Liga,2023
+10081,10081,Huracan,4,teams,total_red_card_team,4,34,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,5,teams,total_red_card_team,4,30,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,6,teams,total_red_card_team,4,16,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,7,teams,total_red_card_team,3,40,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,8,teams,total_red_card_team,3,39,Argentina Copa de la Liga,2023
+10088,10088,Colon,9,teams,total_red_card_team,3,36,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,10,teams,total_red_card_team,2,42,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,11,teams,total_red_card_team,2,37,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,12,teams,total_red_card_team,2,32,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,13,teams,total_red_card_team,2,31,Argentina Copa de la Liga,2023
+10096,10096,Union,14,teams,total_red_card_team,2,30,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,15,teams,total_red_card_team,1,43,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,16,teams,total_red_card_team,1,41,Argentina Copa de la Liga,2023
+10076,10076,River Plate,17,teams,total_red_card_team,1,40,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,18,teams,total_red_card_team,1,39,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,19,teams,total_red_card_team,1,38,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,20,teams,total_red_card_team,1,38,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,21,teams,total_red_card_team,1,35,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,22,teams,total_red_card_team,1,30,Argentina Copa de la Liga,2023
+10101,10101,Talleres,1,teams,total_red_card_team,6,33,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,2,teams,total_red_card_team,5,33,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,3,teams,total_red_card_team,4,35,Argentina Copa de la Liga,2022
+10087,10087,Banfield,4,teams,total_red_card_team,3,41,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,5,teams,total_red_card_team,3,29,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,6,teams,total_red_card_team,3,25,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,7,teams,total_red_card_team,2,45,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,8,teams,total_red_card_team,2,43,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,9,teams,total_red_card_team,2,40,Argentina Copa de la Liga,2022
+10078,10078,Independiente,10,teams,total_red_card_team,2,37,Argentina Copa de la Liga,2022
+10096,10096,Union,11,teams,total_red_card_team,2,35,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,12,teams,total_red_card_team,2,33,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,13,teams,total_red_card_team,2,32,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,14,teams,total_red_card_team,2,31,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,15,teams,total_red_card_team,2,28,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,16,teams,total_red_card_team,2,28,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,17,teams,total_red_card_team,2,26,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,18,teams,total_red_card_team,1,48,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,19,teams,total_red_card_team,1,45,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,20,teams,total_red_card_team,1,43,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,21,teams,total_red_card_team,1,39,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,22,teams,total_red_card_team,1,37,Argentina Copa de la Liga,2022
+10081,10081,Huracan,23,teams,total_red_card_team,1,37,Argentina Copa de la Liga,2022
+10082,10082,Lanus,24,teams,total_red_card_team,1,37,Argentina Copa de la Liga,2022
+89396,89396,Tigre,25,teams,total_red_card_team,1,34,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,1,teams,total_red_card_team,4,20,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,2,teams,total_red_card_team,3,13,Argentina Copa de la Liga,2021
+10088,10088,Colon,3,teams,total_red_card_team,2,28,Argentina Copa de la Liga,2021
+10101,10101,Talleres,4,teams,total_red_card_team,2,22,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,5,teams,total_red_card_team,2,18,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,6,teams,total_red_card_team,2,18,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,7,teams,total_red_card_team,2,17,Argentina Copa de la Liga,2021
+10087,10087,Banfield,8,teams,total_red_card_team,2,17,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,9,teams,total_red_card_team,2,15,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,10,teams,total_red_card_team,2,15,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,11,teams,total_red_card_team,2,14,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,12,teams,total_red_card_team,2,14,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,13,teams,total_red_card_team,2,13,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,14,teams,total_red_card_team,1,21,Argentina Copa de la Liga,2021
+10078,10078,Independiente,15,teams,total_red_card_team,1,20,Argentina Copa de la Liga,2021
+10082,10082,Lanus,16,teams,total_red_card_team,1,19,Argentina Copa de la Liga,2021
+10081,10081,Huracan,17,teams,total_red_card_team,1,17,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,18,teams,total_red_card_team,1,17,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,19,teams,total_red_card_team,1,16,Argentina Copa de la Liga,2021
+10096,10096,Union,20,teams,total_red_card_team,1,14,Argentina Copa de la Liga,2021
+10078,10078,Independiente,1,teams,total_red_card_team,7,85,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,2,teams,total_red_card_team,7,64,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,3,teams,total_red_card_team,7,63,Argentina Primera Division,2024
+10077,10077,Boca Juniors,4,teams,total_red_card_team,6,74,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,5,teams,total_red_card_team,6,71,Argentina Primera Division,2024
+10087,10087,Banfield,6,teams,total_red_card_team,6,65,Argentina Primera Division,2024
+10082,10082,Lanus,7,teams,total_red_card_team,6,52,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,8,teams,total_red_card_team,5,64,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,9,teams,total_red_card_team,5,57,Argentina Primera Division,2024
+10092,10092,Belgrano,10,teams,total_red_card_team,4,71,Argentina Primera Division,2024
+10101,10101,Talleres,11,teams,total_red_card_team,4,71,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,12,teams,total_red_card_team,4,69,Argentina Primera Division,2024
+10090,10090,Instituto,13,teams,total_red_card_team,4,63,Argentina Primera Division,2024
+10096,10096,Union,14,teams,total_red_card_team,4,61,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,15,teams,total_red_card_team,4,60,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,16,teams,total_red_card_team,3,76,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,17,teams,total_red_card_team,3,67,Argentina Primera Division,2024
+10081,10081,Huracan,18,teams,total_red_card_team,3,61,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,19,teams,total_red_card_team,3,56,Argentina Primera Division,2024
+10083,10083,San Lorenzo,20,teams,total_red_card_team,3,56,Argentina Primera Division,2024
+10084,10084,Rosario Central,21,teams,total_red_card_team,2,87,Argentina Primera Division,2024
+10076,10076,River Plate,22,teams,total_red_card_team,2,70,Argentina Primera Division,2024
+202757,202757,Sarmiento,23,teams,total_red_card_team,2,63,Argentina Primera Division,2024
+10080,10080,Racing Club,24,teams,total_red_card_team,2,61,Argentina Primera Division,2024
+213534,213534,Barracas Central,25,teams,total_red_card_team,2,53,Argentina Primera Division,2024
+10094,10094,Estudiantes,26,teams,total_red_card_team,1,64,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,27,teams,total_red_card_team,1,58,Argentina Primera Division,2024
+89396,89396,Tigre,28,teams,total_red_card_team,1,49,Argentina Primera Division,2024
+10077,10077,Boca Juniors,1,teams,total_red_card_team,9,71,Argentina Primera Division,2023
+10082,10082,Lanus,2,teams,total_red_card_team,9,61,Argentina Primera Division,2023
+10078,10078,Independiente,3,teams,total_red_card_team,8,66,Argentina Primera Division,2023
+10083,10083,San Lorenzo,4,teams,total_red_card_team,8,61,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,5,teams,total_red_card_team,6,67,Argentina Primera Division,2023
+10087,10087,Banfield,6,teams,total_red_card_team,6,66,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,7,teams,total_red_card_team,6,61,Argentina Primera Division,2023
+10081,10081,Huracan,8,teams,total_red_card_team,6,61,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,9,teams,total_red_card_team,6,61,Argentina Primera Division,2023
+10092,10092,Belgrano,10,teams,total_red_card_team,6,48,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,11,teams,total_red_card_team,5,72,Argentina Primera Division,2023
+10080,10080,Racing Club,12,teams,total_red_card_team,5,66,Argentina Primera Division,2023
+202757,202757,Sarmiento,13,teams,total_red_card_team,5,65,Argentina Primera Division,2023
+10096,10096,Union,14,teams,total_red_card_team,5,64,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,15,teams,total_red_card_team,4,70,Argentina Primera Division,2023
+10076,10076,River Plate,16,teams,total_red_card_team,4,59,Argentina Primera Division,2023
+10084,10084,Rosario Central,17,teams,total_red_card_team,3,69,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,18,teams,total_red_card_team,3,67,Argentina Primera Division,2023
+10090,10090,Instituto,19,teams,total_red_card_team,3,67,Argentina Primera Division,2023
+10088,10088,Colon,20,teams,total_red_card_team,3,64,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,21,teams,total_red_card_team,3,63,Argentina Primera Division,2023
+10101,10101,Talleres,22,teams,total_red_card_team,3,59,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,23,teams,total_red_card_team,3,58,Argentina Primera Division,2023
+89396,89396,Tigre,24,teams,total_red_card_team,3,48,Argentina Primera Division,2023
+213534,213534,Barracas Central,25,teams,total_red_card_team,3,40,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,26,teams,total_red_card_team,2,68,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,27,teams,total_red_card_team,1,51,Argentina Primera Division,2023
+10082,10082,Lanus,1,teams,total_red_card_team,8,74,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,2,teams,total_red_card_team,8,69,Argentina Primera Division,2022
+10080,10080,Racing Club,3,teams,total_red_card_team,7,71,Argentina Primera Division,2022
+161728,161728,Aldosivi,4,teams,total_red_card_team,7,65,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,5,teams,total_red_card_team,7,55,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,6,teams,total_red_card_team,6,78,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,7,teams,total_red_card_team,6,67,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,8,teams,total_red_card_team,6,53,Argentina Primera Division,2022
+10076,10076,River Plate,9,teams,total_red_card_team,5,69,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,10,teams,total_red_card_team,5,68,Argentina Primera Division,2022
+10101,10101,Talleres,11,teams,total_red_card_team,5,65,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,12,teams,total_red_card_team,5,61,Argentina Primera Division,2022
+10088,10088,Colon,13,teams,total_red_card_team,5,54,Argentina Primera Division,2022
+89396,89396,Tigre,14,teams,total_red_card_team,5,52,Argentina Primera Division,2022
+10077,10077,Boca Juniors,15,teams,total_red_card_team,4,90,Argentina Primera Division,2022
+10096,10096,Union,16,teams,total_red_card_team,4,75,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,17,teams,total_red_card_team,4,71,Argentina Primera Division,2022
+10087,10087,Banfield,18,teams,total_red_card_team,4,66,Argentina Primera Division,2022
+202757,202757,Sarmiento,19,teams,total_red_card_team,3,77,Argentina Primera Division,2022
+10084,10084,Rosario Central,20,teams,total_red_card_team,3,73,Argentina Primera Division,2022
+10081,10081,Huracan,21,teams,total_red_card_team,3,69,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,22,teams,total_red_card_team,2,64,Argentina Primera Division,2022
+10083,10083,San Lorenzo,23,teams,total_red_card_team,2,63,Argentina Primera Division,2022
+10078,10078,Independiente,24,teams,total_red_card_team,1,70,Argentina Primera Division,2022
+10094,10094,Estudiantes,25,teams,total_red_card_team,1,61,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,26,teams,total_red_card_team,1,57,Argentina Primera Division,2022
+213534,213534,Barracas Central,27,teams,total_red_card_team,1,56,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,28,teams,total_red_card_team,1,54,Argentina Primera Division,2022
+10083,10083,San Lorenzo,1,teams,total_red_card_team,11,69,Argentina Primera Division,2021
+10088,10088,Colon,2,teams,total_red_card_team,7,46,Argentina Primera Division,2021
+10084,10084,Rosario Central,3,teams,total_red_card_team,5,61,Argentina Primera Division,2021
+10078,10078,Independiente,4,teams,total_red_card_team,5,55,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,5,teams,total_red_card_team,5,51,Argentina Primera Division,2021
+161728,161728,Aldosivi,6,teams,total_red_card_team,4,65,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,7,teams,total_red_card_team,4,59,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,8,teams,total_red_card_team,4,46,Argentina Primera Division,2021
+10096,10096,Union,9,teams,total_red_card_team,4,45,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,10,teams,total_red_card_team,3,60,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,11,teams,total_red_card_team,3,58,Argentina Primera Division,2021
+10087,10087,Banfield,12,teams,total_red_card_team,3,57,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,13,teams,total_red_card_team,3,52,Argentina Primera Division,2021
+10077,10077,Boca Juniors,14,teams,total_red_card_team,3,35,Argentina Primera Division,2021
+10101,10101,Talleres,15,teams,total_red_card_team,2,70,Argentina Primera Division,2021
+10081,10081,Huracan,16,teams,total_red_card_team,2,69,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,17,teams,total_red_card_team,2,54,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,18,teams,total_red_card_team,2,48,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,19,teams,total_red_card_team,2,48,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,20,teams,total_red_card_team,2,38,Argentina Primera Division,2021
+10082,10082,Lanus,21,teams,total_red_card_team,1,64,Argentina Primera Division,2021
+10080,10080,Racing Club,22,teams,total_red_card_team,1,57,Argentina Primera Division,2021
+10076,10076,River Plate,23,teams,total_red_card_team,1,54,Argentina Primera Division,2021
+202757,202757,Sarmiento,24,teams,total_red_card_team,1,50,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,25,teams,total_red_card_team,1,42,Argentina Primera Division,2021

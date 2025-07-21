@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,406,0.0,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,2,teams,touches_in_opp_box_team,391,0.0,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,3,teams,touches_in_opp_box_team,385,0.0,Argentina Copa de la Liga,2024
+10078,10078,Independiente,4,teams,touches_in_opp_box_team,342,0.0,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,5,teams,touches_in_opp_box_team,338,0.0,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,6,teams,touches_in_opp_box_team,324,0.0,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,7,teams,touches_in_opp_box_team,314,0.0,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,8,teams,touches_in_opp_box_team,307,0.0,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,9,teams,touches_in_opp_box_team,300,0.0,Argentina Copa de la Liga,2024
+10082,10082,Lanus,10,teams,touches_in_opp_box_team,297,0.0,Argentina Copa de la Liga,2024
+10101,10101,Talleres,11,teams,touches_in_opp_box_team,291,0.0,Argentina Copa de la Liga,2024
+10090,10090,Instituto,12,teams,touches_in_opp_box_team,289,0.0,Argentina Copa de la Liga,2024
+10087,10087,Banfield,13,teams,touches_in_opp_box_team,286,0.0,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,14,teams,touches_in_opp_box_team,285,0.0,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,15,teams,touches_in_opp_box_team,278,0.0,Argentina Copa de la Liga,2024
+10081,10081,Huracan,16,teams,touches_in_opp_box_team,273,0.0,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,17,teams,touches_in_opp_box_team,263,0.0,Argentina Copa de la Liga,2024
+10096,10096,Union,18,teams,touches_in_opp_box_team,262,0.0,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,19,teams,touches_in_opp_box_team,261,0.0,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,20,teams,touches_in_opp_box_team,255,0.0,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,21,teams,touches_in_opp_box_team,254,0.0,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,22,teams,touches_in_opp_box_team,233,0.0,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,23,teams,touches_in_opp_box_team,232,0.0,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,24,teams,touches_in_opp_box_team,226,0.0,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,25,teams,touches_in_opp_box_team,206,0.0,Argentina Copa de la Liga,2024
+89396,89396,Tigre,26,teams,touches_in_opp_box_team,193,0.0,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,27,teams,touches_in_opp_box_team,183,0.0,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,28,teams,touches_in_opp_box_team,170,0.0,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,397,0.0,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,2,teams,touches_in_opp_box_team,382,0.0,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,3,teams,touches_in_opp_box_team,357,0.0,Argentina Copa de la Liga,2023
+10101,10101,Talleres,4,teams,touches_in_opp_box_team,319,0.0,Argentina Copa de la Liga,2023
+10088,10088,Colon,5,teams,touches_in_opp_box_team,308,0.0,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,6,teams,touches_in_opp_box_team,288,0.0,Argentina Copa de la Liga,2023
+10078,10078,Independiente,7,teams,touches_in_opp_box_team,285,0.0,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,8,teams,touches_in_opp_box_team,276,0.0,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,9,teams,touches_in_opp_box_team,274,0.0,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,10,teams,touches_in_opp_box_team,271,0.0,Argentina Copa de la Liga,2023
+10081,10081,Huracan,11,teams,touches_in_opp_box_team,270,0.0,Argentina Copa de la Liga,2023
+89396,89396,Tigre,12,teams,touches_in_opp_box_team,268,0.0,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,13,teams,touches_in_opp_box_team,263,0.0,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,14,teams,touches_in_opp_box_team,253,0.0,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,15,teams,touches_in_opp_box_team,250,0.0,Argentina Copa de la Liga,2023
+10090,10090,Instituto,16,teams,touches_in_opp_box_team,250,0.0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,17,teams,touches_in_opp_box_team,247,0.0,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,18,teams,touches_in_opp_box_team,245,0.0,Argentina Copa de la Liga,2023
+10087,10087,Banfield,19,teams,touches_in_opp_box_team,241,0.0,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,20,teams,touches_in_opp_box_team,235,0.0,Argentina Copa de la Liga,2023
+10096,10096,Union,21,teams,touches_in_opp_box_team,232,0.0,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,22,teams,touches_in_opp_box_team,222,0.0,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,23,teams,touches_in_opp_box_team,216,0.0,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,24,teams,touches_in_opp_box_team,211,0.0,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,25,teams,touches_in_opp_box_team,204,0.0,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,26,teams,touches_in_opp_box_team,200,0.0,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,27,teams,touches_in_opp_box_team,182,0.0,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,28,teams,touches_in_opp_box_team,149,0.0,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,384,0.0,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,2,teams,touches_in_opp_box_team,372,0.0,Argentina Copa de la Liga,2022
+89396,89396,Tigre,3,teams,touches_in_opp_box_team,342,0.0,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,4,teams,touches_in_opp_box_team,337,0.0,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,5,teams,touches_in_opp_box_team,318,0.0,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,6,teams,touches_in_opp_box_team,317,0.0,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,7,teams,touches_in_opp_box_team,314,0.0,Argentina Copa de la Liga,2022
+10081,10081,Huracan,8,teams,touches_in_opp_box_team,310,0.0,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,9,teams,touches_in_opp_box_team,301,0.0,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,10,teams,touches_in_opp_box_team,278,0.0,Argentina Copa de la Liga,2022
+10096,10096,Union,11,teams,touches_in_opp_box_team,275,0.0,Argentina Copa de la Liga,2022
+10078,10078,Independiente,12,teams,touches_in_opp_box_team,272,0.0,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,13,teams,touches_in_opp_box_team,270,0.0,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,14,teams,touches_in_opp_box_team,269,0.0,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,15,teams,touches_in_opp_box_team,262,0.0,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,16,teams,touches_in_opp_box_team,258,0.0,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,17,teams,touches_in_opp_box_team,257,0.0,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,18,teams,touches_in_opp_box_team,252,0.0,Argentina Copa de la Liga,2022
+10087,10087,Banfield,19,teams,touches_in_opp_box_team,250,0.0,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,20,teams,touches_in_opp_box_team,247,0.0,Argentina Copa de la Liga,2022
+10082,10082,Lanus,21,teams,touches_in_opp_box_team,243,0.0,Argentina Copa de la Liga,2022
+10088,10088,Colon,22,teams,touches_in_opp_box_team,240,0.0,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,23,teams,touches_in_opp_box_team,233,0.0,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,24,teams,touches_in_opp_box_team,220,0.0,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,25,teams,touches_in_opp_box_team,212,0.0,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,26,teams,touches_in_opp_box_team,206,0.0,Argentina Copa de la Liga,2022
+10101,10101,Talleres,27,teams,touches_in_opp_box_team,204,0.0,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,28,teams,touches_in_opp_box_team,199,0.0,Argentina Copa de la Liga,2022
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,219,0.0,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,2,teams,touches_in_opp_box_team,218,0.0,Argentina Copa de la Liga,2021
+10088,10088,Colon,3,teams,touches_in_opp_box_team,175,0.0,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,4,teams,touches_in_opp_box_team,174,0.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,5,teams,touches_in_opp_box_team,174,0.0,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,6,teams,touches_in_opp_box_team,165,0.0,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,7,teams,touches_in_opp_box_team,157,0.0,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,8,teams,touches_in_opp_box_team,153,0.0,Argentina Copa de la Liga,2021
+10101,10101,Talleres,9,teams,touches_in_opp_box_team,153,0.0,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,10,teams,touches_in_opp_box_team,150,0.0,Argentina Copa de la Liga,2021
+10082,10082,Lanus,11,teams,touches_in_opp_box_team,144,0.0,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,12,teams,touches_in_opp_box_team,143,0.0,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,13,teams,touches_in_opp_box_team,138,0.0,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,14,teams,touches_in_opp_box_team,135,0.0,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,15,teams,touches_in_opp_box_team,130,0.0,Argentina Copa de la Liga,2021
+10096,10096,Union,16,teams,touches_in_opp_box_team,124,0.0,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,17,teams,touches_in_opp_box_team,119,0.0,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,18,teams,touches_in_opp_box_team,117,0.0,Argentina Copa de la Liga,2021
+10078,10078,Independiente,19,teams,touches_in_opp_box_team,113,0.0,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,20,teams,touches_in_opp_box_team,105,0.0,Argentina Copa de la Liga,2021
+10081,10081,Huracan,21,teams,touches_in_opp_box_team,104,0.0,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,22,teams,touches_in_opp_box_team,101,0.0,Argentina Copa de la Liga,2021
+10087,10087,Banfield,23,teams,touches_in_opp_box_team,95,0.0,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,24,teams,touches_in_opp_box_team,91,0.0,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,25,teams,touches_in_opp_box_team,86,0.0,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,26,teams,touches_in_opp_box_team,86,0.0,Argentina Copa de la Liga,2021
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,722,0.0,Argentina Primera Division,2024
+10080,10080,Racing Club,2,teams,touches_in_opp_box_team,593,0.0,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,3,teams,touches_in_opp_box_team,585,0.0,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,4,teams,touches_in_opp_box_team,577,0.0,Argentina Primera Division,2024
+10094,10094,Estudiantes,5,teams,touches_in_opp_box_team,574,0.0,Argentina Primera Division,2024
+10078,10078,Independiente,6,teams,touches_in_opp_box_team,565,0.0,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,7,teams,touches_in_opp_box_team,559,0.0,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,8,teams,touches_in_opp_box_team,527,0.0,Argentina Primera Division,2024
+10092,10092,Belgrano,9,teams,touches_in_opp_box_team,517,0.0,Argentina Primera Division,2024
+10096,10096,Union,10,teams,touches_in_opp_box_team,514,0.0,Argentina Primera Division,2024
+10101,10101,Talleres,11,teams,touches_in_opp_box_team,512,0.0,Argentina Primera Division,2024
+10090,10090,Instituto,12,teams,touches_in_opp_box_team,492,0.0,Argentina Primera Division,2024
+89396,89396,Tigre,13,teams,touches_in_opp_box_team,484,0.0,Argentina Primera Division,2024
+10082,10082,Lanus,14,teams,touches_in_opp_box_team,482,0.0,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,15,teams,touches_in_opp_box_team,476,0.0,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,16,teams,touches_in_opp_box_team,468,0.0,Argentina Primera Division,2024
+10083,10083,San Lorenzo,17,teams,touches_in_opp_box_team,468,0.0,Argentina Primera Division,2024
+10077,10077,Boca Juniors,18,teams,touches_in_opp_box_team,466,0.0,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,19,teams,touches_in_opp_box_team,465,0.0,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,20,teams,touches_in_opp_box_team,457,0.0,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,21,teams,touches_in_opp_box_team,454,0.0,Argentina Primera Division,2024
+10081,10081,Huracan,22,teams,touches_in_opp_box_team,450,0.0,Argentina Primera Division,2024
+10087,10087,Banfield,23,teams,touches_in_opp_box_team,445,0.0,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,24,teams,touches_in_opp_box_team,443,0.0,Argentina Primera Division,2024
+10084,10084,Rosario Central,25,teams,touches_in_opp_box_team,435,0.0,Argentina Primera Division,2024
+202757,202757,Sarmiento,26,teams,touches_in_opp_box_team,413,0.0,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,27,teams,touches_in_opp_box_team,386,0.0,Argentina Primera Division,2024
+213534,213534,Barracas Central,28,teams,touches_in_opp_box_team,364,0.0,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,761,0.0,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,2,teams,touches_in_opp_box_team,711,0.0,Argentina Primera Division,2023
+10101,10101,Talleres,3,teams,touches_in_opp_box_team,570,0.0,Argentina Primera Division,2023
+10094,10094,Estudiantes,4,teams,touches_in_opp_box_team,561,0.0,Argentina Primera Division,2023
+10081,10081,Huracan,5,teams,touches_in_opp_box_team,542,0.0,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,6,teams,touches_in_opp_box_team,535,0.0,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,7,teams,touches_in_opp_box_team,530,0.0,Argentina Primera Division,2023
+10090,10090,Instituto,8,teams,touches_in_opp_box_team,521,0.0,Argentina Primera Division,2023
+10082,10082,Lanus,9,teams,touches_in_opp_box_team,515,0.0,Argentina Primera Division,2023
+10083,10083,San Lorenzo,10,teams,touches_in_opp_box_team,513,0.0,Argentina Primera Division,2023
+89396,89396,Tigre,11,teams,touches_in_opp_box_team,512,0.0,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,12,teams,touches_in_opp_box_team,496,0.0,Argentina Primera Division,2023
+202757,202757,Sarmiento,13,teams,touches_in_opp_box_team,492,0.0,Argentina Primera Division,2023
+10088,10088,Colon,14,teams,touches_in_opp_box_team,491,0.0,Argentina Primera Division,2023
+10078,10078,Independiente,15,teams,touches_in_opp_box_team,489,0.0,Argentina Primera Division,2023
+10077,10077,Boca Juniors,16,teams,touches_in_opp_box_team,487,0.0,Argentina Primera Division,2023
+10080,10080,Racing Club,17,teams,touches_in_opp_box_team,486,0.0,Argentina Primera Division,2023
+10096,10096,Union,18,teams,touches_in_opp_box_team,484,0.0,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,19,teams,touches_in_opp_box_team,483,0.0,Argentina Primera Division,2023
+10087,10087,Banfield,20,teams,touches_in_opp_box_team,469,0.0,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,21,teams,touches_in_opp_box_team,437,0.0,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,22,teams,touches_in_opp_box_team,433,0.0,Argentina Primera Division,2023
+213534,213534,Barracas Central,23,teams,touches_in_opp_box_team,428,0.0,Argentina Primera Division,2023
+10092,10092,Belgrano,24,teams,touches_in_opp_box_team,420,0.0,Argentina Primera Division,2023
+10084,10084,Rosario Central,25,teams,touches_in_opp_box_team,416,0.0,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,26,teams,touches_in_opp_box_team,415,0.0,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,27,teams,touches_in_opp_box_team,407,0.0,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,28,teams,touches_in_opp_box_team,406,0.0,Argentina Primera Division,2023
+10080,10080,Racing Club,1,teams,touches_in_opp_box_team,657,0.0,Argentina Primera Division,2022
+10076,10076,River Plate,2,teams,touches_in_opp_box_team,625,0.0,Argentina Primera Division,2022
+10096,10096,Union,3,teams,touches_in_opp_box_team,584,0.0,Argentina Primera Division,2022
+10094,10094,Estudiantes,4,teams,touches_in_opp_box_team,571,0.0,Argentina Primera Division,2022
+10081,10081,Huracan,5,teams,touches_in_opp_box_team,568,0.0,Argentina Primera Division,2022
+10088,10088,Colon,6,teams,touches_in_opp_box_team,563,0.0,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,7,teams,touches_in_opp_box_team,558,0.0,Argentina Primera Division,2022
+10101,10101,Talleres,8,teams,touches_in_opp_box_team,530,0.0,Argentina Primera Division,2022
+89396,89396,Tigre,9,teams,touches_in_opp_box_team,525,0.0,Argentina Primera Division,2022
+202757,202757,Sarmiento,10,teams,touches_in_opp_box_team,519,0.0,Argentina Primera Division,2022
+10078,10078,Independiente,11,teams,touches_in_opp_box_team,515,0.0,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,12,teams,touches_in_opp_box_team,509,0.0,Argentina Primera Division,2022
+10084,10084,Rosario Central,13,teams,touches_in_opp_box_team,502,0.0,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,14,teams,touches_in_opp_box_team,495,0.0,Argentina Primera Division,2022
+10082,10082,Lanus,15,teams,touches_in_opp_box_team,495,0.0,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,16,teams,touches_in_opp_box_team,490,0.0,Argentina Primera Division,2022
+10087,10087,Banfield,17,teams,touches_in_opp_box_team,474,0.0,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,18,teams,touches_in_opp_box_team,461,0.0,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,19,teams,touches_in_opp_box_team,457,0.0,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,20,teams,touches_in_opp_box_team,457,0.0,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,21,teams,touches_in_opp_box_team,456,0.0,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,22,teams,touches_in_opp_box_team,454,0.0,Argentina Primera Division,2022
+213534,213534,Barracas Central,23,teams,touches_in_opp_box_team,452,0.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,24,teams,touches_in_opp_box_team,452,0.0,Argentina Primera Division,2022
+10077,10077,Boca Juniors,25,teams,touches_in_opp_box_team,449,0.0,Argentina Primera Division,2022
+10083,10083,San Lorenzo,26,teams,touches_in_opp_box_team,442,0.0,Argentina Primera Division,2022
+161728,161728,Aldosivi,27,teams,touches_in_opp_box_team,427,0.0,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,28,teams,touches_in_opp_box_team,426,0.0,Argentina Primera Division,2022
+10076,10076,River Plate,1,teams,touches_in_opp_box_team,598,0.0,Argentina Primera Division,2021
+10082,10082,Lanus,2,teams,touches_in_opp_box_team,545,0.0,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,3,teams,touches_in_opp_box_team,530,0.0,Argentina Primera Division,2021
+10077,10077,Boca Juniors,4,teams,touches_in_opp_box_team,528,0.0,Argentina Primera Division,2021
+10081,10081,Huracan,5,teams,touches_in_opp_box_team,513,0.0,Argentina Primera Division,2021
+10096,10096,Union,6,teams,touches_in_opp_box_team,512,0.0,Argentina Primera Division,2021
+10087,10087,Banfield,7,teams,touches_in_opp_box_team,505,0.0,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,8,teams,touches_in_opp_box_team,484,0.0,Argentina Primera Division,2021
+10094,10094,Estudiantes,9,teams,touches_in_opp_box_team,477,0.0,Argentina Primera Division,2021
+10084,10084,Rosario Central,10,teams,touches_in_opp_box_team,475,0.0,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,11,teams,touches_in_opp_box_team,470,0.0,Argentina Primera Division,2021
+10078,10078,Independiente,12,teams,touches_in_opp_box_team,455,0.0,Argentina Primera Division,2021
+202757,202757,Sarmiento,13,teams,touches_in_opp_box_team,445,0.0,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,14,teams,touches_in_opp_box_team,444,0.0,Argentina Primera Division,2021
+10088,10088,Colon,15,teams,touches_in_opp_box_team,442,0.0,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,16,teams,touches_in_opp_box_team,441,0.0,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,17,teams,touches_in_opp_box_team,435,0.0,Argentina Primera Division,2021
+10101,10101,Talleres,18,teams,touches_in_opp_box_team,434,0.0,Argentina Primera Division,2021
+10080,10080,Racing Club,19,teams,touches_in_opp_box_team,423,0.0,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,20,teams,touches_in_opp_box_team,423,0.0,Argentina Primera Division,2021
+10083,10083,San Lorenzo,21,teams,touches_in_opp_box_team,406,0.0,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,22,teams,touches_in_opp_box_team,401,0.0,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,23,teams,touches_in_opp_box_team,386,0.0,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,24,teams,touches_in_opp_box_team,381,0.0,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,25,teams,touches_in_opp_box_team,377,0.0,Argentina Primera Division,2021
+161728,161728,Aldosivi,26,teams,touches_in_opp_box_team,373,0.0,Argentina Primera Division,2021

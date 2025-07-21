@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10227,10227,Godoy Cruz,1,teams,goals_conceded_team_match,0.5,8,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,2,teams,goals_conceded_team_match,0.6,11,Argentina Copa de la Liga,2024
+10078,10078,Independiente,3,teams,goals_conceded_team_match,0.7,10,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,4,teams,goals_conceded_team_match,0.8,11,Argentina Copa de la Liga,2024
+10081,10081,Huracan,5,teams,goals_conceded_team_match,0.9,12,Argentina Copa de la Liga,2024
+10076,10076,River Plate,6,teams,goals_conceded_team_match,0.9,13,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,7,teams,goals_conceded_team_match,0.9,14,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,goals_conceded_team_match,0.9,15,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,9,teams,goals_conceded_team_match,0.9,15,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,10,teams,goals_conceded_team_match,0.9,15,Argentina Copa de la Liga,2024
+10096,10096,Union,11,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,12,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2024
+10082,10082,Lanus,13,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,14,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,15,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2024
+10087,10087,Banfield,16,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2024
+10101,10101,Talleres,17,teams,goals_conceded_team_match,1.1,16,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,18,teams,goals_conceded_team_match,1.1,16,Argentina Copa de la Liga,2024
+10090,10090,Instituto,19,teams,goals_conceded_team_match,1.2,17,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,20,teams,goals_conceded_team_match,1.2,18,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,21,teams,goals_conceded_team_match,1.3,18,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,22,teams,goals_conceded_team_match,1.4,19,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,23,teams,goals_conceded_team_match,1.4,20,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,24,teams,goals_conceded_team_match,1.5,21,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,25,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,26,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2024
+89396,89396,Tigre,27,teams,goals_conceded_team_match,1.8,25,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,28,teams,goals_conceded_team_match,1.8,25,Argentina Copa de la Liga,2024
+10087,10087,Banfield,1,teams,goals_conceded_team_match,0.4,6,Argentina Copa de la Liga,2023
+10090,10090,Instituto,2,teams,goals_conceded_team_match,0.5,7,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,3,teams,goals_conceded_team_match,0.6,8,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,4,teams,goals_conceded_team_match,0.6,10,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,5,teams,goals_conceded_team_match,0.7,10,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,6,teams,goals_conceded_team_match,0.8,11,Argentina Copa de la Liga,2023
+10078,10078,Independiente,7,teams,goals_conceded_team_match,0.8,11,Argentina Copa de la Liga,2023
+10081,10081,Huracan,8,teams,goals_conceded_team_match,0.8,12,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,9,teams,goals_conceded_team_match,0.9,12,Argentina Copa de la Liga,2023
+10096,10096,Union,10,teams,goals_conceded_team_match,0.9,13,Argentina Copa de la Liga,2023
+89396,89396,Tigre,11,teams,goals_conceded_team_match,0.9,13,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,12,teams,goals_conceded_team_match,0.9,13,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,13,teams,goals_conceded_team_match,0.9,15,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,14,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2023
+10082,10082,Lanus,15,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,16,teams,goals_conceded_team_match,1.0,14,Argentina Copa de la Liga,2023
+10101,10101,Talleres,17,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,18,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,19,teams,goals_conceded_team_match,1.1,16,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,20,teams,goals_conceded_team_match,1.1,16,Argentina Copa de la Liga,2023
+10076,10076,River Plate,21,teams,goals_conceded_team_match,1.1,17,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,22,teams,goals_conceded_team_match,1.1,19,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,23,teams,goals_conceded_team_match,1.2,18,Argentina Copa de la Liga,2023
+10088,10088,Colon,24,teams,goals_conceded_team_match,1.2,18,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,25,teams,goals_conceded_team_match,1.3,20,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,26,teams,goals_conceded_team_match,1.4,21,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,27,teams,goals_conceded_team_match,1.5,21,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,28,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,1,teams,goals_conceded_team_match,0.6,10,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,2,teams,goals_conceded_team_match,0.6,11,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,3,teams,goals_conceded_team_match,0.9,12,Argentina Copa de la Liga,2022
+10096,10096,Union,4,teams,goals_conceded_team_match,0.9,13,Argentina Copa de la Liga,2022
+10076,10076,River Plate,5,teams,goals_conceded_team_match,0.9,14,Argentina Copa de la Liga,2022
+89396,89396,Tigre,6,teams,goals_conceded_team_match,1.0,17,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,7,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2022
+10087,10087,Banfield,8,teams,goals_conceded_team_match,1.1,15,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,9,teams,goals_conceded_team_match,1.1,18,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,10,teams,goals_conceded_team_match,1.2,17,Argentina Copa de la Liga,2022
+10082,10082,Lanus,11,teams,goals_conceded_team_match,1.3,18,Argentina Copa de la Liga,2022
+10078,10078,Independiente,12,teams,goals_conceded_team_match,1.3,18,Argentina Copa de la Liga,2022
+10081,10081,Huracan,13,teams,goals_conceded_team_match,1.4,19,Argentina Copa de la Liga,2022
+10088,10088,Colon,14,teams,goals_conceded_team_match,1.4,19,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,15,teams,goals_conceded_team_match,1.4,19,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,16,teams,goals_conceded_team_match,1.4,20,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,17,teams,goals_conceded_team_match,1.4,20,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,18,teams,goals_conceded_team_match,1.4,21,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,19,teams,goals_conceded_team_match,1.4,21,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,20,teams,goals_conceded_team_match,1.4,21,Argentina Copa de la Liga,2022
+10101,10101,Talleres,21,teams,goals_conceded_team_match,1.5,21,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,22,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,23,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,24,teams,goals_conceded_team_match,1.6,23,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,25,teams,goals_conceded_team_match,1.7,24,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,26,teams,goals_conceded_team_match,1.7,24,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,27,teams,goals_conceded_team_match,1.7,24,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,28,teams,goals_conceded_team_match,1.8,25,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,1,teams,goals_conceded_team_match,0.6,5,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,2,teams,goals_conceded_team_match,0.7,5,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,3,teams,goals_conceded_team_match,0.7,6,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,4,teams,goals_conceded_team_match,0.8,6,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,5,teams,goals_conceded_team_match,0.9,6,Argentina Copa de la Liga,2021
+10076,10076,River Plate,6,teams,goals_conceded_team_match,0.9,7,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,7,teams,goals_conceded_team_match,1.0,7,Argentina Copa de la Liga,2021
+10078,10078,Independiente,8,teams,goals_conceded_team_match,1.0,9,Argentina Copa de la Liga,2021
+10088,10088,Colon,9,teams,goals_conceded_team_match,1.0,10,Argentina Copa de la Liga,2021
+10096,10096,Union,10,teams,goals_conceded_team_match,1.1,8,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,11,teams,goals_conceded_team_match,1.1,8,Argentina Copa de la Liga,2021
+10087,10087,Banfield,12,teams,goals_conceded_team_match,1.1,8,Argentina Copa de la Liga,2021
+10101,10101,Talleres,13,teams,goals_conceded_team_match,1.1,9,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,14,teams,goals_conceded_team_match,1.1,11,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,15,teams,goals_conceded_team_match,1.3,9,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,16,teams,goals_conceded_team_match,1.3,9,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,17,teams,goals_conceded_team_match,1.4,10,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,18,teams,goals_conceded_team_match,1.4,10,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,19,teams,goals_conceded_team_match,1.4,10,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,20,teams,goals_conceded_team_match,1.6,11,Argentina Copa de la Liga,2021
+10082,10082,Lanus,21,teams,goals_conceded_team_match,1.6,11,Argentina Copa de la Liga,2021
+10081,10081,Huracan,22,teams,goals_conceded_team_match,1.6,11,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,23,teams,goals_conceded_team_match,1.7,12,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,24,teams,goals_conceded_team_match,1.7,12,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,25,teams,goals_conceded_team_match,1.9,13,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,26,teams,goals_conceded_team_match,2.1,15,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,1,teams,goals_conceded_team_match,0.6,16,Argentina Primera Division,2024
+10078,10078,Independiente,2,teams,goals_conceded_team_match,0.6,17,Argentina Primera Division,2024
+10081,10081,Huracan,3,teams,goals_conceded_team_match,0.7,18,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,4,teams,goals_conceded_team_match,0.7,18,Argentina Primera Division,2024
+10076,10076,River Plate,5,teams,goals_conceded_team_match,0.8,21,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,6,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2024
+10077,10077,Boca Juniors,7,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,8,teams,goals_conceded_team_match,0.9,25,Argentina Primera Division,2024
+10096,10096,Union,9,teams,goals_conceded_team_match,1.0,26,Argentina Primera Division,2024
+10083,10083,San Lorenzo,10,teams,goals_conceded_team_match,1.0,26,Argentina Primera Division,2024
+10101,10101,Talleres,11,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,12,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,13,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2024
+202757,202757,Sarmiento,14,teams,goals_conceded_team_match,1.0,28,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,15,teams,goals_conceded_team_match,1.0,28,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,16,teams,goals_conceded_team_match,1.0,28,Argentina Primera Division,2024
+89396,89396,Tigre,17,teams,goals_conceded_team_match,1.1,30,Argentina Primera Division,2024
+10084,10084,Rosario Central,18,teams,goals_conceded_team_match,1.1,30,Argentina Primera Division,2024
+10080,10080,Racing Club,19,teams,goals_conceded_team_match,1.1,30,Argentina Primera Division,2024
+10082,10082,Lanus,20,teams,goals_conceded_team_match,1.1,31,Argentina Primera Division,2024
+10090,10090,Instituto,21,teams,goals_conceded_team_match,1.1,31,Argentina Primera Division,2024
+10092,10092,Belgrano,22,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,23,teams,goals_conceded_team_match,1.2,33,Argentina Primera Division,2024
+213534,213534,Barracas Central,24,teams,goals_conceded_team_match,1.2,33,Argentina Primera Division,2024
+10094,10094,Estudiantes,25,teams,goals_conceded_team_match,1.3,34,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,26,teams,goals_conceded_team_match,1.3,35,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,27,teams,goals_conceded_team_match,1.3,36,Argentina Primera Division,2024
+10087,10087,Banfield,28,teams,goals_conceded_team_match,1.3,36,Argentina Primera Division,2024
+10083,10083,San Lorenzo,1,teams,goals_conceded_team_match,0.5,13,Argentina Primera Division,2023
+10076,10076,River Plate,2,teams,goals_conceded_team_match,0.7,20,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,3,teams,goals_conceded_team_match,0.8,22,Argentina Primera Division,2023
+10101,10101,Talleres,4,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,5,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,6,teams,goals_conceded_team_match,0.9,24,Argentina Primera Division,2023
+10094,10094,Estudiantes,7,teams,goals_conceded_team_match,0.9,24,Argentina Primera Division,2023
+10077,10077,Boca Juniors,8,teams,goals_conceded_team_match,0.9,24,Argentina Primera Division,2023
+10096,10096,Union,9,teams,goals_conceded_team_match,0.9,25,Argentina Primera Division,2023
+202757,202757,Sarmiento,10,teams,goals_conceded_team_match,1.0,26,Argentina Primera Division,2023
+10092,10092,Belgrano,11,teams,goals_conceded_team_match,1.0,26,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,12,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2023
+10082,10082,Lanus,13,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,14,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2023
+89396,89396,Tigre,15,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2023
+10084,10084,Rosario Central,16,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2023
+10081,10081,Huracan,17,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,18,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,19,teams,goals_conceded_team_match,1.1,30,Argentina Primera Division,2023
+213534,213534,Barracas Central,20,teams,goals_conceded_team_match,1.1,30,Argentina Primera Division,2023
+10078,10078,Independiente,21,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,22,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2023
+10087,10087,Banfield,23,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2023
+10088,10088,Colon,24,teams,goals_conceded_team_match,1.2,33,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,25,teams,goals_conceded_team_match,1.3,34,Argentina Primera Division,2023
+10080,10080,Racing Club,26,teams,goals_conceded_team_match,1.3,35,Argentina Primera Division,2023
+10090,10090,Instituto,27,teams,goals_conceded_team_match,1.3,35,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,28,teams,goals_conceded_team_match,1.4,38,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,1,teams,goals_conceded_team_match,0.7,18,Argentina Primera Division,2022
+10081,10081,Huracan,2,teams,goals_conceded_team_match,0.8,21,Argentina Primera Division,2022
+10076,10076,River Plate,3,teams,goals_conceded_team_match,0.8,22,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,4,teams,goals_conceded_team_match,0.8,22,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,5,teams,goals_conceded_team_match,0.8,22,Argentina Primera Division,2022
+10083,10083,San Lorenzo,6,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2022
+10080,10080,Racing Club,7,teams,goals_conceded_team_match,0.9,24,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,8,teams,goals_conceded_team_match,0.9,24,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,9,teams,goals_conceded_team_match,0.9,25,Argentina Primera Division,2022
+10101,10101,Talleres,10,teams,goals_conceded_team_match,1.0,26,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,11,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,12,teams,goals_conceded_team_match,1.0,27,Argentina Primera Division,2022
+10084,10084,Rosario Central,13,teams,goals_conceded_team_match,1.0,28,Argentina Primera Division,2022
+10077,10077,Boca Juniors,14,teams,goals_conceded_team_match,1.0,28,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,15,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2022
+10087,10087,Banfield,16,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,17,teams,goals_conceded_team_match,1.1,29,Argentina Primera Division,2022
+10078,10078,Independiente,18,teams,goals_conceded_team_match,1.1,31,Argentina Primera Division,2022
+89396,89396,Tigre,19,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2022
+202757,202757,Sarmiento,20,teams,goals_conceded_team_match,1.2,32,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,21,teams,goals_conceded_team_match,1.2,33,Argentina Primera Division,2022
+10096,10096,Union,22,teams,goals_conceded_team_match,1.3,36,Argentina Primera Division,2022
+10088,10088,Colon,23,teams,goals_conceded_team_match,1.3,36,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,24,teams,goals_conceded_team_match,1.4,37,Argentina Primera Division,2022
+213534,213534,Barracas Central,25,teams,goals_conceded_team_match,1.4,37,Argentina Primera Division,2022
+10082,10082,Lanus,26,teams,goals_conceded_team_match,1.5,40,Argentina Primera Division,2022
+10094,10094,Estudiantes,27,teams,goals_conceded_team_match,1.5,40,Argentina Primera Division,2022
+161728,161728,Aldosivi,28,teams,goals_conceded_team_match,1.8,48,Argentina Primera Division,2022
+10076,10076,River Plate,1,teams,goals_conceded_team_match,0.8,19,Argentina Primera Division,2021
+10077,10077,Boca Juniors,2,teams,goals_conceded_team_match,0.8,19,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,3,teams,goals_conceded_team_match,0.8,21,Argentina Primera Division,2021
+10080,10080,Racing Club,4,teams,goals_conceded_team_match,0.9,23,Argentina Primera Division,2021
+10078,10078,Independiente,5,teams,goals_conceded_team_match,1.0,24,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,6,teams,goals_conceded_team_match,1.0,24,Argentina Primera Division,2021
+10087,10087,Banfield,7,teams,goals_conceded_team_match,1.0,24,Argentina Primera Division,2021
+10081,10081,Huracan,8,teams,goals_conceded_team_match,1.0,25,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,9,teams,goals_conceded_team_match,1.0,25,Argentina Primera Division,2021
+10101,10101,Talleres,10,teams,goals_conceded_team_match,1.1,28,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,11,teams,goals_conceded_team_match,1.1,28,Argentina Primera Division,2021
+10094,10094,Estudiantes,12,teams,goals_conceded_team_match,1.2,30,Argentina Primera Division,2021
+10088,10088,Colon,13,teams,goals_conceded_team_match,1.2,31,Argentina Primera Division,2021
+10096,10096,Union,14,teams,goals_conceded_team_match,1.3,32,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,15,teams,goals_conceded_team_match,1.3,32,Argentina Primera Division,2021
+202757,202757,Sarmiento,16,teams,goals_conceded_team_match,1.3,33,Argentina Primera Division,2021
+10083,10083,San Lorenzo,17,teams,goals_conceded_team_match,1.3,33,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,18,teams,goals_conceded_team_match,1.3,33,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,19,teams,goals_conceded_team_match,1.4,34,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,20,teams,goals_conceded_team_match,1.4,35,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,21,teams,goals_conceded_team_match,1.4,36,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,22,teams,goals_conceded_team_match,1.4,36,Argentina Primera Division,2021
+161728,161728,Aldosivi,23,teams,goals_conceded_team_match,1.6,39,Argentina Primera Division,2021
+10084,10084,Rosario Central,24,teams,goals_conceded_team_match,1.6,41,Argentina Primera Division,2021
+10082,10082,Lanus,25,teams,goals_conceded_team_match,1.7,43,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,26,teams,goals_conceded_team_match,1.8,46,Argentina Primera Division,2021

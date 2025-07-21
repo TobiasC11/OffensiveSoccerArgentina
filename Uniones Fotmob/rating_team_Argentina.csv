@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,rating_team,7.11,0.0,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,2,teams,rating_team,7.0,0.0,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,3,teams,rating_team,6.99,0.0,Argentina Copa de la Liga,2024
+10101,10101,Talleres,4,teams,rating_team,6.99,0.0,Argentina Copa de la Liga,2024
+10082,10082,Lanus,5,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,6,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,7,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,8,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,9,teams,rating_team,6.91,0.0,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,10,teams,rating_team,6.9,0.0,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,11,teams,rating_team,6.89,0.0,Argentina Copa de la Liga,2024
+10078,10078,Independiente,12,teams,rating_team,6.88,0.0,Argentina Copa de la Liga,2024
+10081,10081,Huracan,13,teams,rating_team,6.84,0.0,Argentina Copa de la Liga,2024
+10096,10096,Union,14,teams,rating_team,6.84,0.0,Argentina Copa de la Liga,2024
+10087,10087,Banfield,15,teams,rating_team,6.81,0.0,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,16,teams,rating_team,6.81,0.0,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,17,teams,rating_team,6.78,0.0,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,18,teams,rating_team,6.77,0.0,Argentina Copa de la Liga,2024
+10090,10090,Instituto,19,teams,rating_team,6.76,0.0,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,20,teams,rating_team,6.74,0.0,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,21,teams,rating_team,6.74,0.0,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,22,teams,rating_team,6.7,0.0,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,23,teams,rating_team,6.69,0.0,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,24,teams,rating_team,6.64,0.0,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,25,teams,rating_team,6.62,0.0,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,26,teams,rating_team,6.56,0.0,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,27,teams,rating_team,6.54,0.0,Argentina Copa de la Liga,2024
+89396,89396,Tigre,28,teams,rating_team,6.48,0.0,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,rating_team,7.04,0.0,Argentina Copa de la Liga,2023
+10087,10087,Banfield,2,teams,rating_team,7.03,0.0,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,3,teams,rating_team,7.02,0.0,Argentina Copa de la Liga,2023
+10078,10078,Independiente,4,teams,rating_team,7.0,0.0,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,5,teams,rating_team,7.0,0.0,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,6,teams,rating_team,6.99,0.0,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,7,teams,rating_team,6.98,0.0,Argentina Copa de la Liga,2023
+10101,10101,Talleres,8,teams,rating_team,6.97,0.0,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,9,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2023
+10081,10081,Huracan,10,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2023
+10090,10090,Instituto,11,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,12,teams,rating_team,6.87,0.0,Argentina Copa de la Liga,2023
+89396,89396,Tigre,13,teams,rating_team,6.86,0.0,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,14,teams,rating_team,6.86,0.0,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,15,teams,rating_team,6.86,0.0,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,16,teams,rating_team,6.83,0.0,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,17,teams,rating_team,6.83,0.0,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,18,teams,rating_team,6.82,0.0,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,19,teams,rating_team,6.82,0.0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,20,teams,rating_team,6.82,0.0,Argentina Copa de la Liga,2023
+10096,10096,Union,21,teams,rating_team,6.82,0.0,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,22,teams,rating_team,6.81,0.0,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,23,teams,rating_team,6.78,0.0,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,24,teams,rating_team,6.78,0.0,Argentina Copa de la Liga,2023
+10088,10088,Colon,25,teams,rating_team,6.77,0.0,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,26,teams,rating_team,6.76,0.0,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,27,teams,rating_team,6.72,0.0,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,28,teams,rating_team,6.64,0.0,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,1,teams,rating_team,7.17,0.0,Argentina Copa de la Liga,2022
+10076,10076,River Plate,2,teams,rating_team,7.14,0.0,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,3,teams,rating_team,7.07,0.0,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,4,teams,rating_team,6.99,0.0,Argentina Copa de la Liga,2022
+89396,89396,Tigre,5,teams,rating_team,6.99,0.0,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,6,teams,rating_team,6.98,0.0,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,7,teams,rating_team,6.94,0.0,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,8,teams,rating_team,6.91,0.0,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,9,teams,rating_team,6.88,0.0,Argentina Copa de la Liga,2022
+10081,10081,Huracan,10,teams,rating_team,6.88,0.0,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,11,teams,rating_team,6.88,0.0,Argentina Copa de la Liga,2022
+10087,10087,Banfield,12,teams,rating_team,6.86,0.0,Argentina Copa de la Liga,2022
+10082,10082,Lanus,13,teams,rating_team,6.84,0.0,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,14,teams,rating_team,6.83,0.0,Argentina Copa de la Liga,2022
+10088,10088,Colon,15,teams,rating_team,6.83,0.0,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,16,teams,rating_team,6.82,0.0,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,17,teams,rating_team,6.81,0.0,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,18,teams,rating_team,6.81,0.0,Argentina Copa de la Liga,2022
+10078,10078,Independiente,19,teams,rating_team,6.78,0.0,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,20,teams,rating_team,6.77,0.0,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,21,teams,rating_team,6.74,0.0,Argentina Copa de la Liga,2022
+10096,10096,Union,22,teams,rating_team,6.73,0.0,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,23,teams,rating_team,6.68,0.0,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,24,teams,rating_team,6.66,0.0,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,25,teams,rating_team,6.63,0.0,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,26,teams,rating_team,6.63,0.0,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,27,teams,rating_team,6.62,0.0,Argentina Copa de la Liga,2022
+10101,10101,Talleres,28,teams,rating_team,6.62,0.0,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,1,teams,rating_team,7.15,0.0,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,2,teams,rating_team,7.1,0.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,3,teams,rating_team,7.08,0.0,Argentina Copa de la Liga,2021
+10088,10088,Colon,4,teams,rating_team,7.07,0.0,Argentina Copa de la Liga,2021
+10076,10076,River Plate,5,teams,rating_team,7.06,0.0,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,6,teams,rating_team,6.96,0.0,Argentina Copa de la Liga,2021
+10101,10101,Talleres,7,teams,rating_team,6.95,0.0,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,8,teams,rating_team,6.94,0.0,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,9,teams,rating_team,6.93,0.0,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,10,teams,rating_team,6.91,0.0,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,11,teams,rating_team,6.89,0.0,Argentina Copa de la Liga,2021
+10087,10087,Banfield,12,teams,rating_team,6.88,0.0,Argentina Copa de la Liga,2021
+10082,10082,Lanus,13,teams,rating_team,6.87,0.0,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,14,teams,rating_team,6.87,0.0,Argentina Copa de la Liga,2021
+10078,10078,Independiente,15,teams,rating_team,6.86,0.0,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,16,teams,rating_team,6.85,0.0,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,17,teams,rating_team,6.84,0.0,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,18,teams,rating_team,6.79,0.0,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,19,teams,rating_team,6.77,0.0,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,20,teams,rating_team,6.76,0.0,Argentina Copa de la Liga,2021
+10096,10096,Union,21,teams,rating_team,6.73,0.0,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,22,teams,rating_team,6.73,0.0,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,23,teams,rating_team,6.69,0.0,Argentina Copa de la Liga,2021
+10081,10081,Huracan,24,teams,rating_team,6.66,0.0,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,25,teams,rating_team,6.63,0.0,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,26,teams,rating_team,6.45,0.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,1,teams,rating_team,7.06,0.0,Argentina Primera Division,2024
+10076,10076,River Plate,2,teams,rating_team,7.01,0.0,Argentina Primera Division,2024
+10101,10101,Talleres,3,teams,rating_team,6.93,0.0,Argentina Primera Division,2024
+10080,10080,Racing Club,4,teams,rating_team,6.92,0.0,Argentina Primera Division,2024
+10094,10094,Estudiantes,5,teams,rating_team,6.92,0.0,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,6,teams,rating_team,6.9,0.0,Argentina Primera Division,2024
+10082,10082,Lanus,7,teams,rating_team,6.89,0.0,Argentina Primera Division,2024
+10077,10077,Boca Juniors,8,teams,rating_team,6.88,0.0,Argentina Primera Division,2024
+10081,10081,Huracan,9,teams,rating_team,6.88,0.0,Argentina Primera Division,2024
+10078,10078,Independiente,10,teams,rating_team,6.88,0.0,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,11,teams,rating_team,6.88,0.0,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,12,teams,rating_team,6.86,0.0,Argentina Primera Division,2024
+10096,10096,Union,13,teams,rating_team,6.83,0.0,Argentina Primera Division,2024
+89396,89396,Tigre,14,teams,rating_team,6.82,0.0,Argentina Primera Division,2024
+10092,10092,Belgrano,15,teams,rating_team,6.82,0.0,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,16,teams,rating_team,6.8,0.0,Argentina Primera Division,2024
+10084,10084,Rosario Central,17,teams,rating_team,6.79,0.0,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,18,teams,rating_team,6.78,0.0,Argentina Primera Division,2024
+10090,10090,Instituto,19,teams,rating_team,6.78,0.0,Argentina Primera Division,2024
+10083,10083,San Lorenzo,20,teams,rating_team,6.78,0.0,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,21,teams,rating_team,6.76,0.0,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,22,teams,rating_team,6.75,0.0,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,23,teams,rating_team,6.75,0.0,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,24,teams,rating_team,6.74,0.0,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,25,teams,rating_team,6.7,0.0,Argentina Primera Division,2024
+202757,202757,Sarmiento,26,teams,rating_team,6.68,0.0,Argentina Primera Division,2024
+10087,10087,Banfield,27,teams,rating_team,6.65,0.0,Argentina Primera Division,2024
+213534,213534,Barracas Central,28,teams,rating_team,6.65,0.0,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,rating_team,7.18,0.0,Argentina Primera Division,2023
+10101,10101,Talleres,2,teams,rating_team,7.06,0.0,Argentina Primera Division,2023
+10094,10094,Estudiantes,3,teams,rating_team,7.05,0.0,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,4,teams,rating_team,7.01,0.0,Argentina Primera Division,2023
+10084,10084,Rosario Central,5,teams,rating_team,6.96,0.0,Argentina Primera Division,2023
+10082,10082,Lanus,6,teams,rating_team,6.95,0.0,Argentina Primera Division,2023
+89396,89396,Tigre,7,teams,rating_team,6.95,0.0,Argentina Primera Division,2023
+10077,10077,Boca Juniors,8,teams,rating_team,6.95,0.0,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,9,teams,rating_team,6.93,0.0,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,10,teams,rating_team,6.93,0.0,Argentina Primera Division,2023
+10083,10083,San Lorenzo,11,teams,rating_team,6.91,0.0,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,12,teams,rating_team,6.91,0.0,Argentina Primera Division,2023
+213534,213534,Barracas Central,13,teams,rating_team,6.9,0.0,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,14,teams,rating_team,6.89,0.0,Argentina Primera Division,2023
+10080,10080,Racing Club,15,teams,rating_team,6.89,0.0,Argentina Primera Division,2023
+10090,10090,Instituto,16,teams,rating_team,6.88,0.0,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,17,teams,rating_team,6.86,0.0,Argentina Primera Division,2023
+10096,10096,Union,18,teams,rating_team,6.84,0.0,Argentina Primera Division,2023
+202757,202757,Sarmiento,19,teams,rating_team,6.83,0.0,Argentina Primera Division,2023
+10081,10081,Huracan,20,teams,rating_team,6.83,0.0,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,21,teams,rating_team,6.83,0.0,Argentina Primera Division,2023
+10078,10078,Independiente,22,teams,rating_team,6.82,0.0,Argentina Primera Division,2023
+10087,10087,Banfield,23,teams,rating_team,6.82,0.0,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,24,teams,rating_team,6.82,0.0,Argentina Primera Division,2023
+10088,10088,Colon,25,teams,rating_team,6.8,0.0,Argentina Primera Division,2023
+10092,10092,Belgrano,26,teams,rating_team,6.79,0.0,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,27,teams,rating_team,6.78,0.0,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,28,teams,rating_team,6.75,0.0,Argentina Primera Division,2023
+10081,10081,Huracan,1,teams,rating_team,7.08,0.0,Argentina Primera Division,2022
+10076,10076,River Plate,2,teams,rating_team,7.07,0.0,Argentina Primera Division,2022
+10080,10080,Racing Club,3,teams,rating_team,7.06,0.0,Argentina Primera Division,2022
+89396,89396,Tigre,4,teams,rating_team,7.02,0.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,5,teams,rating_team,7.0,0.0,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,6,teams,rating_team,6.99,0.0,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,7,teams,rating_team,6.95,0.0,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,8,teams,rating_team,6.94,0.0,Argentina Primera Division,2022
+10077,10077,Boca Juniors,9,teams,rating_team,6.94,0.0,Argentina Primera Division,2022
+10078,10078,Independiente,10,teams,rating_team,6.93,0.0,Argentina Primera Division,2022
+10083,10083,San Lorenzo,11,teams,rating_team,6.92,0.0,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,12,teams,rating_team,6.9,0.0,Argentina Primera Division,2022
+10094,10094,Estudiantes,13,teams,rating_team,6.9,0.0,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,14,teams,rating_team,6.88,0.0,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,15,teams,rating_team,6.87,0.0,Argentina Primera Division,2022
+10087,10087,Banfield,16,teams,rating_team,6.87,0.0,Argentina Primera Division,2022
+10101,10101,Talleres,17,teams,rating_team,6.87,0.0,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,18,teams,rating_team,6.86,0.0,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,19,teams,rating_team,6.86,0.0,Argentina Primera Division,2022
+213534,213534,Barracas Central,20,teams,rating_team,6.85,0.0,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,21,teams,rating_team,6.85,0.0,Argentina Primera Division,2022
+10088,10088,Colon,22,teams,rating_team,6.83,0.0,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,23,teams,rating_team,6.83,0.0,Argentina Primera Division,2022
+10096,10096,Union,24,teams,rating_team,6.81,0.0,Argentina Primera Division,2022
+202757,202757,Sarmiento,25,teams,rating_team,6.81,0.0,Argentina Primera Division,2022
+10084,10084,Rosario Central,26,teams,rating_team,6.78,0.0,Argentina Primera Division,2022
+10082,10082,Lanus,27,teams,rating_team,6.74,0.0,Argentina Primera Division,2022
+161728,161728,Aldosivi,28,teams,rating_team,6.61,0.0,Argentina Primera Division,2022
+10076,10076,River Plate,1,teams,rating_team,7.23,0.0,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,2,teams,rating_team,7.1,0.0,Argentina Primera Division,2021
+10077,10077,Boca Juniors,3,teams,rating_team,7.07,0.0,Argentina Primera Division,2021
+10101,10101,Talleres,4,teams,rating_team,7.0,0.0,Argentina Primera Division,2021
+10078,10078,Independiente,5,teams,rating_team,6.99,0.0,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,6,teams,rating_team,6.98,0.0,Argentina Primera Division,2021
+10094,10094,Estudiantes,7,teams,rating_team,6.93,0.0,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,8,teams,rating_team,6.92,0.0,Argentina Primera Division,2021
+10082,10082,Lanus,9,teams,rating_team,6.92,0.0,Argentina Primera Division,2021
+10081,10081,Huracan,10,teams,rating_team,6.92,0.0,Argentina Primera Division,2021
+10080,10080,Racing Club,11,teams,rating_team,6.89,0.0,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,12,teams,rating_team,6.88,0.0,Argentina Primera Division,2021
+10087,10087,Banfield,13,teams,rating_team,6.88,0.0,Argentina Primera Division,2021
+10088,10088,Colon,14,teams,rating_team,6.87,0.0,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,15,teams,rating_team,6.86,0.0,Argentina Primera Division,2021
+10096,10096,Union,16,teams,rating_team,6.86,0.0,Argentina Primera Division,2021
+10084,10084,Rosario Central,17,teams,rating_team,6.83,0.0,Argentina Primera Division,2021
+161728,161728,Aldosivi,18,teams,rating_team,6.83,0.0,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,19,teams,rating_team,6.81,0.0,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,20,teams,rating_team,6.8,0.0,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,21,teams,rating_team,6.79,0.0,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,22,teams,rating_team,6.79,0.0,Argentina Primera Division,2021
+202757,202757,Sarmiento,23,teams,rating_team,6.71,0.0,Argentina Primera Division,2021
+10083,10083,San Lorenzo,24,teams,rating_team,6.67,0.0,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,25,teams,rating_team,6.66,0.0,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,26,teams,rating_team,6.65,0.0,Argentina Primera Division,2021

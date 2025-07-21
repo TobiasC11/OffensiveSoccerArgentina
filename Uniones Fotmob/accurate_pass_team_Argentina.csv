@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,accurate_pass_team,404.8,83.2,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,2,teams,accurate_pass_team,365.1,81.2,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,3,teams,accurate_pass_team,334.4,80.1,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,4,teams,accurate_pass_team,326.4,78.0,Argentina Copa de la Liga,2024
+10078,10078,Independiente,5,teams,accurate_pass_team,320.8,77.9,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,6,teams,accurate_pass_team,318.7,78.3,Argentina Copa de la Liga,2024
+89396,89396,Tigre,7,teams,accurate_pass_team,311.6,78.6,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,accurate_pass_team,307.0,77.4,Argentina Copa de la Liga,2024
+10081,10081,Huracan,9,teams,accurate_pass_team,300.6,77.6,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,10,teams,accurate_pass_team,290.8,77.4,Argentina Copa de la Liga,2024
+10101,10101,Talleres,11,teams,accurate_pass_team,290.2,77.4,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,12,teams,accurate_pass_team,281.8,77.0,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,13,teams,accurate_pass_team,276.9,76.6,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,14,teams,accurate_pass_team,273.5,76.6,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,15,teams,accurate_pass_team,273.2,76.3,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,16,teams,accurate_pass_team,266.4,76.1,Argentina Copa de la Liga,2024
+10082,10082,Lanus,17,teams,accurate_pass_team,265.6,74.8,Argentina Copa de la Liga,2024
+10096,10096,Union,18,teams,accurate_pass_team,261.2,73.3,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,19,teams,accurate_pass_team,257.1,74.7,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,20,teams,accurate_pass_team,253.3,73.9,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,21,teams,accurate_pass_team,250.4,74.1,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,22,teams,accurate_pass_team,247.6,72.0,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,23,teams,accurate_pass_team,244.0,72.3,Argentina Copa de la Liga,2024
+10090,10090,Instituto,24,teams,accurate_pass_team,229.8,72.6,Argentina Copa de la Liga,2024
+10087,10087,Banfield,25,teams,accurate_pass_team,225.9,71.3,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,26,teams,accurate_pass_team,225.2,70.0,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,27,teams,accurate_pass_team,212.9,69.2,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,28,teams,accurate_pass_team,134.8,57.2,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,accurate_pass_team,452.9,83.4,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,2,teams,accurate_pass_team,441.9,83.4,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,3,teams,accurate_pass_team,425.8,83.2,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,4,teams,accurate_pass_team,386.4,79.3,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,5,teams,accurate_pass_team,349.3,78.5,Argentina Copa de la Liga,2023
+10101,10101,Talleres,6,teams,accurate_pass_team,336.7,78.4,Argentina Copa de la Liga,2023
+10078,10078,Independiente,7,teams,accurate_pass_team,332.0,76.5,Argentina Copa de la Liga,2023
+89396,89396,Tigre,8,teams,accurate_pass_team,319.9,77.0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,9,teams,accurate_pass_team,304.6,76.3,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,10,teams,accurate_pass_team,294.9,75.9,Argentina Copa de la Liga,2023
+10081,10081,Huracan,11,teams,accurate_pass_team,285.3,75.2,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,12,teams,accurate_pass_team,283.0,72.4,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,13,teams,accurate_pass_team,278.6,76.8,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,14,teams,accurate_pass_team,274.0,72.9,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,15,teams,accurate_pass_team,264.8,72.8,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,16,teams,accurate_pass_team,253.4,73.0,Argentina Copa de la Liga,2023
+10088,10088,Colon,17,teams,accurate_pass_team,252.7,71.5,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,18,teams,accurate_pass_team,250.6,73.7,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,19,teams,accurate_pass_team,247.2,71.4,Argentina Copa de la Liga,2023
+10096,10096,Union,20,teams,accurate_pass_team,245.9,73.9,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,21,teams,accurate_pass_team,243.2,72.5,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,22,teams,accurate_pass_team,236.8,68.6,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,23,teams,accurate_pass_team,215.6,70.3,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,24,teams,accurate_pass_team,215.0,66.2,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,25,teams,accurate_pass_team,213.9,66.7,Argentina Copa de la Liga,2023
+10090,10090,Instituto,26,teams,accurate_pass_team,203.0,65.2,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,27,teams,accurate_pass_team,177.8,62.4,Argentina Copa de la Liga,2023
+10087,10087,Banfield,28,teams,accurate_pass_team,170.5,64.6,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,accurate_pass_team,465.3,80.2,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,2,teams,accurate_pass_team,401.9,80.6,Argentina Copa de la Liga,2022
+10082,10082,Lanus,3,teams,accurate_pass_team,356.1,78.1,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,4,teams,accurate_pass_team,346.2,79.9,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,5,teams,accurate_pass_team,341.4,77.6,Argentina Copa de la Liga,2022
+89396,89396,Tigre,6,teams,accurate_pass_team,334.4,77.6,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,7,teams,accurate_pass_team,334.1,78.3,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,8,teams,accurate_pass_team,326.2,77.1,Argentina Copa de la Liga,2022
+10078,10078,Independiente,9,teams,accurate_pass_team,323.4,78.0,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,10,teams,accurate_pass_team,322.3,76.8,Argentina Copa de la Liga,2022
+10081,10081,Huracan,11,teams,accurate_pass_team,283.9,75.4,Argentina Copa de la Liga,2022
+10088,10088,Colon,12,teams,accurate_pass_team,268.9,72.8,Argentina Copa de la Liga,2022
+10101,10101,Talleres,13,teams,accurate_pass_team,262.4,72.7,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,14,teams,accurate_pass_team,259.2,71.9,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,15,teams,accurate_pass_team,253.9,73.1,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,16,teams,accurate_pass_team,251.6,70.5,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,17,teams,accurate_pass_team,249.9,70.5,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,18,teams,accurate_pass_team,245.9,72.0,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,19,teams,accurate_pass_team,237.9,69.0,Argentina Copa de la Liga,2022
+10096,10096,Union,20,teams,accurate_pass_team,228.9,68.6,Argentina Copa de la Liga,2022
+10087,10087,Banfield,21,teams,accurate_pass_team,220.6,69.7,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,22,teams,accurate_pass_team,219.4,68.4,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,23,teams,accurate_pass_team,215.5,67.5,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,24,teams,accurate_pass_team,207.1,70.4,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,25,teams,accurate_pass_team,203.5,67.2,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,26,teams,accurate_pass_team,203.0,65.1,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,27,teams,accurate_pass_team,197.4,66.3,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,28,teams,accurate_pass_team,172.6,62.3,Argentina Copa de la Liga,2022
+10076,10076,River Plate,1,teams,accurate_pass_team,450.8,80.6,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,2,teams,accurate_pass_team,420.4,78.8,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,3,teams,accurate_pass_team,415.3,80.9,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,4,teams,accurate_pass_team,412.1,81.9,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,5,teams,accurate_pass_team,411.7,81.0,Argentina Copa de la Liga,2021
+10101,10101,Talleres,6,teams,accurate_pass_team,372.1,77.0,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,7,teams,accurate_pass_team,369.3,78.4,Argentina Copa de la Liga,2021
+10082,10082,Lanus,8,teams,accurate_pass_team,365.3,80.6,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,9,teams,accurate_pass_team,330.2,77.8,Argentina Copa de la Liga,2021
+10081,10081,Huracan,10,teams,accurate_pass_team,328.4,77.6,Argentina Copa de la Liga,2021
+10078,10078,Independiente,11,teams,accurate_pass_team,312.4,76.3,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,12,teams,accurate_pass_team,290.0,72.4,Argentina Copa de la Liga,2021
+10096,10096,Union,13,teams,accurate_pass_team,284.9,74.4,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,14,teams,accurate_pass_team,284.4,74.9,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,15,teams,accurate_pass_team,283.6,72.9,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,16,teams,accurate_pass_team,261.7,73.7,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,17,teams,accurate_pass_team,256.3,71.0,Argentina Copa de la Liga,2021
+10088,10088,Colon,18,teams,accurate_pass_team,245.6,70.7,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,19,teams,accurate_pass_team,244.6,70.3,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,20,teams,accurate_pass_team,240.6,70.0,Argentina Copa de la Liga,2021
+10087,10087,Banfield,21,teams,accurate_pass_team,240.0,71.9,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,22,teams,accurate_pass_team,233.7,66.7,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,23,teams,accurate_pass_team,231.0,70.8,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,24,teams,accurate_pass_team,226.3,67.8,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,25,teams,accurate_pass_team,213.1,68.3,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,26,teams,accurate_pass_team,204.1,66.8,Argentina Copa de la Liga,2021
+10076,10076,River Plate,1,teams,accurate_pass_team,440.0,82.5,Argentina Primera Division,2024
+10094,10094,Estudiantes,2,teams,accurate_pass_team,366.7,79.8,Argentina Primera Division,2024
+10101,10101,Talleres,3,teams,accurate_pass_team,349.0,81.0,Argentina Primera Division,2024
+10077,10077,Boca Juniors,4,teams,accurate_pass_team,348.6,80.9,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,5,teams,accurate_pass_team,336.5,78.9,Argentina Primera Division,2024
+89396,89396,Tigre,6,teams,accurate_pass_team,330.3,78.3,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,7,teams,accurate_pass_team,324.0,78.5,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,8,teams,accurate_pass_team,322.8,77.8,Argentina Primera Division,2024
+10080,10080,Racing Club,9,teams,accurate_pass_team,320.3,77.9,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,10,teams,accurate_pass_team,301.8,75.5,Argentina Primera Division,2024
+10082,10082,Lanus,11,teams,accurate_pass_team,298.3,77.3,Argentina Primera Division,2024
+10083,10083,San Lorenzo,12,teams,accurate_pass_team,286.4,75.8,Argentina Primera Division,2024
+10092,10092,Belgrano,13,teams,accurate_pass_team,276.1,75.8,Argentina Primera Division,2024
+10081,10081,Huracan,14,teams,accurate_pass_team,273.7,74.1,Argentina Primera Division,2024
+10084,10084,Rosario Central,15,teams,accurate_pass_team,273.4,74.2,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,16,teams,accurate_pass_team,272.4,75.4,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,17,teams,accurate_pass_team,268.1,72.6,Argentina Primera Division,2024
+10078,10078,Independiente,18,teams,accurate_pass_team,266.3,74.5,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,19,teams,accurate_pass_team,261.3,75.0,Argentina Primera Division,2024
+10096,10096,Union,20,teams,accurate_pass_team,257.7,73.7,Argentina Primera Division,2024
+10090,10090,Instituto,21,teams,accurate_pass_team,251.2,72.4,Argentina Primera Division,2024
+213534,213534,Barracas Central,22,teams,accurate_pass_team,239.8,72.4,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,23,teams,accurate_pass_team,233.9,68.6,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,24,teams,accurate_pass_team,221.4,70.7,Argentina Primera Division,2024
+10087,10087,Banfield,25,teams,accurate_pass_team,218.6,71.8,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,26,teams,accurate_pass_team,180.4,64.0,Argentina Primera Division,2024
+202757,202757,Sarmiento,27,teams,accurate_pass_team,173.6,64.4,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,28,teams,accurate_pass_team,129.8,56.5,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,accurate_pass_team,448.1,83.1,Argentina Primera Division,2023
+10077,10077,Boca Juniors,2,teams,accurate_pass_team,404.4,82.8,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,3,teams,accurate_pass_team,379.5,79.0,Argentina Primera Division,2023
+10080,10080,Racing Club,4,teams,accurate_pass_team,377.8,80.5,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,5,teams,accurate_pass_team,372.8,80.6,Argentina Primera Division,2023
+89396,89396,Tigre,6,teams,accurate_pass_team,338.7,78.1,Argentina Primera Division,2023
+10094,10094,Estudiantes,7,teams,accurate_pass_team,336.0,77.1,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,8,teams,accurate_pass_team,300.2,76.3,Argentina Primera Division,2023
+10101,10101,Talleres,9,teams,accurate_pass_team,299.6,76.4,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,10,teams,accurate_pass_team,297.7,76.3,Argentina Primera Division,2023
+10083,10083,San Lorenzo,11,teams,accurate_pass_team,284.8,77.9,Argentina Primera Division,2023
+10081,10081,Huracan,12,teams,accurate_pass_team,282.1,74.3,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,13,teams,accurate_pass_team,269.9,73.7,Argentina Primera Division,2023
+10092,10092,Belgrano,14,teams,accurate_pass_team,269.8,75.0,Argentina Primera Division,2023
+10082,10082,Lanus,15,teams,accurate_pass_team,269.0,74.8,Argentina Primera Division,2023
+10090,10090,Instituto,16,teams,accurate_pass_team,266.0,71.2,Argentina Primera Division,2023
+10088,10088,Colon,17,teams,accurate_pass_team,259.1,72.6,Argentina Primera Division,2023
+213534,213534,Barracas Central,18,teams,accurate_pass_team,254.8,70.2,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,19,teams,accurate_pass_team,254.6,71.5,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,20,teams,accurate_pass_team,253.4,72.8,Argentina Primera Division,2023
+10096,10096,Union,21,teams,accurate_pass_team,247.6,72.4,Argentina Primera Division,2023
+10084,10084,Rosario Central,22,teams,accurate_pass_team,242.3,73.6,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,23,teams,accurate_pass_team,234.3,69.0,Argentina Primera Division,2023
+10078,10078,Independiente,24,teams,accurate_pass_team,230.3,69.8,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,25,teams,accurate_pass_team,213.6,68.0,Argentina Primera Division,2023
+10087,10087,Banfield,26,teams,accurate_pass_team,212.6,69.0,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,27,teams,accurate_pass_team,211.1,66.9,Argentina Primera Division,2023
+202757,202757,Sarmiento,28,teams,accurate_pass_team,168.8,63.1,Argentina Primera Division,2023
+10076,10076,River Plate,1,teams,accurate_pass_team,412.3,79.7,Argentina Primera Division,2022
+10080,10080,Racing Club,2,teams,accurate_pass_team,393.6,79.8,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,3,teams,accurate_pass_team,367.0,78.7,Argentina Primera Division,2022
+10077,10077,Boca Juniors,4,teams,accurate_pass_team,363.0,80.3,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,5,teams,accurate_pass_team,353.2,76.8,Argentina Primera Division,2022
+89396,89396,Tigre,6,teams,accurate_pass_team,314.0,75.9,Argentina Primera Division,2022
+10101,10101,Talleres,7,teams,accurate_pass_team,303.1,76.1,Argentina Primera Division,2022
+10078,10078,Independiente,8,teams,accurate_pass_team,296.2,74.8,Argentina Primera Division,2022
+10094,10094,Estudiantes,9,teams,accurate_pass_team,295.2,72.9,Argentina Primera Division,2022
+10082,10082,Lanus,10,teams,accurate_pass_team,295.1,75.0,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,11,teams,accurate_pass_team,287.0,73.7,Argentina Primera Division,2022
+10081,10081,Huracan,12,teams,accurate_pass_team,285.3,73.0,Argentina Primera Division,2022
+10083,10083,San Lorenzo,13,teams,accurate_pass_team,274.5,74.3,Argentina Primera Division,2022
+161728,161728,Aldosivi,14,teams,accurate_pass_team,265.7,70.8,Argentina Primera Division,2022
+10087,10087,Banfield,15,teams,accurate_pass_team,264.5,72.2,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,16,teams,accurate_pass_team,257.9,72.7,Argentina Primera Division,2022
+10084,10084,Rosario Central,17,teams,accurate_pass_team,250.1,71.9,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,18,teams,accurate_pass_team,249.4,70.5,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,19,teams,accurate_pass_team,247.7,71.2,Argentina Primera Division,2022
+10096,10096,Union,20,teams,accurate_pass_team,244.3,70.6,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,21,teams,accurate_pass_team,239.1,69.3,Argentina Primera Division,2022
+10088,10088,Colon,22,teams,accurate_pass_team,237.7,69.1,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,23,teams,accurate_pass_team,237.5,70.2,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,24,teams,accurate_pass_team,215.7,64.9,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,25,teams,accurate_pass_team,215.0,67.2,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,26,teams,accurate_pass_team,214.8,65.0,Argentina Primera Division,2022
+213534,213534,Barracas Central,27,teams,accurate_pass_team,189.0,62.3,Argentina Primera Division,2022
+202757,202757,Sarmiento,28,teams,accurate_pass_team,161.1,61.5,Argentina Primera Division,2022
+10076,10076,River Plate,1,teams,accurate_pass_team,453.4,82.0,Argentina Primera Division,2021
+10077,10077,Boca Juniors,2,teams,accurate_pass_team,408.8,82.0,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,3,teams,accurate_pass_team,404.2,81.8,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,4,teams,accurate_pass_team,385.2,78.8,Argentina Primera Division,2021
+10080,10080,Racing Club,5,teams,accurate_pass_team,376.6,80.4,Argentina Primera Division,2021
+10078,10078,Independiente,6,teams,accurate_pass_team,373.0,80.5,Argentina Primera Division,2021
+10101,10101,Talleres,7,teams,accurate_pass_team,324.3,77.7,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,8,teams,accurate_pass_team,320.3,76.8,Argentina Primera Division,2021
+10084,10084,Rosario Central,9,teams,accurate_pass_team,306.8,77.2,Argentina Primera Division,2021
+161728,161728,Aldosivi,10,teams,accurate_pass_team,306.5,75.4,Argentina Primera Division,2021
+10088,10088,Colon,11,teams,accurate_pass_team,295.1,74.6,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,12,teams,accurate_pass_team,290.8,73.5,Argentina Primera Division,2021
+10083,10083,San Lorenzo,13,teams,accurate_pass_team,290.3,75.6,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,14,teams,accurate_pass_team,283.8,73.9,Argentina Primera Division,2021
+10087,10087,Banfield,15,teams,accurate_pass_team,281.8,74.4,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,16,teams,accurate_pass_team,276.2,72.7,Argentina Primera Division,2021
+10082,10082,Lanus,17,teams,accurate_pass_team,270.0,73.8,Argentina Primera Division,2021
+10081,10081,Huracan,18,teams,accurate_pass_team,256.8,72.9,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,19,teams,accurate_pass_team,252.1,71.6,Argentina Primera Division,2021
+10094,10094,Estudiantes,20,teams,accurate_pass_team,250.9,70.9,Argentina Primera Division,2021
+10096,10096,Union,21,teams,accurate_pass_team,247.2,71.9,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,22,teams,accurate_pass_team,240.5,70.8,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,23,teams,accurate_pass_team,234.6,70.6,Argentina Primera Division,2021
+202757,202757,Sarmiento,24,teams,accurate_pass_team,232.4,68.0,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,25,teams,accurate_pass_team,214.5,67.2,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,26,teams,accurate_pass_team,205.7,66.8,Argentina Primera Division,2021

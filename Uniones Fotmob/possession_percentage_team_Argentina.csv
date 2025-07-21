@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10076,10076,River Plate,1,teams,possession_percentage_team,61.5,28,Argentina Copa de la Liga,2024
+10078,10078,Independiente,2,teams,possession_percentage_team,57.0,14,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,3,teams,possession_percentage_team,56.5,24,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,4,teams,possession_percentage_team,55.4,24,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,5,teams,possession_percentage_team,54.6,26,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,6,teams,possession_percentage_team,53.9,24,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,7,teams,possession_percentage_team,53.1,17,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,8,teams,possession_percentage_team,52.6,17,Argentina Copa de la Liga,2024
+10081,10081,Huracan,9,teams,possession_percentage_team,52.4,12,Argentina Copa de la Liga,2024
+10101,10101,Talleres,10,teams,possession_percentage_team,51.3,24,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,11,teams,possession_percentage_team,50.6,8,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,12,teams,possession_percentage_team,50.4,13,Argentina Copa de la Liga,2024
+89396,89396,Tigre,13,teams,possession_percentage_team,50.4,7,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,14,teams,possession_percentage_team,49.7,18,Argentina Copa de la Liga,2024
+10096,10096,Union,15,teams,possession_percentage_team,49.6,16,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,16,teams,possession_percentage_team,49.6,10,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,17,teams,possession_percentage_team,49.4,13,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,18,teams,possession_percentage_team,49.4,10,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,19,teams,possession_percentage_team,49.0,19,Argentina Copa de la Liga,2024
+10082,10082,Lanus,20,teams,possession_percentage_team,48.3,20,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,21,teams,possession_percentage_team,47.3,18,Argentina Copa de la Liga,2024
+10090,10090,Instituto,22,teams,possession_percentage_team,47.2,18,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,23,teams,possession_percentage_team,47.0,10,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,24,teams,possession_percentage_team,45.1,10,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,25,teams,possession_percentage_team,44.7,20,Argentina Copa de la Liga,2024
+10087,10087,Banfield,26,teams,possession_percentage_team,43.8,14,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,27,teams,possession_percentage_team,41.8,9,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,28,teams,possession_percentage_team,34.7,8,Argentina Copa de la Liga,2024
+10076,10076,River Plate,1,teams,possession_percentage_team,65.9,26,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,2,teams,possession_percentage_team,62.3,17,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,3,teams,possession_percentage_team,62.1,24,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,4,teams,possession_percentage_team,61.7,19,Argentina Copa de la Liga,2023
+10101,10101,Talleres,5,teams,possession_percentage_team,56.8,15,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,6,teams,possession_percentage_team,54.9,11,Argentina Copa de la Liga,2023
+10078,10078,Independiente,7,teams,possession_percentage_team,54.2,15,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,8,teams,possession_percentage_team,53.8,14,Argentina Copa de la Liga,2023
+89396,89396,Tigre,9,teams,possession_percentage_team,53.3,8,Argentina Copa de la Liga,2023
+10082,10082,Lanus,10,teams,possession_percentage_team,50.8,9,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,11,teams,possession_percentage_team,50.3,15,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,12,teams,possession_percentage_team,50.1,12,Argentina Copa de la Liga,2023
+10081,10081,Huracan,13,teams,possession_percentage_team,49.8,20,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,14,teams,possession_percentage_team,48.3,17,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,15,teams,possession_percentage_team,48.1,11,Argentina Copa de la Liga,2023
+10088,10088,Colon,16,teams,possession_percentage_team,47.5,19,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,17,teams,possession_percentage_team,47.4,10,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,18,teams,possession_percentage_team,46.5,21,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,19,teams,possession_percentage_team,46.2,9,Argentina Copa de la Liga,2023
+10096,10096,Union,20,teams,possession_percentage_team,45.8,10,Argentina Copa de la Liga,2023
+10090,10090,Instituto,21,teams,possession_percentage_team,44.8,11,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,22,teams,possession_percentage_team,44.5,20,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,23,teams,possession_percentage_team,44.4,14,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,24,teams,possession_percentage_team,44.4,10,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,25,teams,possession_percentage_team,43.8,11,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,26,teams,possession_percentage_team,42.9,8,Argentina Copa de la Liga,2023
+10089,10089,Club Atletico Platense,27,teams,possession_percentage_team,41.5,15,Argentina Copa de la Liga,2023
+10087,10087,Banfield,28,teams,possession_percentage_team,39.3,11,Argentina Copa de la Liga,2023
+10076,10076,River Plate,1,teams,possession_percentage_team,66.0,32,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,2,teams,possession_percentage_team,61.7,30,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,3,teams,possession_percentage_team,57.0,23,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,4,teams,possession_percentage_team,56.7,24,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,5,teams,possession_percentage_team,56.5,16,Argentina Copa de la Liga,2022
+10078,10078,Independiente,6,teams,possession_percentage_team,54.5,17,Argentina Copa de la Liga,2022
+10082,10082,Lanus,7,teams,possession_percentage_team,54.5,17,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,8,teams,possession_percentage_team,53.1,13,Argentina Copa de la Liga,2022
+89396,89396,Tigre,9,teams,possession_percentage_team,52.2,20,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,10,teams,possession_percentage_team,52.0,26,Argentina Copa de la Liga,2022
+10081,10081,Huracan,11,teams,possession_percentage_team,51.5,17,Argentina Copa de la Liga,2022
+10101,10101,Talleres,12,teams,possession_percentage_team,51.0,9,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,13,teams,possession_percentage_team,50.6,21,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,14,teams,possession_percentage_team,47.8,17,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,15,teams,possession_percentage_team,47.8,15,Argentina Copa de la Liga,2022
+10088,10088,Colon,16,teams,possession_percentage_team,47.7,18,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,17,teams,possession_percentage_team,47.4,10,Argentina Copa de la Liga,2022
+10096,10096,Union,18,teams,possession_percentage_team,47.3,11,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,19,teams,possession_percentage_team,46.2,17,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,20,teams,possession_percentage_team,45.7,13,Argentina Copa de la Liga,2022
+10087,10087,Banfield,21,teams,possession_percentage_team,45.6,18,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,22,teams,possession_percentage_team,45.2,24,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,23,teams,possession_percentage_team,45.0,17,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,24,teams,possession_percentage_team,44.2,34,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,25,teams,possession_percentage_team,43.6,12,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,26,teams,possession_percentage_team,42.6,20,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,27,teams,possession_percentage_team,41.1,17,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,28,teams,possession_percentage_team,40.2,17,Argentina Copa de la Liga,2022
+10076,10076,River Plate,1,teams,possession_percentage_team,64.0,14,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,2,teams,possession_percentage_team,62.9,5,Argentina Copa de la Liga,2021
+10101,10101,Talleres,3,teams,possession_percentage_team,60.1,14,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,4,teams,possession_percentage_team,59.7,10,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,5,teams,possession_percentage_team,59.5,15,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,6,teams,possession_percentage_team,54.6,10,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,7,teams,possession_percentage_team,54.3,10,Argentina Copa de la Liga,2021
+10081,10081,Huracan,8,teams,possession_percentage_team,54.0,8,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,9,teams,possession_percentage_team,53.7,4,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,10,teams,possession_percentage_team,53.6,8,Argentina Copa de la Liga,2021
+10082,10082,Lanus,11,teams,possession_percentage_team,53.0,11,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,12,teams,possession_percentage_team,49.6,6,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,13,teams,possession_percentage_team,49.3,15,Argentina Copa de la Liga,2021
+10227,10227,Godoy Cruz,14,teams,possession_percentage_team,47.7,10,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,15,teams,possession_percentage_team,47.1,6,Argentina Copa de la Liga,2021
+10078,10078,Independiente,16,teams,possession_percentage_team,46.7,6,Argentina Copa de la Liga,2021
+10096,10096,Union,17,teams,possession_percentage_team,46.4,4,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,18,teams,possession_percentage_team,44.1,3,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,19,teams,possession_percentage_team,43.9,12,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,20,teams,possession_percentage_team,43.5,9,Argentina Copa de la Liga,2021
+10088,10088,Colon,21,teams,possession_percentage_team,43.4,17,Argentina Copa de la Liga,2021
+10087,10087,Banfield,22,teams,possession_percentage_team,43.0,7,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,23,teams,possession_percentage_team,41.5,11,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,24,teams,possession_percentage_team,41.3,4,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,25,teams,possession_percentage_team,40.8,10,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,26,teams,possession_percentage_team,38.7,9,Argentina Copa de la Liga,2021
+10076,10076,River Plate,1,teams,possession_percentage_team,65.5,38,Argentina Primera Division,2024
+10077,10077,Boca Juniors,2,teams,possession_percentage_team,56.4,30,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,3,teams,possession_percentage_team,56.3,22,Argentina Primera Division,2024
+10094,10094,Estudiantes,4,teams,possession_percentage_team,56.1,36,Argentina Primera Division,2024
+10101,10101,Talleres,5,teams,possession_percentage_team,55.5,34,Argentina Primera Division,2024
+10080,10080,Racing Club,6,teams,possession_percentage_team,55.4,42,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,7,teams,possession_percentage_team,54.2,27,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,8,teams,possession_percentage_team,53.9,38,Argentina Primera Division,2024
+10083,10083,San Lorenzo,9,teams,possession_percentage_team,53.4,20,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,10,teams,possession_percentage_team,52.6,29,Argentina Primera Division,2024
+89396,89396,Tigre,11,teams,possession_percentage_team,52.0,27,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,12,teams,possession_percentage_team,51.5,22,Argentina Primera Division,2024
+10084,10084,Rosario Central,13,teams,possession_percentage_team,51.0,27,Argentina Primera Division,2024
+10078,10078,Independiente,14,teams,possession_percentage_team,50.9,25,Argentina Primera Division,2024
+10103,10103,Gimnasia LP,15,teams,possession_percentage_team,50.0,21,Argentina Primera Division,2024
+10082,10082,Lanus,16,teams,possession_percentage_team,49.9,28,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,17,teams,possession_percentage_team,49.5,31,Argentina Primera Division,2024
+10096,10096,Union,18,teams,possession_percentage_team,48.8,27,Argentina Primera Division,2024
+10092,10092,Belgrano,19,teams,possession_percentage_team,48.4,33,Argentina Primera Division,2024
+10090,10090,Instituto,20,teams,possession_percentage_team,48.3,32,Argentina Primera Division,2024
+10081,10081,Huracan,21,teams,possession_percentage_team,48.2,28,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,22,teams,possession_percentage_team,47.8,28,Argentina Primera Division,2024
+213534,213534,Barracas Central,23,teams,possession_percentage_team,45.8,15,Argentina Primera Division,2024
+10087,10087,Banfield,24,teams,possession_percentage_team,45.2,22,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,25,teams,possession_percentage_team,44.6,23,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,26,teams,possession_percentage_team,40.3,20,Argentina Primera Division,2024
+202757,202757,Sarmiento,27,teams,possession_percentage_team,36.9,18,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,28,teams,possession_percentage_team,31.4,26,Argentina Primera Division,2024
+10076,10076,River Plate,1,teams,possession_percentage_team,63.9,50,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,2,teams,possession_percentage_team,61.2,31,Argentina Primera Division,2023
+10080,10080,Racing Club,3,teams,possession_percentage_team,59.6,36,Argentina Primera Division,2023
+10077,10077,Boca Juniors,4,teams,possession_percentage_team,59.5,33,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,5,teams,possession_percentage_team,58.7,24,Argentina Primera Division,2023
+89396,89396,Tigre,6,teams,possession_percentage_team,55.1,27,Argentina Primera Division,2023
+10094,10094,Estudiantes,7,teams,possession_percentage_team,53.5,35,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,8,teams,possession_percentage_team,52.0,24,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,9,teams,possession_percentage_team,50.3,36,Argentina Primera Division,2023
+10081,10081,Huracan,10,teams,possession_percentage_team,50.1,18,Argentina Primera Division,2023
+10101,10101,Talleres,11,teams,possession_percentage_team,49.8,42,Argentina Primera Division,2023
+10090,10090,Instituto,12,teams,possession_percentage_team,49.7,24,Argentina Primera Division,2023
+213534,213534,Barracas Central,13,teams,possession_percentage_team,49.1,25,Argentina Primera Division,2023
+10092,10092,Belgrano,14,teams,possession_percentage_team,48.5,20,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,15,teams,possession_percentage_team,48.3,37,Argentina Primera Division,2023
+10078,10078,Independiente,16,teams,possession_percentage_team,47.2,23,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,17,teams,possession_percentage_team,47.1,24,Argentina Primera Division,2023
+10082,10082,Lanus,18,teams,possession_percentage_team,47.0,38,Argentina Primera Division,2023
+10083,10083,San Lorenzo,19,teams,possession_percentage_team,46.9,23,Argentina Primera Division,2023
+10096,10096,Union,20,teams,possession_percentage_team,46.9,19,Argentina Primera Division,2023
+10084,10084,Rosario Central,21,teams,possession_percentage_team,46.8,36,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,22,teams,possession_percentage_team,46.7,25,Argentina Primera Division,2023
+10088,10088,Colon,23,teams,possession_percentage_team,46.7,20,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,24,teams,possession_percentage_team,45.9,18,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,25,teams,possession_percentage_team,44.5,26,Argentina Primera Division,2023
+10087,10087,Banfield,26,teams,possession_percentage_team,44.4,21,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,27,teams,possession_percentage_team,43.6,20,Argentina Primera Division,2023
+202757,202757,Sarmiento,28,teams,possession_percentage_team,36.8,23,Argentina Primera Division,2023
+10080,10080,Racing Club,1,teams,possession_percentage_team,62.3,41,Argentina Primera Division,2022
+10076,10076,River Plate,2,teams,possession_percentage_team,61.3,43,Argentina Primera Division,2022
+10077,10077,Boca Juniors,3,teams,possession_percentage_team,58.7,34,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,4,teams,possession_percentage_team,58.4,30,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,5,teams,possession_percentage_team,57.7,33,Argentina Primera Division,2022
+10094,10094,Estudiantes,6,teams,possession_percentage_team,52.5,28,Argentina Primera Division,2022
+10101,10101,Talleres,7,teams,possession_percentage_team,52.3,28,Argentina Primera Division,2022
+10081,10081,Huracan,8,teams,possession_percentage_team,52.0,35,Argentina Primera Division,2022
+89396,89396,Tigre,9,teams,possession_percentage_team,51.7,41,Argentina Primera Division,2022
+10078,10078,Independiente,10,teams,possession_percentage_team,51.2,31,Argentina Primera Division,2022
+10087,10087,Banfield,11,teams,possession_percentage_team,50.9,23,Argentina Primera Division,2022
+10084,10084,Rosario Central,12,teams,possession_percentage_team,50.1,24,Argentina Primera Division,2022
+161728,161728,Aldosivi,13,teams,possession_percentage_team,50.0,16,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,14,teams,possession_percentage_team,49.8,29,Argentina Primera Division,2022
+10082,10082,Lanus,15,teams,possession_percentage_team,49.7,22,Argentina Primera Division,2022
+10096,10096,Union,16,teams,possession_percentage_team,48.8,28,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,17,teams,possession_percentage_team,48.2,31,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,18,teams,possession_percentage_team,47.8,25,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,19,teams,possession_percentage_team,46.5,34,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,20,teams,possession_percentage_team,46.3,23,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,21,teams,possession_percentage_team,46.0,26,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,22,teams,possession_percentage_team,45.9,32,Argentina Primera Division,2022
+10083,10083,San Lorenzo,23,teams,possession_percentage_team,45.8,33,Argentina Primera Division,2022
+10088,10088,Colon,24,teams,possession_percentage_team,45.3,24,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,25,teams,possession_percentage_team,44.4,26,Argentina Primera Division,2022
+213534,213534,Barracas Central,26,teams,possession_percentage_team,44.2,31,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,27,teams,possession_percentage_team,44.0,28,Argentina Primera Division,2022
+202757,202757,Sarmiento,28,teams,possession_percentage_team,38.2,27,Argentina Primera Division,2022
+10076,10076,River Plate,1,teams,possession_percentage_team,62.7,53,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,2,teams,possession_percentage_team,59.8,26,Argentina Primera Division,2021
+10077,10077,Boca Juniors,3,teams,possession_percentage_team,59.2,35,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,4,teams,possession_percentage_team,58.2,34,Argentina Primera Division,2021
+10080,10080,Racing Club,5,teams,possession_percentage_team,56.6,24,Argentina Primera Division,2021
+10101,10101,Talleres,6,teams,possession_percentage_team,53.8,38,Argentina Primera Division,2021
+10078,10078,Independiente,7,teams,possession_percentage_team,53.6,27,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,8,teams,possession_percentage_team,52.5,35,Argentina Primera Division,2021
+10084,10084,Rosario Central,9,teams,possession_percentage_team,52.1,39,Argentina Primera Division,2021
+10087,10087,Banfield,10,teams,possession_percentage_team,51.7,20,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,11,teams,possession_percentage_team,50.8,43,Argentina Primera Division,2021
+10088,10088,Colon,12,teams,possession_percentage_team,50.4,26,Argentina Primera Division,2021
+161728,161728,Aldosivi,13,teams,possession_percentage_team,50.0,29,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,14,teams,possession_percentage_team,49.4,24,Argentina Primera Division,2021
+10083,10083,San Lorenzo,15,teams,possession_percentage_team,48.4,23,Argentina Primera Division,2021
+10082,10082,Lanus,16,teams,possession_percentage_team,48.2,44,Argentina Primera Division,2021
+10081,10081,Huracan,17,teams,possession_percentage_team,47.5,28,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,18,teams,possession_percentage_team,47.3,22,Argentina Primera Division,2021
+10096,10096,Union,19,teams,possession_percentage_team,46.0,32,Argentina Primera Division,2021
+202757,202757,Sarmiento,20,teams,possession_percentage_team,45.3,23,Argentina Primera Division,2021
+10094,10094,Estudiantes,21,teams,possession_percentage_team,45.0,43,Argentina Primera Division,2021
+10103,10103,Gimnasia LP,22,teams,possession_percentage_team,44.6,27,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,23,teams,possession_percentage_team,44.1,12,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,24,teams,possession_percentage_team,43.1,30,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,25,teams,possession_percentage_team,40.7,23,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,26,teams,possession_percentage_team,38.9,36,Argentina Primera Division,2021

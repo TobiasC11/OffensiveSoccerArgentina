@@ -1,0 +1,221 @@
+id,teamId,team_name,rank,type,stat_name,value,sub_value,League,Season
+10089,10089,Club Atletico Platense,1,teams,won_tackle_team,14.2,59.1,Argentina Copa de la Liga,2024
+10083,10083,San Lorenzo,2,teams,won_tackle_team,13.7,67.1,Argentina Copa de la Liga,2024
+10094,10094,Estudiantes,3,teams,won_tackle_team,13.6,64.3,Argentina Copa de la Liga,2024
+10090,10090,Instituto,4,teams,won_tackle_team,13.3,64.4,Argentina Copa de la Liga,2024
+161727,161727,Atletico Tucuman,5,teams,won_tackle_team,12.3,61.2,Argentina Copa de la Liga,2024
+10101,10101,Talleres,6,teams,won_tackle_team,12.2,64.3,Argentina Copa de la Liga,2024
+10079,10079,Velez Sarsfield,7,teams,won_tackle_team,12.2,59.8,Argentina Copa de la Liga,2024
+10201,10201,Newell's Old Boys,8,teams,won_tackle_team,12.1,69.3,Argentina Copa de la Liga,2024
+89396,89396,Tigre,9,teams,won_tackle_team,12.1,64.2,Argentina Copa de la Liga,2024
+10103,10103,Gimnasia LP,10,teams,won_tackle_team,11.9,60.7,Argentina Copa de la Liga,2024
+10087,10087,Banfield,11,teams,won_tackle_team,11.8,62.7,Argentina Copa de la Liga,2024
+10227,10227,Godoy Cruz,12,teams,won_tackle_team,11.8,61.0,Argentina Copa de la Liga,2024
+10084,10084,Rosario Central,13,teams,won_tackle_team,11.7,58.8,Argentina Copa de la Liga,2024
+10080,10080,Racing Club,14,teams,won_tackle_team,11.6,58.0,Argentina Copa de la Liga,2024
+10082,10082,Lanus,15,teams,won_tackle_team,11.5,59.4,Argentina Copa de la Liga,2024
+10076,10076,River Plate,16,teams,won_tackle_team,11.4,62.2,Argentina Copa de la Liga,2024
+10092,10092,Belgrano,17,teams,won_tackle_team,11.3,56.6,Argentina Copa de la Liga,2024
+10078,10078,Independiente,18,teams,won_tackle_team,11.1,60.1,Argentina Copa de la Liga,2024
+213596,213596,Central Cordoba de Santiago,19,teams,won_tackle_team,11.0,61.6,Argentina Copa de la Liga,2024
+213534,213534,Barracas Central,20,teams,won_tackle_team,10.9,59.4,Argentina Copa de la Liga,2024
+161730,161730,Defensa y Justicia,21,teams,won_tackle_team,10.7,60.5,Argentina Copa de la Liga,2024
+10096,10096,Union,22,teams,won_tackle_team,10.6,61.2,Argentina Copa de la Liga,2024
+161729,161729,Independiente Rivadavia,23,teams,won_tackle_team,10.6,59.4,Argentina Copa de la Liga,2024
+202757,202757,Sarmiento,24,teams,won_tackle_team,10.6,58.0,Argentina Copa de la Liga,2024
+10086,10086,Argentinos Juniors,25,teams,won_tackle_team,10.5,57.7,Argentina Copa de la Liga,2024
+298629,298629,Deportivo Riestra,26,teams,won_tackle_team,10.4,59.6,Argentina Copa de la Liga,2024
+10081,10081,Huracan,27,teams,won_tackle_team,10.4,56.4,Argentina Copa de la Liga,2024
+10077,10077,Boca Juniors,28,teams,won_tackle_team,10.1,60.5,Argentina Copa de la Liga,2024
+10089,10089,Club Atletico Platense,1,teams,won_tackle_team,13.7,61.5,Argentina Copa de la Liga,2023
+161727,161727,Atletico Tucuman,2,teams,won_tackle_team,13.4,68.1,Argentina Copa de la Liga,2023
+10078,10078,Independiente,3,teams,won_tackle_team,12.9,63.6,Argentina Copa de la Liga,2023
+10076,10076,River Plate,4,teams,won_tackle_team,12.8,70.4,Argentina Copa de la Liga,2023
+10092,10092,Belgrano,5,teams,won_tackle_team,12.8,64.0,Argentina Copa de la Liga,2023
+10101,10101,Talleres,6,teams,won_tackle_team,12.6,63.9,Argentina Copa de la Liga,2023
+10090,10090,Instituto,7,teams,won_tackle_team,12.6,62.4,Argentina Copa de la Liga,2023
+213596,213596,Central Cordoba de Santiago,8,teams,won_tackle_team,12.2,66.0,Argentina Copa de la Liga,2023
+10087,10087,Banfield,9,teams,won_tackle_team,12.1,63.5,Argentina Copa de la Liga,2023
+10094,10094,Estudiantes,10,teams,won_tackle_team,11.9,61.0,Argentina Copa de la Liga,2023
+10082,10082,Lanus,11,teams,won_tackle_team,11.6,63.2,Argentina Copa de la Liga,2023
+10079,10079,Velez Sarsfield,12,teams,won_tackle_team,11.5,64.4,Argentina Copa de la Liga,2023
+10103,10103,Gimnasia LP,13,teams,won_tackle_team,11.3,54.3,Argentina Copa de la Liga,2023
+10227,10227,Godoy Cruz,14,teams,won_tackle_team,11.1,61.6,Argentina Copa de la Liga,2023
+202757,202757,Sarmiento,15,teams,won_tackle_team,11.1,59.3,Argentina Copa de la Liga,2023
+10081,10081,Huracan,16,teams,won_tackle_team,11.1,55.7,Argentina Copa de la Liga,2023
+10098,10098,Arsenal Sarandi,17,teams,won_tackle_team,11.0,54.2,Argentina Copa de la Liga,2023
+10086,10086,Argentinos Juniors,18,teams,won_tackle_team,10.9,68.3,Argentina Copa de la Liga,2023
+10088,10088,Colon,19,teams,won_tackle_team,10.7,59.4,Argentina Copa de la Liga,2023
+213534,213534,Barracas Central,20,teams,won_tackle_team,10.5,60.2,Argentina Copa de la Liga,2023
+10083,10083,San Lorenzo,21,teams,won_tackle_team,10.4,66.2,Argentina Copa de la Liga,2023
+10080,10080,Racing Club,22,teams,won_tackle_team,10.3,61.8,Argentina Copa de la Liga,2023
+10096,10096,Union,23,teams,won_tackle_team,10.3,57.1,Argentina Copa de la Liga,2023
+10077,10077,Boca Juniors,24,teams,won_tackle_team,10.2,61.4,Argentina Copa de la Liga,2023
+10084,10084,Rosario Central,25,teams,won_tackle_team,10.1,61.6,Argentina Copa de la Liga,2023
+89396,89396,Tigre,26,teams,won_tackle_team,10.1,59.2,Argentina Copa de la Liga,2023
+161730,161730,Defensa y Justicia,27,teams,won_tackle_team,9.4,63.8,Argentina Copa de la Liga,2023
+10201,10201,Newell's Old Boys,28,teams,won_tackle_team,9.2,57.6,Argentina Copa de la Liga,2023
+89396,89396,Tigre,1,teams,won_tackle_team,13.5,62.3,Argentina Copa de la Liga,2022
+10084,10084,Rosario Central,2,teams,won_tackle_team,12.7,66.2,Argentina Copa de la Liga,2022
+207875,207875,Patronato de Parana,3,teams,won_tackle_team,12.5,62.3,Argentina Copa de la Liga,2022
+10079,10079,Velez Sarsfield,4,teams,won_tackle_team,12.5,58.3,Argentina Copa de la Liga,2022
+10103,10103,Gimnasia LP,5,teams,won_tackle_team,12.1,63.1,Argentina Copa de la Liga,2022
+10098,10098,Arsenal Sarandi,6,teams,won_tackle_team,12.1,62.1,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,7,teams,won_tackle_team,12.1,59.5,Argentina Copa de la Liga,2022
+10076,10076,River Plate,8,teams,won_tackle_team,11.7,60.6,Argentina Copa de la Liga,2022
+10080,10080,Racing Club,9,teams,won_tackle_team,11.4,60.5,Argentina Copa de la Liga,2022
+10077,10077,Boca Juniors,10,teams,won_tackle_team,11.3,61.3,Argentina Copa de la Liga,2022
+10094,10094,Estudiantes,11,teams,won_tackle_team,11.2,61.8,Argentina Copa de la Liga,2022
+10087,10087,Banfield,12,teams,won_tackle_team,11.1,68.1,Argentina Copa de la Liga,2022
+10086,10086,Argentinos Juniors,13,teams,won_tackle_team,11.1,64.4,Argentina Copa de la Liga,2022
+213596,213596,Central Cordoba de Santiago,14,teams,won_tackle_team,11.1,62.0,Argentina Copa de la Liga,2022
+10201,10201,Newell's Old Boys,15,teams,won_tackle_team,11.1,61.5,Argentina Copa de la Liga,2022
+161728,161728,Aldosivi,16,teams,won_tackle_team,11.0,60.4,Argentina Copa de la Liga,2022
+10083,10083,San Lorenzo,17,teams,won_tackle_team,11.0,55.2,Argentina Copa de la Liga,2022
+10078,10078,Independiente,18,teams,won_tackle_team,10.9,66.5,Argentina Copa de la Liga,2022
+10081,10081,Huracan,19,teams,won_tackle_team,10.9,58.0,Argentina Copa de la Liga,2022
+10082,10082,Lanus,20,teams,won_tackle_team,10.9,54.8,Argentina Copa de la Liga,2022
+10089,10089,Club Atletico Platense,21,teams,won_tackle_team,10.8,62.4,Argentina Copa de la Liga,2022
+10088,10088,Colon,22,teams,won_tackle_team,10.4,58.9,Argentina Copa de la Liga,2022
+161730,161730,Defensa y Justicia,23,teams,won_tackle_team,10.0,62.0,Argentina Copa de la Liga,2022
+10101,10101,Talleres,24,teams,won_tackle_team,9.6,57.7,Argentina Copa de la Liga,2022
+161727,161727,Atletico Tucuman,25,teams,won_tackle_team,9.6,56.5,Argentina Copa de la Liga,2022
+213534,213534,Barracas Central,26,teams,won_tackle_team,9.1,54.9,Argentina Copa de la Liga,2022
+10096,10096,Union,27,teams,won_tackle_team,8.9,57.1,Argentina Copa de la Liga,2022
+202757,202757,Sarmiento,28,teams,won_tackle_team,8.1,57.9,Argentina Copa de la Liga,2022
+10227,10227,Godoy Cruz,1,teams,won_tackle_team,14.9,65.8,Argentina Copa de la Liga,2021
+202757,202757,Sarmiento,2,teams,won_tackle_team,12.9,57.7,Argentina Copa de la Liga,2021
+10098,10098,Arsenal Sarandi,3,teams,won_tackle_team,12.4,60.8,Argentina Copa de la Liga,2021
+207875,207875,Patronato de Parana,4,teams,won_tackle_team,12.1,62.0,Argentina Copa de la Liga,2021
+10079,10079,Velez Sarsfield,5,teams,won_tackle_team,12.0,61.5,Argentina Copa de la Liga,2021
+10201,10201,Newell's Old Boys,6,teams,won_tackle_team,11.4,65.6,Argentina Copa de la Liga,2021
+10083,10083,San Lorenzo,7,teams,won_tackle_team,11.0,67.0,Argentina Copa de la Liga,2021
+10086,10086,Argentinos Juniors,8,teams,won_tackle_team,11.0,63.6,Argentina Copa de la Liga,2021
+10082,10082,Lanus,9,teams,won_tackle_team,10.7,60.5,Argentina Copa de la Liga,2021
+10101,10101,Talleres,10,teams,won_tackle_team,10.6,60.3,Argentina Copa de la Liga,2021
+10081,10081,Huracan,11,teams,won_tackle_team,10.3,58.5,Argentina Copa de la Liga,2021
+10088,10088,Colon,12,teams,won_tackle_team,10.3,55.4,Argentina Copa de la Liga,2021
+10089,10089,Club Atletico Platense,13,teams,won_tackle_team,9.9,64.5,Argentina Copa de la Liga,2021
+10084,10084,Rosario Central,14,teams,won_tackle_team,9.9,62.2,Argentina Copa de la Liga,2021
+10080,10080,Racing Club,15,teams,won_tackle_team,9.9,59.3,Argentina Copa de la Liga,2021
+10096,10096,Union,16,teams,won_tackle_team,9.7,53.5,Argentina Copa de la Liga,2021
+161727,161727,Atletico Tucuman,17,teams,won_tackle_team,9.4,60.6,Argentina Copa de la Liga,2021
+213596,213596,Central Cordoba de Santiago,18,teams,won_tackle_team,9.4,60.0,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,19,teams,won_tackle_team,9.1,55.2,Argentina Copa de la Liga,2021
+10087,10087,Banfield,20,teams,won_tackle_team,9.0,58.3,Argentina Copa de la Liga,2021
+10076,10076,River Plate,21,teams,won_tackle_team,8.9,59.7,Argentina Copa de la Liga,2021
+161728,161728,Aldosivi,22,teams,won_tackle_team,8.9,48.4,Argentina Copa de la Liga,2021
+10078,10078,Independiente,23,teams,won_tackle_team,8.8,62.7,Argentina Copa de la Liga,2021
+10094,10094,Estudiantes,24,teams,won_tackle_team,8.8,56.5,Argentina Copa de la Liga,2021
+161730,161730,Defensa y Justicia,25,teams,won_tackle_team,8.4,57.8,Argentina Copa de la Liga,2021
+10077,10077,Boca Juniors,26,teams,won_tackle_team,6.9,48.8,Argentina Copa de la Liga,2021
+10103,10103,Gimnasia LP,1,teams,won_tackle_team,15.3,69.8,Argentina Primera Division,2024
+10089,10089,Club Atletico Platense,2,teams,won_tackle_team,14.2,63.6,Argentina Primera Division,2024
+10087,10087,Banfield,3,teams,won_tackle_team,13.0,63.8,Argentina Primera Division,2024
+10083,10083,San Lorenzo,4,teams,won_tackle_team,12.7,65.9,Argentina Primera Division,2024
+10081,10081,Huracan,5,teams,won_tackle_team,12.7,65.3,Argentina Primera Division,2024
+10227,10227,Godoy Cruz,6,teams,won_tackle_team,12.5,66.5,Argentina Primera Division,2024
+10076,10076,River Plate,7,teams,won_tackle_team,12.4,66.1,Argentina Primera Division,2024
+161727,161727,Atletico Tucuman,8,teams,won_tackle_team,12.3,62.2,Argentina Primera Division,2024
+10084,10084,Rosario Central,9,teams,won_tackle_team,12.2,66.1,Argentina Primera Division,2024
+10096,10096,Union,10,teams,won_tackle_team,11.9,64.1,Argentina Primera Division,2024
+298629,298629,Deportivo Riestra,11,teams,won_tackle_team,11.8,63.5,Argentina Primera Division,2024
+10077,10077,Boca Juniors,12,teams,won_tackle_team,11.7,64.7,Argentina Primera Division,2024
+161729,161729,Independiente Rivadavia,13,teams,won_tackle_team,11.6,68.4,Argentina Primera Division,2024
+10080,10080,Racing Club,14,teams,won_tackle_team,11.4,65.6,Argentina Primera Division,2024
+213596,213596,Central Cordoba de Santiago,15,teams,won_tackle_team,11.4,63.1,Argentina Primera Division,2024
+10201,10201,Newell's Old Boys,16,teams,won_tackle_team,11.3,64.9,Argentina Primera Division,2024
+10101,10101,Talleres,17,teams,won_tackle_team,11.2,63.8,Argentina Primera Division,2024
+213534,213534,Barracas Central,18,teams,won_tackle_team,11.2,59.4,Argentina Primera Division,2024
+10078,10078,Independiente,19,teams,won_tackle_team,11.1,65.7,Argentina Primera Division,2024
+10094,10094,Estudiantes,20,teams,won_tackle_team,11.1,62.1,Argentina Primera Division,2024
+89396,89396,Tigre,21,teams,won_tackle_team,11.1,61.4,Argentina Primera Division,2024
+10086,10086,Argentinos Juniors,22,teams,won_tackle_team,11.1,59.1,Argentina Primera Division,2024
+10092,10092,Belgrano,23,teams,won_tackle_team,10.9,60.5,Argentina Primera Division,2024
+10079,10079,Velez Sarsfield,24,teams,won_tackle_team,10.9,60.5,Argentina Primera Division,2024
+202757,202757,Sarmiento,25,teams,won_tackle_team,10.9,60.0,Argentina Primera Division,2024
+10090,10090,Instituto,26,teams,won_tackle_team,10.5,65.4,Argentina Primera Division,2024
+10082,10082,Lanus,27,teams,won_tackle_team,10.4,61.2,Argentina Primera Division,2024
+161730,161730,Defensa y Justicia,28,teams,won_tackle_team,9.9,61.2,Argentina Primera Division,2024
+10087,10087,Banfield,1,teams,won_tackle_team,13.7,65.3,Argentina Primera Division,2023
+10103,10103,Gimnasia LP,2,teams,won_tackle_team,13.4,65.7,Argentina Primera Division,2023
+10078,10078,Independiente,3,teams,won_tackle_team,13.2,66.0,Argentina Primera Division,2023
+10096,10096,Union,4,teams,won_tackle_team,13.0,62.2,Argentina Primera Division,2023
+10084,10084,Rosario Central,5,teams,won_tackle_team,12.6,62.1,Argentina Primera Division,2023
+10076,10076,River Plate,6,teams,won_tackle_team,12.4,69.6,Argentina Primera Division,2023
+10089,10089,Club Atletico Platense,7,teams,won_tackle_team,12.4,62.4,Argentina Primera Division,2023
+10079,10079,Velez Sarsfield,8,teams,won_tackle_team,12.3,63.7,Argentina Primera Division,2023
+202757,202757,Sarmiento,9,teams,won_tackle_team,12.1,63.6,Argentina Primera Division,2023
+161727,161727,Atletico Tucuman,10,teams,won_tackle_team,12.1,63.4,Argentina Primera Division,2023
+10081,10081,Huracan,11,teams,won_tackle_team,12.1,62.8,Argentina Primera Division,2023
+10088,10088,Colon,12,teams,won_tackle_team,12.0,61.2,Argentina Primera Division,2023
+10090,10090,Instituto,13,teams,won_tackle_team,11.8,64.2,Argentina Primera Division,2023
+213534,213534,Barracas Central,14,teams,won_tackle_team,11.7,62.5,Argentina Primera Division,2023
+213596,213596,Central Cordoba de Santiago,15,teams,won_tackle_team,11.6,61.6,Argentina Primera Division,2023
+10077,10077,Boca Juniors,16,teams,won_tackle_team,11.4,64.1,Argentina Primera Division,2023
+10094,10094,Estudiantes,17,teams,won_tackle_team,11.4,63.6,Argentina Primera Division,2023
+10098,10098,Arsenal Sarandi,18,teams,won_tackle_team,11.4,61.7,Argentina Primera Division,2023
+10227,10227,Godoy Cruz,19,teams,won_tackle_team,11.4,59.4,Argentina Primera Division,2023
+10080,10080,Racing Club,20,teams,won_tackle_team,11.3,66.4,Argentina Primera Division,2023
+10086,10086,Argentinos Juniors,21,teams,won_tackle_team,11.3,64.4,Argentina Primera Division,2023
+10092,10092,Belgrano,22,teams,won_tackle_team,11.0,62.8,Argentina Primera Division,2023
+10082,10082,Lanus,23,teams,won_tackle_team,11.0,62.1,Argentina Primera Division,2023
+89396,89396,Tigre,24,teams,won_tackle_team,11.0,60.3,Argentina Primera Division,2023
+10101,10101,Talleres,25,teams,won_tackle_team,10.7,65.6,Argentina Primera Division,2023
+161730,161730,Defensa y Justicia,26,teams,won_tackle_team,10.7,58.8,Argentina Primera Division,2023
+10083,10083,San Lorenzo,27,teams,won_tackle_team,10.6,63.7,Argentina Primera Division,2023
+10201,10201,Newell's Old Boys,28,teams,won_tackle_team,9.9,63.0,Argentina Primera Division,2023
+10087,10087,Banfield,1,teams,won_tackle_team,13.4,61.7,Argentina Primera Division,2022
+10084,10084,Rosario Central,2,teams,won_tackle_team,13.0,60.4,Argentina Primera Division,2022
+161730,161730,Defensa y Justicia,3,teams,won_tackle_team,12.9,61.1,Argentina Primera Division,2022
+10079,10079,Velez Sarsfield,4,teams,won_tackle_team,12.8,58.6,Argentina Primera Division,2022
+10080,10080,Racing Club,5,teams,won_tackle_team,12.7,64.5,Argentina Primera Division,2022
+10081,10081,Huracan,6,teams,won_tackle_team,12.7,60.9,Argentina Primera Division,2022
+10083,10083,San Lorenzo,7,teams,won_tackle_team,12.5,61.4,Argentina Primera Division,2022
+10098,10098,Arsenal Sarandi,8,teams,won_tackle_team,12.5,58.2,Argentina Primera Division,2022
+10089,10089,Club Atletico Platense,9,teams,won_tackle_team,12.3,59.4,Argentina Primera Division,2022
+10082,10082,Lanus,10,teams,won_tackle_team,12.2,59.8,Argentina Primera Division,2022
+10096,10096,Union,11,teams,won_tackle_team,12.1,58.0,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,12,teams,won_tackle_team,12.1,57.4,Argentina Primera Division,2022
+161727,161727,Atletico Tucuman,13,teams,won_tackle_team,12.0,61.7,Argentina Primera Division,2022
+10076,10076,River Plate,14,teams,won_tackle_team,12.0,61.1,Argentina Primera Division,2022
+161728,161728,Aldosivi,15,teams,won_tackle_team,12.0,59.6,Argentina Primera Division,2022
+213596,213596,Central Cordoba de Santiago,16,teams,won_tackle_team,11.9,60.2,Argentina Primera Division,2022
+89396,89396,Tigre,17,teams,won_tackle_team,11.9,59.9,Argentina Primera Division,2022
+10201,10201,Newell's Old Boys,18,teams,won_tackle_team,11.7,62.6,Argentina Primera Division,2022
+10227,10227,Godoy Cruz,19,teams,won_tackle_team,11.6,60.7,Argentina Primera Division,2022
+10088,10088,Colon,20,teams,won_tackle_team,11.5,59.7,Argentina Primera Division,2022
+213534,213534,Barracas Central,21,teams,won_tackle_team,11.3,59.0,Argentina Primera Division,2022
+10101,10101,Talleres,22,teams,won_tackle_team,11.2,60.2,Argentina Primera Division,2022
+10077,10077,Boca Juniors,23,teams,won_tackle_team,11.1,60.8,Argentina Primera Division,2022
+202757,202757,Sarmiento,24,teams,won_tackle_team,11.0,58.1,Argentina Primera Division,2022
+207875,207875,Patronato de Parana,25,teams,won_tackle_team,10.9,54.7,Argentina Primera Division,2022
+10078,10078,Independiente,26,teams,won_tackle_team,10.8,56.8,Argentina Primera Division,2022
+10094,10094,Estudiantes,27,teams,won_tackle_team,10.7,59.8,Argentina Primera Division,2022
+10086,10086,Argentinos Juniors,28,teams,won_tackle_team,10.0,57.6,Argentina Primera Division,2022
+10103,10103,Gimnasia LP,1,teams,won_tackle_team,12.4,58.8,Argentina Primera Division,2021
+10081,10081,Huracan,2,teams,won_tackle_team,12.0,60.0,Argentina Primera Division,2021
+161728,161728,Aldosivi,3,teams,won_tackle_team,11.9,61.9,Argentina Primera Division,2021
+10201,10201,Newell's Old Boys,4,teams,won_tackle_team,11.8,60.2,Argentina Primera Division,2021
+10077,10077,Boca Juniors,5,teams,won_tackle_team,11.7,65.4,Argentina Primera Division,2021
+10080,10080,Racing Club,6,teams,won_tackle_team,11.6,62.7,Argentina Primera Division,2021
+10101,10101,Talleres,7,teams,won_tackle_team,11.5,62.9,Argentina Primera Division,2021
+207875,207875,Patronato de Parana,8,teams,won_tackle_team,11.4,60.0,Argentina Primera Division,2021
+10082,10082,Lanus,9,teams,won_tackle_team,11.3,60.1,Argentina Primera Division,2021
+202757,202757,Sarmiento,10,teams,won_tackle_team,11.2,58.5,Argentina Primera Division,2021
+10079,10079,Velez Sarsfield,11,teams,won_tackle_team,11.0,59.1,Argentina Primera Division,2021
+10084,10084,Rosario Central,12,teams,won_tackle_team,10.9,62.7,Argentina Primera Division,2021
+10227,10227,Godoy Cruz,13,teams,won_tackle_team,10.8,63.8,Argentina Primera Division,2021
+161730,161730,Defensa y Justicia,14,teams,won_tackle_team,10.8,59.9,Argentina Primera Division,2021
+161727,161727,Atletico Tucuman,15,teams,won_tackle_team,10.8,59.7,Argentina Primera Division,2021
+10089,10089,Club Atletico Platense,16,teams,won_tackle_team,10.5,59.5,Argentina Primera Division,2021
+10098,10098,Arsenal Sarandi,17,teams,won_tackle_team,10.5,59.4,Argentina Primera Division,2021
+213596,213596,Central Cordoba de Santiago,18,teams,won_tackle_team,10.4,53.6,Argentina Primera Division,2021
+10088,10088,Colon,19,teams,won_tackle_team,10.3,58.9,Argentina Primera Division,2021
+10078,10078,Independiente,20,teams,won_tackle_team,10.2,62.0,Argentina Primera Division,2021
+10096,10096,Union,21,teams,won_tackle_team,10.2,61.8,Argentina Primera Division,2021
+10076,10076,River Plate,22,teams,won_tackle_team,10.2,56.3,Argentina Primera Division,2021
+10094,10094,Estudiantes,23,teams,won_tackle_team,9.8,60.4,Argentina Primera Division,2021
+10087,10087,Banfield,24,teams,won_tackle_team,9.7,55.0,Argentina Primera Division,2021
+10083,10083,San Lorenzo,25,teams,won_tackle_team,9.6,59.3,Argentina Primera Division,2021
+10086,10086,Argentinos Juniors,26,teams,won_tackle_team,9.4,60.3,Argentina Primera Division,2021
