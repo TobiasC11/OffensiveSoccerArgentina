@@ -9,7 +9,7 @@ This analysis explores the characteristics of offensive teams in Argentina's Pro
 
 ---
 
-##⚙️ Methodology
+## ⚙️ Methodology
 
 ### What Is an Offensive Team?
 
