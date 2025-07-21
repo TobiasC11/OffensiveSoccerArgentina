@@ -39,6 +39,8 @@ Teams were classified as *"offensive"* if their index score was above the 65th p
   - Offensive: **52%**
   - Non-offensive: **47.7%**
 
+Resources/Results.png
+
 ---
 
 ### 🔵 Offensive Style
