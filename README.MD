@@ -1,4 +1,4 @@
-# ⚽ What Distinguishes Offensive Teams in the Argentine League?
+# ⚽ What Distinguishes Offensive Soccer Teams in the Argentine League?
 ## Comparative Analysis of Style and Performance (2021–2024)
 
 ---
