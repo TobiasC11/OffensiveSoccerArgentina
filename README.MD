@@ -39,7 +39,7 @@ Teams were classified as *"offensive"* if their index score was above the 65th p
   - Offensive: **52%**
   - Non-offensive: **47.7%**
 
-Resources/Results.png
+<img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/df9d276b-5806-4dd6-b6d8-ee39da219e3f" />
 
 ---
 
